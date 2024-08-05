@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Party Box from Hell</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancestral Recall (HELL)"/>
+        <card number="1" name="Angelic Destiny (HELL)"/>
+        <card number="1" name="Arden Angel (HELL)"/>
+        <card number="1" name="AWOL (HELL)"/>
+        <card number="1" name="Balance (HELL)"/>
+        <card number="1" name="Bill (HELL)"/>
+        <card number="1" name="Blue-Eyes White Dragon (HELL)"/>
+        <card number="1" name="Brainstorm (HELL)"/>
+        <card number="1" name="Cheatyface (HELL)"/>
+        <card number="1" name="Component Collector (HELL)"/>
+        <card number="1" name="Counterbalance (HELL)"/>
+        <card number="1" name="Counterspell (HELL)"/>
+        <card number="1" name="Crow Storm (HELL)"/>
+        <card number="1" name="Cryptic Coat (HELL)"/>
+        <card number="1" name="Curiosity (HELL)"/>
+        <card number="1" name="Cyclonic Rift (HELL)"/>
+        <card number="1" name="Dandân (HELL)"/>
+        <card number="1" name="Dedicated Dollmaker (HELL)"/>
+        <card number="1" name="Delver of Secrets (HELL)"/>
+        <card number="1" name="Disenchant (HELL)"/>
+        <card number="1" name="Doomed Traveler (HELL)"/>
+        <card number="1" name="Eldrazi Conscription (HELL)"/>
+        <card number="1" name="Eldrazi Displacer (HELL)"/>
+        <card number="1" name="Emrakul, the Aeons Torn (HELL)"/>
+        <card number="1" name="Enter the Infinite (HELL)"/>
+        <card number="1" name="Excogitator Sphinx (HELL)"/>
+        <card number="1" name="Fact or Fiction (HELL)"/>
+        <card number="1" name="Fblthp, the Lost (HELL)"/>
+        <card number="1" name="Felidar Guardian (HELL)"/>
+        <card number="1" name="Five-Finger Discount (HELL)"/>
+        <card number="1" name="Force of Will (HELL)"/>
+        <card number="1" name="Form of the Mulldrifter (HELL)"/>
+        <card number="1" name="Geistchanneler (HELL)"/>
+        <card number="1" name="Gitaxian Probe (HELL)"/>
+        <card number="1" name="GO TO JAIL (HELL)"/>
+        <card number="1" name="Grim Patron (HELL)"/>
+        <card number="1" name="Indestructible Aura (HELL)"/>
+        <card number="1" name="Invisible Stalker (HELL)"/>
+        <card number="1" name="Jace, the Mind Sculptor (HELL)"/>
+        <card number="1" name="Karn, the Great Creator (HELL)"/>
+        <card number="1" name="Kiora, the Tide's Fury (HELL)"/>
+        <card number="1" name="Kozilek, Butcher of Truth (HELL)"/>
+        <card number="1" name="Mana Drain (HELL)"/>
+        <card number="1" name="Memory Lapse (HELL)"/>
+        <card number="1" name="Moonwing Moth (HELL)"/>
+        <card number="1" name="Mulldrifter (HELL)"/>
+        <card number="1" name="Negate (HELL)"/>
+        <card number="1" name="Nexus of Fate (HELL)"/>
+        <card number="1" name="Norn's Disassembly (HELL)"/>
+        <card number="1" name="Oglor, Devoted Assistant (HELL)"/>
+        <card number="1" name="Omniscience (HELL)"/>
+        <card number="1" name="Pacifism (HELL)"/>
+        <card number="1" name="Pact of Negation (HELL)"/>
+        <card number="1" name="Phyrexian Vindicator (HELL)"/>
+        <card number="1" name="Pongify (HELL)"/>
+        <card number="1" name="Pot of Greed (HELL)"/>
+        <card number="1" name="Rules Lawyer (HELL)"/>
+        <card number="1" name="Saint Elenda (HELL)"/>
+        <card number="1" name="Séance (HELL)"/>
+        <card number="1" name="Serra Angel (HELL)"/>
+        <card number="1" name="Soul Warden (HELL)"/>
+        <card number="1" name="Soul's Attendant (HELL)"/>
+        <card number="1" name="Standard Procedure (HELL)"/>
+        <card number="1" name="Sun Titan (HELL)"/>
+        <card number="1" name="Suntail Squadron (HELL)"/>
+        <card number="1" name="Swords to Plowshares (HELL)"/>
+        <card number="1" name="Tawnos Endures (HELL)"/>
+        <card number="1" name="Teferi's Protection (HELL)"/>
+        <card number="1" name="Terminus (HELL)"/>
+        <card number="1" name="The Conundrum of Bowls (HELL)"/>
+        <card number="1" name="Thraben Inspector (HELL)"/>
+        <card number="1" name="Treizeci, Sun of Serra (HELL)"/>
+        <card number="1" name="Ulamog, the Infinite Gyre (HELL)"/>
+        <card number="1" name="Vladimir and Godfrey (HELL)"/>
+        <card number="1" name="Wrath of God (HELL)"/>
+        <card number="1" name="Yogg-Saron, Hope's End (HELL)"/>
+        <card number="1" name="Zetalpa, Primal Dawn (HELL)"/>
+        <card number="1" name="Preordain (HELL)"/>
+        <card number="1" name="Reef Worm (HELL)"/>
+        <card number="1" name="Richard Garfield, Ph.D. (HELL)"/>
+        <card number="1" name="Serendib Efreet (HELL)"/>
+        <card number="1" name="Signature Spells (HELL)"/>
+        <card number="1" name="Snapcaster Mage (HELL)"/>
+        <card number="1" name="Solitary Defiance (HELL)"/>
+        <card number="1" name="Storm Crow (HELL)"/>
+        <card number="1" name="Suspend (HELL)"/>
+        <card number="1" name="Temporal Mastery (HELL)"/>
+        <card number="1" name="Time Out (HELL)"/>
+        <card number="1" name="Time Walk (HELL)"/>
+        <card number="1" name="Timetwister (HELL)"/>
+        <card number="1" name="Wandering Ones (HELL)"/>
+        <card number="1" name="Abyssal Persecutor (HELL)"/>
+        <card number="1" name="Assemble from Parts (HELL)"/>
+        <card number="1" name="Bitterblossom (HELL)"/>
+        <card number="1" name="Blood Artist (HELL)"/>
+        <card number="1" name="Bone Rattler (HELL)"/>
+        <card number="1" name="Ad Nauseam (HELL)"/>
+        <card number="1" name="Booster Tutor (HELL)"/>
+        <card number="1" name="Burglar Rat (HELL)"/>
+        <card number="1" name="Chains of Mephistopheles (HELL)"/>
+        <card number="1" name="Chitinous Crawler (HELL)"/>
+        <card number="1" name="Damnation (HELL)"/>
+        <card number="1" name="Dark Magician (HELL)"/>
+        <card number="1" name="Dark Ritual (HELL)"/>
+        <card number="1" name="Davriel, Soul Broker (HELL)"/>
+        <card number="1" name="Doom Blade (HELL)"/>
+        <card number="1" name="Dread Return (HELL)"/>
+        <card number="1" name="Everlasting Lich (HELL)"/>
+        <card number="1" name="Graven Archfiend (HELL)"/>
+        <card number="1" name="Gray Merchant of Asphodel (HELL)"/>
+        <card number="1" name="Griselbrand (HELL)"/>
+        <card number="1" name="Hangman (HELL)"/>
+        <card number="1" name="Hatred (HELL)"/>
+        <card number="1" name="The Hourglass Coven (HELL)"/>
+        <card number="1" name="Dr. Boom (HELL)"/>
+        <card number="1" name="Kami of Mourning (HELL)"/>
+        <card number="1" name="The Black Flame (HELL)"/>
+        <card number="1" name="Mask of Mayhem (HELL)"/>
+        <card number="1" name="Red Reverse (HELL)"/>
+        <card number="1" name="Sever Soul (HELL)"/>
+        <card number="1" name="Twisted Fate (HELL)"/>
+        <card number="1" name="Tidus (HELL)"/>
+        <card number="1" name="Flames of Moradin (HELL)"/>
+        <card number="1" name="Melt Through (HELL)"/>
+        <card number="1" name="Penregon Besieged (HELL)"/>
+        <card number="1" name="Puppet Raiser (HELL)"/>
+        <card number="1" name="Sap Vitality (HELL)"/>
+        <card number="1" name="Perforator Crocodile (HELL)"/>
+        <card number="1" name="Puresteel Angel (HELL)"/>
+        <card number="1" name="Red Herring (HELL)"/>
+        <card number="1" name="Negan, the Cold-Blooded (HELL)"/>
+        <card number="1" name="Generated Horizons (HELL)"/>
+        <card number="1" name="Seek Bolas's Counsel (HELL)"/>
+        <card number="1" name="Overcooked (HELL)"/>
+        <card number="1" name="Rodents of Unusual Size (HELL)"/>
+        <card number="1" name="Phyrexian Harvester (HELL)"/>
+        <card number="1" name="Rothus, the Traveler (HELL)"/>
+        <card number="1" name="Scion of Shiv (HELL)"/>
+        <card number="1" name="Tomakul Phoenix (HELL)"/>
+        <card number="1" name="Foundry Groundbreaker (HELL)"/>
+        <card number="1" name="Giant Regrowth (HELL)"/>
+        <card number="1" name="Marwyn's Kindred (HELL)"/>
+        <card number="1" name="Rothga, Bonded Engulfer (HELL)"/>
+        <card number="1" name="Spawning Pod (HELL)"/>
+        <card number="1" name="Enlightened Strike (HELL)"/>
+        <card number="1" name="Flame Hellscythe (HELL)"/>
+        <card number="1" name="Xenagos's Strike (HELL)"/>
+        <card number="1" name="Blade Dance (HELL)"/>
+        <card number="1" name="Arek, False Goldwarden (HELL)"/>
+        <card number="1" name="Brokers' Safeguard (HELL)"/>
+        <card number="1" name="Bloodsprout Talisman (HELL)"/>
+        <card number="1" name="Cabaretti Revels (HELL)"/>
+        <card number="1" name="Cathartic Operation (HELL)"/>
+        <card number="1" name="Crucias, Titan of the Waves (HELL)"/>
+        <card number="1" name="Darksteel Hydra (HELL)"/>
+        <card number="1" name="Chaos Theory (HELL)"/>
+        <card number="1" name="Diviner of Fates (HELL)"/>
+        <card number="1" name="Effluence Devourer (HELL)"/>
+        <card number="1" name="Emperor Apatzec Intli IV (HELL)"/>
+        <card number="1" name="Furgul, Quag Nurturer (HELL)"/>
+        <card number="1" name="Obscura Polymorphist (HELL)"/>
+        <card number="1" name="Outfitted Jouster (HELL)"/>
+        <card number="1" name="Quicksilver Lapidary (HELL)"/>
+        <card number="1" name="Silent Extraction (HELL)"/>
+        <card number="1" name="Spelldrain Assassin (HELL)"/>
+        <card number="1" name="Eight Fucking Bears (HELL)"/>
+        <card number="1" name="Whimsy (HELL)"/>
+        <card number="1" name="Noxious Fumes (HELL)"/>
+        <card number="1" name="Offering (HELL)"/>
+        <card number="1" name="Outmaneuver (HELL)"/>
+        <card number="1" name="Tempest (HELL)"/>
+        <card number="1" name="Foresight (HELL)"/>
+        <card number="1" name="Weave (HELL)"/>
+        <card number="1" name="Alpha (HELL)"/>
+        <card number="1" name="Vault (HELL)"/>
+        <card number="1" name="Monkey.D.Luffy (HELL)"/>
+        <card number="1" name="Son Goku, The Awakened Power (HELL)"/>
+        <card number="1" name="DeathXmon (HELL)"/>
+        <card number="1" name="Charizard (HELL)"/>
+        <card number="1" name="Albiorix, Goose Tyrant // Wild Goose Chase (HELL)"/>
+        <card number="1" name="Autograph Book (HELL)"/>
+        <card number="1" name="Monastery Swiftspear (HELL)"/>
+        <card number="1" name="Llanowar Elves (HELL)"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker (HELL)"/>
+        <card number="1" name="Inspector Boarder (HELL)"/>
+        <card number="1" name="Gokibore (HELL)"/>
+        <card number="1" name="Black Illusion Ritual (HELL)"/>
+        <card number="1" name="Relinquished (HELL)"/>
+        <card number="1" name="Ebidramon (HELL)"/>
+        <card number="1" name="Motimon (HELL)"/>
+        <card number="1" name="Ai &amp; Mako (HELL)"/>
+        <card number="1" name="Glittering Wish (HELL)"/>
+        <card number="1" name="Heroes of Kamigawa (HELL)"/>
+        <card number="1" name="Last-Minute Chopping (HELL)"/>
+        <card number="1" name="Opening Ceremony (HELL)"/>
+        <card number="1" name="Wish (HELL)"/>
+        <card number="1" name="Spike, Tournament Grinder (HELL)"/>
+        <card number="1" name="Let It Go (HELL)"/>
+        <card number="1" name="R2-D2, Ignoring Protocol (HELL)"/>
+        <card number="1" name="Blob Wheel (HELL)"/>
+        <card number="1" name="Dragon Oracle (HELL)"/>
+        <card number="1" name="Albacore (HELL)"/>
+        <card number="1" name="Mothman (HELL)"/>
+        <card number="1" name="Moon Knight (HELL)"/>
+        <card number="1" name="Mirror Force (HELL)"/>
+        <card number="1" name="Charmander (HELL)"/>
+        <card number="1" name="Charmeleon (HELL)"/>
+        <card number="1" name="Summon the Pack (HELL)"/>
+        <card number="1" name="Myntasha, Honored One (HELL)"/>
+        <card number="1" name="Aging Battleship (HELL)"/>
+        <card number="1" name="Mickey Mouse, Brave Little Tailor (HELL)"/>
+        <card number="1" name="Rapunzel, Gifted with Healing (HELL)"/>
+        <card number="1" name="Stitch, Carefree Surfer (HELL)"/>
+        <card number="1" name="Tinker Bell, Very Clever Fairy (HELL)"/>
+        <card number="1" name="Mabel, Heir to Cragflame (HELL)"/>
+        <card number="1" name="Ardyn (HELL)"/>
+        <card number="1" name="Swords to Plowshares (HELL 2)"/>
+        <card number="1" name="Swords to Plowshares (HELL 3)"/>
+        <card number="1" name="Phyrexian Obliterator (HELL)"/>
+        <card number="1" name="Joker (HELL)"/>
+        <card number="1" name="Traveling Merchant (HELL)"/>
+        <card number="1" name="Imploding Kitten (HELL)"/>
+        <card number="1" name="Yargle, Glutton of Urborg (HELL)"/>
+        <card number="1" name="Reasoning (HELL)"/>
+        <card number="1" name="Morphing Jar #2 (HELL)"/>
+        <card number="1" name="Exodia the Forbidden One (HELL)"/>
+        <card number="1" name="Left Leg of the Forbidden One (HELL)"/>
+        <card number="1" name="Right Arm of the Forbidden One (HELL)"/>
+        <card number="1" name="Right Leg of the Forbidden One (HELL)"/>
+        <card number="1" name="Satanic Panic! (HELL)"/>
+        <card number="1" name="Grim Reaper (HELL)"/>
+        <card number="1" name="Kythera Mechanism (HELL)"/>
+        <card number="1" name="Plague of Frogs (HELL)"/>
+        <card number="1" name="Great Old One (HELL)"/>
+        <card number="1" name="Grösse Poltergeist (HELL)"/>
+        <card number="1" name="The Geistwood (HELL)"/>
+        <card number="1" name="Chains of Prometheus (HELL)"/>
+        <card number="1" name="Tadpole Pool (HELL)"/>
+        <card number="1" name="Sliver Queen Avatar (HELL)"/>
+        <card number="1" name="Necropotence Avatar (HELL)"/>
+        <card number="1" name="Chronatog Avatar (HELL)"/>
+        <card number="1" name="Lyna (HELL)"/>
+        <card number="1" name="Throat Wolf (HELL)"/>
+        <card number="1" name="Shichifukujin Dragon (HELL)"/>
+        <card number="1" name="Evil Comes to Fruition (HELL)"/>
+        <card number="1" name="Double Stroke (HELL)"/>
+        <card number="1" name="Hymn of the Wilds (HELL)"/>
+        <card number="1" name="I Know All, I See All (HELL)"/>
+        <card number="1" name="Mortal Flesh Is Weak (HELL)"/>
+        <card number="1" name="My Forces Are Innumerable (HELL)"/>
+        <card number="1" name="My Undead Horde Awakens (HELL)"/>
+        <card number="1" name="Pay Tribute to Me (HELL)"/>
+        <card number="1" name="There Is No Refuge (HELL)"/>
+        <card number="1" name="What's Yours Is Now Mine (HELL)"/>
+        <card number="1" name="Wanderer's Intervention (HELL)"/>
+        <card number="1" name="Murder (HELL)"/>
+        <card number="1" name="Liliana of the Veil (HELL)"/>
+        <card number="1" name="Death's Shadow (HELL)"/>
+        <card number="1" name="Phage the Untouchable (HELL)"/>
+        <card number="1" name="Phyrexian Arena (HELL)"/>
+        <card number="1" name="Revel in Riches (HELL)"/>
+        <card number="1" name="Reanimate (HELL)"/>
+        <card number="1" name="Yawgmoth's Will (HELL)"/>
+        <card number="1" name="Thoughtseize (HELL)"/>
+        <card number="1" name="Thorn of the Black Rose (HELL)"/>
+        <card number="1" name="Blasphemous Act (HELL)"/>
+        <card number="1" name="Bombardment (HELL)"/>
+        <card number="1" name="Bonded Horncrest (HELL)"/>
+        <card number="1" name="Champions of Archery // Join the Group (HELL)"/>
+        <card number="1" name="Lich's Mastery (HELL)"/>
+        <card number="1" name="Hazoret the Pervert (HELL)"/>
+        <card number="1" name="Infinity Elemental (HELL)"/>
+        <card number="1" name="Magus of the Moon (HELL)"/>
+        <card number="1" name="Mana Abundance (HELL)"/>
+        <card number="1" name="Oubliette (HELL)"/>
+        <card number="1" name="Out of the Tombs (HELL)"/>
+        <card number="1" name="Lightning Bolt (HELL)"/>
+        <card number="1" name="Fireball (HELL)"/>
+        <card number="1" name="Grapeshot (HELL)"/>
+        <card number="1" name="Nalathni Dragon (HELL)"/>
+        <card number="1" name="Obliterate (HELL)"/>
+        <card number="1" name="Peerless Samurai (HELL)"/>
+        <card number="1" name="Ragavan, Nimble Pilferer (HELL)"/>
+        <card number="1" name="Orcish Bowmasters (HELL)"/>
+        <card number="1" name="Dockside Extortionist (HELL)"/>
+        <card number="1" name="Sanitarium Skeleton (HELL)"/>
+        <card number="1" name="Shivan Dragon (HELL)"/>
+        <card number="1" name="Steamflogger Boss (HELL)"/>
+        <card number="1" name="Powerbalance (HELL)"/>
+        <card number="1" name="Some Disassembly Required (HELL)"/>
+        <card number="1" name="Splinter Twin (HELL)"/>
+        <card number="1" name="One with Nothing (HELL)"/>
+        <card number="1" name="Prisoner's Dilemma (HELL)"/>
+        <card number="1" name="Reforge the Soul (HELL)"/>
+        <card number="1" name="Thieves' Auction (HELL)"/>
+        <card number="1" name="Necron Deathmark (HELL)"/>
+        <card number="1" name="Underworld Breach (HELL)"/>
+        <card number="1" name="Transcantation (HELL)"/>
+        <card number="1" name="Unnatural Speed (HELL)"/>
+        <card number="1" name="Tibalt, the Fiend-Blooded (HELL)"/>
+        <card number="1" name="Unearthly Blizzard (HELL)"/>
+        <card number="1" name="Vandalblast (HELL)"/>
+        <card number="1" name="Avenger of Zendikar (HELL)"/>
+        <card number="1" name="Birds of Paradise (HELL)"/>
+        <card number="1" name="Berserk (HELL)"/>
+        <card number="1" name="Beast Within (HELL)"/>
+        <card number="1" name="Doubling Season (HELL)"/>
+        <card number="1" name="Craterhoof Behemoth (HELL)"/>
+        <card number="1" name="Colossal Dreadmaw (HELL)"/>
+        <card number="1" name="Channel (HELL)"/>
+        <card number="1" name="Collected Company (HELL)"/>
+        <card number="1" name="Form of the Dinosaur (HELL)"/>
+        <card number="1" name="Form of the Squirrel (HELL)"/>
+        <card number="1" name="Earl of Squirrel (HELL)"/>
+        <card number="1" name="Essence of the Wild (HELL)"/>
+        <card number="1" name="Eternal Witness (HELL)"/>
+        <card number="1" name="Golgari Grave-Troll (HELL)"/>
+        <card number="1" name="Fog (HELL)"/>
+        <card number="1" name="Giant Growth (HELL)"/>
+        <card number="1" name="Wheel of Fortune (HELL)"/>
+        <card number="1" name="Embercleave (HELL)"/>
+        <card number="1" name="Killer Cosplay (HELL)"/>
+        <card number="1" name="Permeating Mass (HELL)"/>
+        <card number="1" name="Masterful Ninja (HELL)"/>
+        <card number="1" name="Matsu-Tribe Sniper (HELL)"/>
+        <card number="1" name="Llanowar Mentor (HELL)"/>
+        <card number="1" name="Grizzly Bears (HELL)"/>
+        <card number="1" name="Questing Beast (HELL)"/>
+        <card number="1" name="Scute Swarm (HELL)"/>
+        <card number="1" name="Seedborn Muse (HELL)"/>
+        <card number="1" name="Tarmogoyf (HELL)"/>
+        <card number="1" name="Thallid (HELL)"/>
+        <card number="1" name="Tireless Tracker (HELL)"/>
+        <card number="1" name="Verduran Enchantress (HELL)"/>
+        <card number="1" name="Zodiac Rooster (HELL)"/>
+        <card number="1" name="Necropotence (HELL)"/>
+        <card number="1" name="Rancor (HELL)"/>
+        <card number="1" name="Heroic Intervention (HELL)"/>
+        <card number="1" name="Naturalize (HELL)"/>
+        <card number="1" name="Storm Seeker (HELL)"/>
+        <card number="1" name="Wear Away (HELL)"/>
+        <card number="1" name="Interplanar Brushwagg (HELL)"/>
+        <card number="1" name="The Grand Calcutron (HELL)"/>
+        <card number="1" name="Atraxa, Praetors' Voice (HELL)"/>
+        <card number="1" name="Baleful Strix (HELL)"/>
+        <card number="1" name="Bloodbraid Elf (HELL)"/>
+        <card number="1" name="Brokkos, Apex of Forever (HELL)"/>
+        <card number="1" name="Falkenrath Aristocrat (HELL)"/>
+        <card number="1" name="Garth One-Eye (HELL)"/>
+        <card number="1" name="Grusilda, Monster Masher (HELL)"/>
+        <card number="1" name="It Came from Planet Glurg (HELL)"/>
+        <card number="1" name="Jhoira of the Ghitu (HELL)"/>
+        <card number="1" name="Lochmere Serpent (HELL)"/>
+        <card number="1" name="Mistblade Shinobi (HELL)"/>
+        <card number="1" name="Mortus Strider (HELL)"/>
+        <card number="1" name="Muldrotha, the Gravetide (HELL)"/>
+        <card number="1" name="Phoebe, Head of S.N.E.A.K. (HELL)"/>
+        <card number="1" name="Siege Rhino (HELL)"/>
+        <card number="1" name="Spiritmonger (HELL)"/>
+        <card number="1" name="Sun-Blessed Mount (HELL)"/>
+        <card number="1" name="The Cinematic Phoenix (HELL)"/>
+        <card number="1" name="X (HELL)"/>
+        <card number="1" name="Nature's Blessing (HELL)"/>
+        <card number="1" name="The Night of the Doctor (HELL)"/>
+        <card number="1" name="Anguished Unmaking (HELL)"/>
+        <card number="1" name="Who // What // When // Where // Why (HELL)"/>
+        <card number="1" name="Oko, Thief of Crowns (HELL)"/>
+        <card number="1" name="Personal Decoy (HELL)"/>
+        <card number="1" name="Teferi, Time Raveler (HELL)"/>
+        <card number="1" name="Urza, Academy Headmaster (HELL)"/>
+        <card number="1" name="Fractured Identity (HELL)"/>
+        <card number="1" name="Vindicate (HELL)"/>
+        <card number="1" name="Wrath of Sod (HELL)"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath (HELL)"/>
+        <card number="1" name="Niv-Mizzet Reborn (HELL)"/>
+        <card number="1" name="Brago, King Eternal (HELL)"/>
+        <card number="1" name="Deathrite Shaman (HELL)"/>
+        <card number="1" name="Hogaak, Arisen Necropolis (HELL)"/>
+        <card number="1" name="Lurrus of the Dream-Den (HELL)"/>
+        <card number="1" name="Meren of Clan Nel Toth (HELL)"/>
+        <card number="1" name="Slippery Bogle (HELL)"/>
+        <card number="1" name="Dovescape (HELL)"/>
+        <card number="1" name="Merciless Eviction (HELL)"/>
+        <card number="1" name="Spitting Image (HELL)"/>
+        <card number="1" name="How to Keep an Izzet Mage Busy (HELL)"/>
+        <card number="1" name="Healing Salve (HELL)"/>
+        <card number="1" name="Thousand-Year Storm (HELL)"/>
+        <card number="1" name="In Perpetuity (HELL)"/>
+        <card number="1" name="Absolute Annihilation (HELL)"/>
+        <card number="1" name="Custom Tutor (HELL)"/>
+        <card number="1" name="Aether Vial (HELL)"/>
+        <card number="1" name="Aetherflux Reservoir (HELL)"/>
+        <card number="1" name="Ashnod's Altar (HELL)"/>
+        <card number="1" name="Arcane Signet (HELL)"/>
+        <card number="1" name="Batterskull (HELL)"/>
+        <card number="1" name="Black Lotus (HELL)"/>
+        <card number="1" name="Bronze Cudgels (HELL)"/>
+        <card number="1" name="Chaos Wand (HELL)"/>
+        <card number="1" name="Colossus Hammer (HELL)"/>
+        <card number="1" name="Darksteel Relic (HELL)"/>
+        <card number="1" name="Door to Nothingness (HELL)"/>
+        <card number="1" name="Entirely Normal Armchair (HELL)"/>
+        <card number="1" name="Greatest Show in the Multiverse (HELL)"/>
+        <card number="1" name="Helm of the Host (HELL)"/>
+        <card number="1" name="Howling Mine (HELL)"/>
+        <card number="1" name="Legacy Weapon (HELL)"/>
+        <card number="1" name="Luxior, Giada's Gift (HELL)"/>
+        <card number="1" name="Lightning Greaves (HELL)"/>
+        <card number="1" name="Space Beleren (HELL)"/>
+        <card number="1" name="Obsidian Fireheart (HELL)"/>
+        <card number="1" name="Maskwood Nexus (HELL)"/>
+        <card number="1" name="Mox Emerald (HELL)"/>
+        <card number="1" name="Mox Jet (HELL)"/>
+        <card number="1" name="Mox Pearl (HELL)"/>
+        <card number="1" name="Mox Ruby (HELL)"/>
+        <card number="1" name="Mox Sapphire (HELL)"/>
+        <card number="1" name="Mycosynth Lattice (HELL)"/>
+        <card number="1" name="Panharmonicon (HELL)"/>
+        <card number="1" name="The One Ring (HELL)"/>
+        <card number="1" name="Platinum Angel (HELL)"/>
+        <card number="1" name="Blightsteel Colossus (HELL)"/>
+        <card number="1" name="Sensei's Divining Top (HELL)"/>
+        <card number="1" name="Skullclamp (HELL)"/>
+        <card number="1" name="Ornithopter (HELL)"/>
+        <card number="1" name="Scion of Draco (HELL)"/>
+        <card number="1" name="Sol Ring (HELL)"/>
+        <card number="1" name="Swiftfoot Boots (HELL)"/>
+        <card number="1" name="Sword of Dungeons &amp; Dragons (HELL)"/>
+        <card number="1" name="Umezawa's Jitte (HELL)"/>
+        <card number="1" name="Stocking Tiger (HELL)"/>
+        <card number="1" name="Wurmcoil Engine (HELL)"/>
+        <card number="1" name="Barry's Land (HELL)"/>
+        <card number="1" name="Bojuka Bog (HELL)"/>
+        <card number="1" name="Cabal Coffers (HELL)"/>
+        <card number="1" name="Dark Depths (HELL)"/>
+        <card number="1" name="Fabled Path of Searo Point (HELL)"/>
+        <card number="1" name="Gaea's Cradle (HELL)"/>
+        <card number="1" name="Karakas (HELL)"/>
+        <card number="1" name="Serra's Sanctum (HELL)"/>
+        <card number="1" name="Nearby Planet (HELL)"/>
+        <card number="1" name="Reliquary Tower (HELL)"/>
+        <card number="1" name="Snow-Covered Wastes (HELL)"/>
+        <card number="1" name="The Tabernacle at Pendrell Vale (HELL)"/>
+        <card number="1" name="Tolarian Academy (HELL)"/>
+        <card number="1" name="Urza's Fun House (HELL)"/>
+        <card number="1" name="Urza's Mine (HELL)"/>
+        <card number="1" name="Urza's Power Plant (HELL)"/>
+        <card number="1" name="Urza's Tower (HELL)"/>
+        <card number="1" name="Urza's Workshop (HELL)"/>
+        <card number="1" name="Mystic Sanctuary (HELL)"/>
+        <card number="1" name="You're in Command (HELL)"/>
+        <card number="1" name="Sole Performer (HELL)"/>
+        <card number="1" name="Sasuke Uchiha (HELL)"/>
+        <card number="1" name="Deathspeaker (HELL)"/>
+        <card number="1" name="Meandering Towershell (HELL)"/>
+        <card number="1" name="Leon S. Kennedy (HELL)"/>
+        <card number="1" name="Majordomo Executus (HELL)"/>
+        <card number="1" name="Jewel Mine Overseer (HELL)"/>
+        <card number="1" name="Legion's Chant (HELL)"/>
+        <card number="1" name="Hymn to the Ages (HELL)"/>
+        <card number="1" name="Ribald Shanty (HELL)"/>
+        <card number="1" name="Mycelic Ballad (HELL)"/>
+        <card number="1" name="Colossal Chorus (HELL)"/>
+        <card number="1" name="High Fae Prankster (HELL)"/>
+        <card number="1" name="Perilous Iteration (HELL)"/>
+        <card number="1" name="Darigaaz's Whelp (HELL)"/>
+        <card number="1" name="Fae of Wishes // Granted (HELL)"/>
+        <card number="1" name="Golden Wish (HELL)"/>
+        <card number="1" name="Death Wish (HELL)"/>
+        <card number="1" name="Living Wish (HELL)"/>
+        <card number="1" name="Vivien, Arkbow Ranger (HELL)"/>
+        <card number="1" name="Cunning Wish (HELL)"/>
+        <card number="1" name="Burning Wish (HELL)"/>
+        <card number="1" name="Mastermind's Acquisition (HELL)"/>
+        <card number="1" name="Lagiacrus (HELL)"/>
+        <card number="1" name="Kurain Channeling (HELL)"/>
+        <card number="1" name="Stormsplitter (HELL)"/>
+        <card number="1" name="Murmuration (HELL)"/>
+        <card number="1" name="Zinnia, Valley's Voice (HELL)"/>
+        <card number="1" name="Gev, Scaled Scorch (HELL)"/>
+        <card number="1" name="Flubs, the Fool (HELL)"/>
+        <card number="1" name="Abstruse Appropriation (HELL)"/>
+        <card number="1" name="Invert Polarity (HELL)"/>
+        <card number="1" name="Amphibian Downpour (HELL)"/>
+        <card number="1" name="Disa the Restless (HELL)"/>
+        <card number="1" name="Nadu, Winged Wisdom (HELL)"/>
+        <card number="1" name="Satya, Aetherflux Genius (HELL)"/>
+        <card number="1" name="Hurr Jackal (HELL)"/>
+        <card number="1" name="Oubliette (HELL 2)"/>
+        <card number="1" name="Giant Tortoise (HELL)"/>
+        <card number="1" name="Raigeki (HELL)"/>
+        <card number="1" name="Emrakul, the Promised End (HELL)"/>
+        <card number="1" name="Faith's Fetters (HELL)"/>
+        <card number="1" name="Mana Crypt (HELL)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sundering Fork"/>
+        <card number="1" name="Insufferable Syphon"/>
+        <card number="1" name="Record Store"/>
+        <card number="1" name="Hypnotic Swirly Disc"/>
+        <card number="1" name="Thud-for-Duds"/>
+        <card number="1" name="Guest List"/>
+        <card number="1" name="Hard Hat Area"/>
+        <card number="1" name="Twiddlestick Charger"/>
+        <card number="1" name="Goblin Slingshot"/>
+        <card number="1" name="Jamming Device"/>
+        <card number="1" name="Turbo-Thwacking Auto-Hammer"/>
+        <card number="1" name="Rapid Prototyper"/>
+        <card number="1" name="Top-Secret Tunnel"/>
+        <card number="1" name="Neural Network"/>
+        <card number="1" name="Optical Optimizer"/>
+        <card number="1" name="Oaken Power Suit"/>
+        <card number="1" name="Widget Contraption"/>
+        <card number="1" name="Quick-Stick Lick Trick"/>
+        <card number="1" name="Inflation Station"/>
+        <card number="1" name="Targeting Rocket"/>
+        <card number="1" name="Sap Sucker"/>
+        <card number="1" name="Refibrillator"/>
+        <card number="1" name="Lackey Recycler"/>
+        <card number="1" name="Tread Mill"/>
+        <card number="1" name="Mandatory Friendship Shackles"/>
+        <card number="1" name="Head Banger"/>
+        <card number="1" name="Pet Project"/>
+        <card number="1" name="Roller Coaster"/>
+        <card number="1" name="Scavenger Hunt"/>
+        <card number="1" name="Cover the Spot"/>
+        <card number="1" name="Trash Bin"/>
+        <card number="1" name="The Superlatorium"/>
+        <card number="1" name="Dart Throw"/>
+        <card number="1" name="Concession Stand"/>
+        <card number="1" name="Tunnel of Love"/>
+        <card number="1" name="Gift Shop"/>
+        <card number="1" name="Guess Your Fate"/>
+        <card number="1" name="Squirrel Stack"/>
+        <card number="1" name="Log Flume"/>
+        <card number="1" name="Merry-Go-Round"/>
+        <card number="1" name="Centrifuge"/>
+        <card number="1" name="Gallery of Legends"/>
+        <card number="1" name="Costume Shop"/>
+        <card number="1" name="Kiddie Coaster"/>
+        <card number="1" name="Bounce Chamber"/>
+        <card number="1" name="Information Booth"/>
+        <card number="1" name="Pick-a-Beeble"/>
+        <card number="1" name="Spinny Ride"/>
+        <card number="1" name="Haunted House"/>
+        <card number="1" name="Foam Weapons Kiosk"/>
+        <card number="1" name="Fortune Teller"/>
+        <card number="1" name="Memory Test"/>
+        <card number="1" name="Bumper Cars"/>
+        <card number="1" name="Clown Extruder"/>
+        <card number="1" name="Trivia Contest"/>
+        <card number="1" name="Push Your Luck"/>
+        <card number="1" name="Drop Tower"/>
+        <card number="1" name="Swinging Ship"/>
+        <card number="1" name="Hall of Mirrors"/>
+        <card number="1" name="Storybook Ride"/>
+        <card number="1" name="Ancestral Hot Dog Minotaur"/>
+        <card number="1" name="Carnival Elephant Meteor"/>
+        <card number="1" name="Contortionist Otter Storm"/>
+        <card number="1" name="Cool Fluffy Loxodon"/>
+        <card number="1" name="Cursed Firebreathing Yogurt"/>
+        <card number="1" name="Deep-Fried Plague Myr"/>
+        <card number="1" name="Demonic Tourist Laser"/>
+        <card number="1" name="Eldrazi Guacamole Tightrope"/>
+        <card number="1" name="Elemental Time Flamingo"/>
+        <card number="1" name="Eternal Acrobat Toast"/>
+        <card number="1" name="Familiar Beeble Mascot"/>
+        <card number="1" name="Geek Lotus Warrior"/>
+        <card number="1" name="Giant Mana Cake"/>
+        <card number="1" name="Goblin Coward Parade"/>
+        <card number="1" name="Happy Dead Squirrel"/>
+        <card number="1" name="Jetpack Death Seltzer"/>
+        <card number="1" name="Misunderstood Trapeze Elf"/>
+        <card number="1" name="Mystic Doom Sandwich"/>
+        <card number="1" name="Narrow-Minded Baloney Fireworks"/>
+        <card number="1" name="Night Brushwagg Ringmaster"/>
+        <card number="1" name="Notorious Sliver War"/>
+        <card number="1" name="Phyrexian Midway Bamboozle"/>
+        <card number="1" name="Playable Delusionary Hydra"/>
+        <card number="1" name="Primal Elder Kitty"/>
+        <card number="1" name="Sassy Gremlin Blood"/>
+        <card number="1" name="Slimy Burrito Illusion"/>
+        <card number="1" name="Snazzy Aether Homunculus"/>
+        <card number="1" name="Space Fungus Snickerdoodle"/>
+        <card number="1" name="Spooky Clown Mox"/>
+        <card number="1" name="Squid Fire Knight"/>
+        <card number="1" name="Squishy Sphinx Ninja"/>
+        <card number="1" name="Sticky Kavu Daredevil"/>
+        <card number="1" name="Trained Blessed Mind"/>
+        <card number="1" name="Trendy Circus Pirate"/>
+        <card number="1" name="Unassuming Gelatinous Serpent"/>
+        <card number="1" name="Unglued Pea-Brained Dinosaur"/>
+        <card number="1" name="Unhinged Beast Hunt"/>
+        <card number="1" name="Unique Charmed Pants"/>
+        <card number="1" name="Unsanctioned Ancient Juggler"/>
+        <card number="1" name="Unstable Robot Dragon"/>
+        <card number="1" name="Urza's Dark Cannonball"/>
+        <card number="1" name="Vampire Champion Fury"/>
+        <card number="1" name="Weird Angel Flame"/>
+        <card number="1" name="Werewolf Lightning Mage"/>
+        <card number="1" name="Wild Ogre Bupkis"/>
+        <card number="1" name="Wrinkly Monkey Shenanigans"/>
+        <card number="1" name="Yawgmoth Merfolk Soul"/>
+        <card number="1" name="Zombie Cheese Magician"/>
+        <card number="1" name="Accessories to Murder (HELL)"/>
+        <card number="1" name="Balloon Stand (HELL)"/>
+        <card number="1" name="Applied Aeronautics (HELL)"/>
+        <card number="1" name="Arms Depot (HELL)"/>
+        <card number="1" name="Auto-Key (HELL)"/>
+        <card number="1" name="Selene, Queen of the Master Magicians (HELL)"/>
+        <card number="1" name="Bee-Bee Gun (HELL)"/>
+        <card number="1" name="Boomflinger (HELL)"/>
+        <card number="1" name="Buzz Buggy (HELL)"/>
+        <card number="1" name="Deadly Poison Sampler (HELL)"/>
+        <card number="1" name="Dictation Quillograph (HELL)"/>
+        <card number="1" name="Dispatch Dispensary (HELL)"/>
+        <card number="1" name="Division Table (HELL)"/>
+        <card number="1" name="Dogsnail Engine (HELL)"/>
+        <card number="1" name="Dual Doomsuits (HELL)"/>
+        <card number="1" name="Duplication Device (HELL)"/>
+        <card number="1" name="Faerie Aerie (HELL)"/>
+        <card number="1" name="Genetic Recombinator (HELL)"/>
+        <card number="1" name="Gift Horse (HELL)"/>
+        <card number="1" name="Gnomeball Machine (HELL)"/>
+    </zone>
+</cockatrice_deck>

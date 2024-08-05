@@ -1,0 +1,3 @@
+1) In Cocktrice, open Card Database -> Open custom image folder, and copy the Hellbox Art folder into it, allowing it to replace any existing files
+2) Open Card Database -> Open custom sets folder, and delete all existing hellbox files if it exists
+3) Open Card Database -> Add custom set/cards and select hellbox.xml
