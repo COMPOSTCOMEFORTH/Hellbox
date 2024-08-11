@@ -1340,7 +1340,7 @@ If damage would be dealt to Phyrexian Vindicator, prevent that damage. When dama
     </card>
     <card>
       <name>R2-D2, Ignoring Protocol (HELL)</name>
-      <text>Whenever R2-D2, Ignoring Protocol enters or attacks, look at the top card of your library. You may put that card on the bottom of your library.</text>
+      <text>Whenever R2-D2, Ignoring Protocol enters or attacks, scry 1.</text>
       <prop>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
