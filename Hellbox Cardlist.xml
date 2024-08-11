@@ -7176,6 +7176,27 @@ Whenever a player attacks with a creature with power 4 or greater, Interplanar B
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Kagemusha of the Blue Flame (HELL)</name>
+      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)
+
+Added by CatManThree</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>800/400</pt>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <manacost>**</manacost>
+        <side>front</side>
+		<coloridentity>G</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Shien's Human Samurai Warrior</type>
+      </prop>
+      <set>HELL</set>
+	  <related>Face Down Monster (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Killer Cosplay (HELL)</name>
       <text>Whenever Killer Cosplay becomes attached to a creature, choose a creature card name with an identical mana cost. That creature becomes a copy of the card with the chosen name until Killer Cosplay becomes unattached from it.
