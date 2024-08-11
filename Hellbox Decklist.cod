@@ -497,6 +497,7 @@
         <card number="1" name="Emrakul, the Promised End (HELL)"/>
         <card number="1" name="Faith's Fetters (HELL)"/>
         <card number="1" name="Mana Crypt (HELL)"/>
+        <card number="1" name="Warlock of the Ice Barrier (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
