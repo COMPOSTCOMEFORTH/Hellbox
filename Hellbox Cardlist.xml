@@ -4976,7 +4976,7 @@ Flashback {B}{B}{B}{B}, sacrifice a Demon</text>
     </card>
     <card>
       <name>Summon the Pack (HELL)</name>
-      <text>Open a sealed booster pack, reveal the cards, and put all creature cards revealed this way onto the battlefield under your control. They're Zombies in addition to their other types.</text>
+      <text>Open a sealed booster pack, reveal the cards, and put all creature cards revealed this way onto the battlefield under your control. They're perpetually Zombies in addition to their other types.</text>
       <prop>
         <colors>B</colors>
         <manacost>7B</manacost>
