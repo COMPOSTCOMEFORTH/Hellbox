@@ -1153,6 +1153,25 @@ At the beginning of the upkeep of the exiled card's owner, that player rolls two
 	  <tablerow>2</tablerow>
 	</card>
 	<card>
+      <name>Grace Princess Kana (HELL)</name>
+      <text>(The number of stars in a cost determines the Rush creature's casting cost. A two star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>200/1400</pt>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <manacost>**</manacost>
+        <side>front</side>
+		<coloridentity>G</coloridentity>
+        <layout>normal</layout>
+        <type>Rush Creature — Zombie Elemental Noble</type>
+      </prop>
+      <set>HELL</set>
+	  <related>Face Down Monster (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Healing Salve (HELL)</name>
       <text>Choose one —
 • Target player gains 3 life.
@@ -6813,17 +6832,17 @@ All Chorus cards you own intensify by 1.</text>
     </card>
 	<card>
       <name>Constructor Warrior Shovelon (HELL)</name>
-      <text>(The number of stars in a cost determines the creatures casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
+      <text>(The number of stars in a cost determines the Rush creature's casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
       <prop>
         <maintype>Creature</maintype>
         <pt>1500/1</pt>
-        <cmc>2</cmc>
+        <cmc>4</cmc>
         <colors>G</colors>
         <manacost>****</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Zombie Drake Warrior</type>
+        <type>Rush Creature — Zombie Drake Warrior</type>
       </prop>
       <set>HELL</set>
 	  <related>Face Down Monster (HELL)</related>
