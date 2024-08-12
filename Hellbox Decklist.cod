@@ -499,6 +499,7 @@
         <card number="1" name="Mana Crypt (HELL)"/>
         <card number="1" name="Warlock of the Ice Barrier (HELL)"/>
         <card number="1" name="Kagemusha of the Blue Flame (HELL)"/>
+		<card number="1" name="Constructor Warrior Shovelon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
