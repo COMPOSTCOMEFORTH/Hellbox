@@ -6813,17 +6813,17 @@ All Chorus cards you own intensify by 1.</text>
     </card>
 	<card>
       <name>Constructor Warrior Shovelon (HELL)</name>
-      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
+      <text>(The number of stars in a cost determines the creatures casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
       <prop>
         <maintype>Creature</maintype>
-        <pt>800/400</pt>
+        <pt>1500/1</pt>
         <cmc>2</cmc>
         <colors>G</colors>
-        <manacost>**</manacost>
+        <manacost>****</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Shien's Human Samurai Warrior</type>
+        <type>Creature — Zombie Drake Warrior</type>
       </prop>
       <set>HELL</set>
 	  <related>Face Down Monster (HELL)</related>
@@ -7197,7 +7197,7 @@ Whenever a player attacks with a creature with power 4 or greater, Interplanar B
     </card>
 	<card>
       <name>Kagemusha of the Blue Flame (HELL)</name>
-      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)
+      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A two star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)
 
 Added by CatManThree</text>
       <prop>
