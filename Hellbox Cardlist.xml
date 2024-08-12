@@ -5728,7 +5728,8 @@ Added by CatManThree</text>
     </card>
     <card>
       <name>Magus of the Moon (HELL)</name>
-      <text>Nonbasic lands are Mountains.</text>
+      <text>Nonbasic lands are Mountains.
+When this card leaves your graveyard, create a tapped 2/2 black Zombie creature token</text>
       <prop>
         <layout>normal</layout>
         <coloridentity>R</coloridentity>
@@ -5741,6 +5742,7 @@ Added by CatManThree</text>
         <cmc>3</cmc>
       </prop>
       <set num="138" rarity="rare" muid="438704" uuid="1f685078-c9b3-42aa-be5a-be16be89ecc6">HELL</set>
+	  <related>Zombie Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
