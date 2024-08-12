@@ -1159,10 +1159,10 @@ At the beginning of the upkeep of the exiled card's owner, that player rolls two
         <maintype>Creature</maintype>
         <pt>200/1400</pt>
         <cmc>2</cmc>
-        <colors>G</colors>
+        <colors>W</colors>
         <manacost>**</manacost>
         <side>front</side>
-		<coloridentity>G</coloridentity>
+		<coloridentity>W</coloridentity>
         <layout>normal</layout>
         <type>Rush Creature — Zombie Elemental Noble</type>
       </prop>
@@ -5156,6 +5156,25 @@ Sacrifice two energy attached to ᛘᛅᚹ: Return ᛘᛅᚹ and all cards under
         <type>Battle — Basic Pokémon</type>
       </prop>
       <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Ants Running About (HELL)</name>
+      <text>(The number of stars in a cost determines the Rush creature's casting cost. A one star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>100/600</pt>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <manacost>*</manacost>
+        <side>front</side>
+		<coloridentity>R</coloridentity>
+        <layout>normal</layout>
+        <type>Rush Creature — Zombie Insect Citizen</type>
+      </prop>
+      <set>HELL</set>
+	  <related>Face Down Monster (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
