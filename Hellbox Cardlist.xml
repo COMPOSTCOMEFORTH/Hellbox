@@ -1231,7 +1231,7 @@ Whenever a player activates the ability of a creature, if that player has activa
     </card>
     <card>
       <name>Legion's Chant (HELL)</name>
-      <text>Intensity 5
+      <text>Intensity 8
 Return any number of creature cards with total mana value X or less from your graveyard to the battlefield, where X is Legion's Chant's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -2412,7 +2412,7 @@ When Great Old One enters, put a flood counter on each land on the battlefield. 
     </card>
     <card>
       <name>Hymn to the Ages (HELL)</name>
-      <text>Intensity 5
+      <text>Intensity 8
 Draw a number of cards equal to this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -4457,7 +4457,7 @@ Reveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and
     </card>
     <card>
       <name>Mycelic Ballad (HELL)</name>
-      <text>Intensity 4
+      <text>Intensity 7
 Each player sacrifices X creatures and you gain X life, where X is this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -6197,7 +6197,7 @@ Miracle {1}{R}</text>
     </card>
     <card>
       <name>Ribald Shanty (HELL)</name>
-      <text>Intensity 4
+      <text>Intensity 7
 This spell deals damage equal to its intensity to target creature or planeswalker.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -6813,7 +6813,7 @@ Exile Blob Wheel: Add {C}{C}{C}.</text>
     </card>
     <card>
       <name>Colossal Chorus (HELL)</name>
-      <text>Intensity 4
+      <text>Intensity 7
 Conjure X cards named Colossal Dreadmaw onto the battlefield, where X is this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
