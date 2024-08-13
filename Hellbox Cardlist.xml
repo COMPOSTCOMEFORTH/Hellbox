@@ -6890,6 +6890,24 @@ When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Dairy Cow (HELL)</name>
+      <text>Grazing type (This creature enters the battlefield with five milk counters on it for each Forest and/or Plant you control.)</text>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <coloridentity>G</coloridentity>
+        <type>Creature — Cow</type>
+        <maintype>Creature</maintype>
+        <cmc>1</cmc>
+        <pt>2/1</pt>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Doubling Season (HELL)</name>
       <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
 If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>

@@ -502,6 +502,7 @@
         <card number="1" name="Constructor Warrior Shovelon (HELL)"/>
         <card number="1" name="Grace Princess Kana (HELL)"/>
         <card number="1" name="Ants Running About (HELL)"/>
+		<card number="1" name="Dairy Cow (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
