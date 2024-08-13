@@ -7963,6 +7963,23 @@ Splice onto Arcane {3}{G}</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Whiteout (HELL)</name>
+      <text>All creatures lose flying until end of turn.
+Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
+      <prop>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <type>Instant</type>
+        <coloridentity>G</coloridentity>
+        <side>front</side>
+        <layout>normal</layout>
+        <maintype>Instant</maintype>
+      </prop>
+      <set muid="2599" rarity="uncommon" uuid="a8645e4f-eaa8-4420-a6a3-eb53c311fab1" num="275">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Zodiac Rooster (HELL)</name>
       <text>Plainswalk</text>
       <prop>
