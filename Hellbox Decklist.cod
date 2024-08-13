@@ -505,7 +505,8 @@
         <card number="1" name="Dairy Cow (HELL)"/>
         <card number="1" name="Jund 'Em Out (HELL)"/>
         <card number="1" name="Forest Bear (HELL)"/>
-        <card number="1" name="Whiteout (HELL)"/>		
+        <card number="1" name="Whiteout (HELL)"/>
+        <card number="1" name="Velukan Dragon (HELL)"/>			
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
