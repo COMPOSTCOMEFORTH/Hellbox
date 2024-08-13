@@ -8824,6 +8824,35 @@ When this creature enters, draw a card.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Jund 'Em Out (HELL)</name>
+      <text>Retrace
+Choose one at random. Create a copy of the chosen card. You may cast the copy without paying its mana cost.
+• Abrupt Decay
+• Blightning
+• Bloodbraid Elf
+• Lightning Bolt
+• Liliana of the Veil
+• Tarmogoyf</text>
+      <prop>
+        <layout>normal</layout>
+        <coloridentity>B</coloridentity>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <manacost>BRG</manacost>
+        <colors>BRG</colors>
+        <cmc>3</cmc>
+      </prop>
+	  <related>Abrupt Decay</related>
+	  <related>Blightning</related>
+	  <related>Bloodbraid Elf</related>
+	  <related>Lightning Bolt</related>
+	  <related>Liliana of the Veil</related>
+	  <related>Tarmogoyf</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Last-Minute Chopping (HELL)</name>
       <text>Ask target opponent if they remembered to get you a present. If they say yes, they put a card they own from outside the game into your hand. Otherwise, you gain control of target permanent they control.</text>
       <prop>
