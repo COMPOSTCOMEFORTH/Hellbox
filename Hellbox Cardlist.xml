@@ -7068,6 +7068,23 @@ Other Squirrels you control get +1/+1.</text>
         <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Forest Bear (HELL)</name>
+      <text></text>
+      <prop>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <type>Creature — Bear</type>
+        <coloridentity>G</coloridentity>
+        <side>front</side>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+      </prop>
+      <set muid="10505" rarity="common" uuid="fae9abc7-ecd3-4042-a5b0-5f2b24491fa6" num="135">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Form of the Squirrel (HELL)</name>
       <text>As Form of the Squirrel enters, create a 1/1 green Squirrel creature token. You lose the game when that creature leaves the battlefield.
 Creatures can't attack you.
@@ -8843,6 +8860,7 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
         <colors>BRG</colors>
         <cmc>3</cmc>
       </prop>
+	  <set>HELL</set>
 	  <related>Abrupt Decay</related>
 	  <related>Blightning</related>
 	  <related>Bloodbraid Elf</related>
