@@ -8278,6 +8278,24 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Chea, Friend to Maybe Too Many (HELL)</name>
+      <text>Familiar spells you cast have flash. (Bats, Birds, Cats, Dragons, Faeries, Foxes, Frogs, Imps, Lizards, and Spiders are familiars, as well as any creature with “Familiar” in its name.)
+{T}: Add X {G} and each opponent loses X life, where X is the number of familiars you control.</text>
+      <prop>
+        <coloridentity>WBG</coloridentity>
+        <side>front</side>
+        <manacost>1WBG</manacost>
+        <pt>2/4</pt>
+        <cmc>4</cmc>
+        <layout>normal</layout>
+        <colors>WBG</colors>
+        <maintype>Creature</maintype>
+        <type>Creature — Human Wizard</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>The Cinematic Phoenix (HELL)</name>
       <text>Flying, haste, protection from red
 {1}, {T}: Return target legendary creature card from your graveyard to the battlefield.
