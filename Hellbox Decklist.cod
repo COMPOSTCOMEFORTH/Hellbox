@@ -508,6 +508,7 @@
         <card number="1" name="Whiteout (HELL)"/>
         <card number="1" name="Velukan Dragon (HELL)"/>
         <card number="1" name="Chea, Friend to Maybe Too Many (HELL)"/>		
+		<card number="1" name="Kozilek, Compleated (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

@@ -467,6 +467,22 @@ When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Kozilek, Compleated (HELL)</name>
+      <text>When you cast this spell, each opponent gets two poison counters, then each opponent with more than two cards in hand discards cards equal to the difference.
+Annihinfect (Whenever this creature attacks, defending player sacrifices a permanent for each poison counter they have.)</text>
+      <prop>
+        <type>Legendary Creature — Phyrexian Eldrazi</type>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+        <side>front</side>
+        <cmc>10</cmc>
+        <manacost>8C/PC/P</manacost>
+      </prop>
+      <set rarity="common" num="999-KC" uuid="8a5d0caf-8f15-4c25-958d-19ffc7ed462e">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Lyna (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
 When Lyna enters, lose 4 life and draw two cards.
