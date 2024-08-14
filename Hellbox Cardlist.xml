@@ -834,6 +834,33 @@ When you set this scheme in motion, gain control of target creature an opponent 
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Who's That Praetor? (HELL)</name>
+      <text>Choose one at random. Create a token that's a copy of the chosen card.
+• Elesh Norn, Mother of Machines
+• Jin-Gitaxias, Progress Tyrant
+• Sheoldred, the Apocalypse
+• Urabrask, Heretic Praetor
+• Vorinclex, Monstrous Raider
+• Ebon Praetor</text>
+      <prop>
+        <type>Sorcery</type>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>6</cmc>
+        <manacost>6</manacost>
+      </prop>
+      <set rarity="common" num="999-WTP" uuid="5bf7cea4-033f-417b-9cd3-689b926b135e">HELL</set>
+      <related>Elesh Norn, Mother of Machines</related>
+      <related>Jin-Gitaxias, Progress Tyrant</related>
+      <related>Sheoldred, the Apocalypse</related>
+      <related>Urabrask, Heretic Praetor</related>
+      <related>Vorinclex, Monstrous Raider</related>
+      <related>Ebon Praetor</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Yogg-Saron, Hope's End (HELL)</name>
       <text>When Yogg-Saron, Hope's End enters, cast X random instants and sorceries with random targets, where X is the number of instants and sorceries you have cast this game.
