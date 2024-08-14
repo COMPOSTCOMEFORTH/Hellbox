@@ -10894,6 +10894,21 @@ At the beginning of your upkeep, you lose 1 life for each burden counter on The 
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Orb of Origin (HELL)</name>
+      <text>{2}: Add one mana of any color.
+Other noncreature artifacts are mono and continuous. (Each activated ability of mono artifacts costs an additional {T} to activate if its cost doesn't already include {T}. As long as a continuous artifact is tapped, it loses all abilities.)</text>
+      <prop>
+        <type>Poly Artifact</type>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
+      </prop>
+      <set rarity="common" num="999-OOO" uuid="46199a5e-ad37-4e66-b296-39428021d951">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Ornithopter (HELL)</name>
       <text>Flying</text>
       <prop>
