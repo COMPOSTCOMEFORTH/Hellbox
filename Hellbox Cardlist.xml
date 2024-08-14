@@ -7939,6 +7939,7 @@ Umbra armor</text>
         <manacost>1G</manacost>
       </prop>
       <set rarity="common" num="999-PUU" uuid="8c3abc5c-8741-4aa2-842d-5b72e3d75394">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>
