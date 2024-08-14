@@ -1,7 +1,7 @@
 Magic:
-- Every single Contraption
-- Every single Attraction
-- Every single sticker sheet
+- Every single Contraption (For effects which assemble Contraptions)
+- Every single Attraction (For effects which open Attractions)
+- Every single sticker sheet (For effects which place stickers on cards)
 
 Yugioh:
-- Selene, Queen of the Master Magicians
+- Selene, Queen of the Master Magicians (Link summon with 2+ creatures, including one Cleric, Druid, Shaman, Warlock, or Wizard)
