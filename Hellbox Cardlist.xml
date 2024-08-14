@@ -8072,6 +8072,25 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Phyrexian Seedling (HELL)</name>
+      <text>Phyrexian Seedling enters the battlefield with a +1/+1 counter on it.
+Proliferatelink (Damage dealt by this creature also causes you to proliferate that many times. You proliferate before checking for lethal damage on creatures.)</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Creature — Phyrexian Plant</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>2G</manacost>
+      </prop>
+      <set rarity="common" num="999-PS" uuid="cd2de002-28c0-427e-a61b-4d6032bca83a">MB2</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Questing Beast (HELL)</name>
       <text>Vigilance, deathtouch, haste
 Questing Beast can't be blocked by creatures with power 2 or less.
