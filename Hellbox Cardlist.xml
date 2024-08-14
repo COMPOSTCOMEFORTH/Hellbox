@@ -8387,6 +8387,25 @@ Exile Alpha.</text>
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Ancient Mew (HELL)</name>
+      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
+Psyche — {0}: Ancient Mew deals 40 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Ancient Mew has at least {P}{P} attached to it as Energy.
+Psychic Weakness — If a purple source would deal damage to Ancient Mew, it deals double that damage instead.
+Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and all cards under it from the battlefield to your hand.</text>
+      <prop>
+        <cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <colors>P</colors>
+        <maintype>Battle</maintype>
+        <coloridentity>P</coloridentity>
+        <type>Battle — Basic Pokémon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Foresight (HELL)</name>
       <text>At the beginning of your upkeep, scry 3.</text>
       <prop>
@@ -8420,25 +8439,6 @@ Whenever you scry, return Weave from your graveyard to your hand.</text>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>ᛘᛅᚹ (HELL)</name>
-      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
-Psyche — {0}: ᛘᛅᚹ deals 40 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if ᛘᛅᚹ has at least {P}{P} attached to it as Energy.
-Psychic Weakness — If a purple source would deal damage to ᛘᛅᚹ, it deals double that damage instead.
-Retreat — Sacrifice two energy attached to ᛘᛅᚹ: Return ᛘᛅᚹ and all cards under it from the battlefield to your hand.</text>
-      <prop>
-        <cmc>0</cmc>
-        <side>front</side>
-        <layout>normal</layout>
-        <colors>P</colors>
-        <maintype>Battle</maintype>
-        <coloridentity>P</coloridentity>
-        <type>Battle — Basic Pokémon</type>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Abstruse Appropriation (HELL)</name>
