@@ -2427,6 +2427,26 @@ When Great Old One enters, put a flood counter on each land on the battlefield. 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Hullbreacher (HELL)</name>
+      <text>Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you create a Treasure token.</text>
+      <prop>
+        <coloridentity>U</coloridentity>
+        <type>Creature — Merfolk Pirate</type>
+        <layout>normal</layout>
+        <colors>U</colors>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>2U</manacost>
+      </prop>
+      <set rarity="rare" num="124" uuid="c2a0530f-7b72-4a33-8eec-bcd75d9c3045">HELL</set>
+	  <related>Treasure Token</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Hymn to the Ages (HELL)</name>
       <text>Intensity 8
 Draw a number of cards equal to this spell's intensity.
