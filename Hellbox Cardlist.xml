@@ -1370,6 +1370,7 @@ When you cast this spell, put a primeval counter on target creature. (A creature
         <manacost>4W</manacost>
       </prop>
       <set rarity="common" num="999-ME" uuid="0ad445d9-8c80-4146-9539-d36a966e8a07">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -2705,6 +2706,27 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
       <set muid="571390" rarity="mythic" num="73" uuid="3c429c40-2389-41e5-8681-4bb274e25eba">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Map to Lorthos's Temple (HELL)</name>
+      <text>Whenever you complete one of the following objectives, check it off. If all three are checked off, sacrifice Map to Lorthos's Temple. If you do, create a Lorthos, the Tidemaker token.
+☐ Diving Gear - An artifact enters the battlefield under your control.
+☐ Merfolk - A Merfolk enters the battlefield under your control.
+☐ Ritual - You cast an instant or sorcery spell.</text>
+      <prop>
+        <coloridentity>U</coloridentity>
+        <type>Enchantment — Quest</type>
+        <layout>normal</layout>
+        <colors>U</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>1</cmc>
+        <manacost>U</manacost>
+      </prop>
+      <set rarity="common" num="999-MTLTT" uuid="ec6d971b-b981-4a7e-8308-f1c6cc679d89">HELL</set>
+	  <related>Lorthos, the Tidemaker</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Memory Lapse (HELL)</name>
@@ -7754,6 +7776,7 @@ Enchanted creature has islandwalk and &quot;Whenever this creature attacks, exil
         <manacost>G</manacost>
       </prop>
       <set rarity="common" num="999-MT" uuid="d17d858e-8df7-4f90-a3f4-b08f1eaa1fcf">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>

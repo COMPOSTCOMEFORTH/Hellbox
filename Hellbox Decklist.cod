@@ -527,6 +527,7 @@
 		<card number="1" name="Liliana's Other Contract (HELL)"/>
 		<card number="1" name="Muraganda Eldrazi (HELL)"/>
 		<card number="1" name="Meandered Towershell (HELL)"/>
+		<card number="1" name="Map to Lorthos's Temple (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
