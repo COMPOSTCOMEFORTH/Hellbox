@@ -2241,6 +2241,7 @@ Whenever you play a land or cast a spell, if it shares a mana value with one or 
         <manacost>2U</manacost>
       </prop>
       <set rarity="common" num="999-DCI" uuid="da56c50e-235c-4e55-92f8-bf6cdf39fe79">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
 	<card>
@@ -8673,6 +8674,39 @@ Whenever you play a land or cast a spell, draw a card if you have no cards in ha
       <set muid="670972" rarity="mythic" num="356" uuid="41e58eb8-e5b9-4ef6-be1f-00e28cebb998">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fludge, Gunk Guardian (HELL)</name>
+      <text>Whenever Fludge, Gunk Guardian or another Slug, Ooze, Fungus, or Mutant enters the battlefield under your control, each opponent shuffles three Gunk cards into their library.</text>
+      <prop>
+        <coloridentity>BG</coloridentity>
+        <type>Legendary Creature — Slug Ooze</type>
+        <layout>normal</layout>
+        <colors>BG</colors>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <side>front</side>
+        <cmc>5</cmc>
+        <manacost>3BG</manacost>
+      </prop>
+      <set rarity="common" num="999-FGG" uuid="4adfa1f5-5d5f-4d94-827a-4be99bb15dc3">HELL</set>
+	  <related persistent="persistent" count="3">Gunk (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gunk (HELL)</name>
+      <text>Cycling {4}</text>
+      <prop>
+        <layout>normal</layout>
+        <type>Token Sorcery</type>
+        <maintype>Token</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+      </prop>
+      <set rarity="common" num="999-FGG" uuid="4adfa1f5-5d5f-4d94-827a-4be99bb15dc3">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>3</tablerow>
     </card>
     <card>
       <name>Fractured Identity (HELL)</name>
