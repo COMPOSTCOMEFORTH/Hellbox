@@ -480,6 +480,8 @@ Annihinfect (Whenever this creature attacks, defending player sacrifices a perma
         <manacost>8C/PC/P</manacost>
       </prop>
       <set rarity="common" num="999-KC" uuid="8a5d0caf-8f15-4c25-958d-19ffc7ed462e">HELL</set>
+      <related>Poison Counter</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -5153,6 +5155,7 @@ When Thorn of the Black Rose enters, you become the monarch.</text>
         <manacost>BB</manacost>
       </prop>
       <set rarity="common" num="999-TLDR" uuid="e6f78f7f-a5cb-4cc8-a23d-efb085cdd3c6">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -5204,8 +5207,9 @@ If a card would be put into your graveyard from anywhere this turn, exile that c
         <cmc>3</cmc>
         <manacost>1BB</manacost>
       </prop>
-	  <related>Compleation Emblem (HELL)</related>
       <set rarity="common" num="999-YCM" uuid="afb8ebe9-8648-4bd1-b725-e0d9656f53e3">HELL</set>
+	  <related>Compleation Emblem (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -6644,6 +6648,7 @@ Whenever Velukan Dragon attacks or blocks, roll a six-sided die. Velukan Dragon 
         <type>Creature — Dragon</type>
       </prop>
       <set rarity="rare" num="145" uuid="1ef829f1-eaa7-43e7-acef-5bb688ca6077">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -7182,6 +7187,7 @@ Other Squirrels you control get +1/+1.</text>
         <maintype>Creature</maintype>
       </prop>
 	  <set rarity="common" num="206" uuid="824aaef5-94ae-447e-b8f0-d5b89426675c">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -8077,6 +8083,7 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
         <maintype>Instant</maintype>
       </prop>
       <set muid="2599" rarity="uncommon" uuid="a8645e4f-eaa8-4420-a6a3-eb53c311fab1" num="275">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -8376,6 +8383,7 @@ Whenever two or more creatures you control attack in a band, each creature in th
         <manacost>1GW</manacost>
       </prop>
       <set rarity="common" num="999-CMG" uuid="193afb87-9695-416a-9b1c-7b362a4a99a1">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -8394,6 +8402,7 @@ Whenever two or more creatures you control attack in a band, each creature in th
         <type>Legendary Creature — Human Wizard</type>
       </prop>
       <set rarity="common" num="999-CFTM" uuid="4fab6c4b-bb56-4705-89f6-598a0de519fb">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
