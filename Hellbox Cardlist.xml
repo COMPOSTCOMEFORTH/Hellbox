@@ -805,23 +805,6 @@ When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner 
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Vault (HELL)</name>
-      <text>Take an extra turn after this one.
-End the turn.
-Exile Vault.</text>
-      <prop>
-        <maintype>Sorcery</maintype>
-        <cmc>3</cmc>
-        <manacost>3</manacost>
-        <side>front</side>
-        <layout>normal</layout>
-        <type>Sorcery — Skill</type>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
       <name>What's Yours Is Now Mine (HELL)</name>
       <text>(You can only set one scheme into motion each turn.)
 When you set this scheme in motion, gain control of target creature an opponent controls and untap it.</text>
@@ -8398,6 +8381,25 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Vault (HELL)</name>
+      <text>Take an extra turn after this one.
+End the turn.
+Exile Vault.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>3</cmc>
+        <manacost>3</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <colors>P</colors>
+        <type>Sorcery — Skill</type>
+        <coloridentity>P</coloridentity>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Weave (HELL)</name>
