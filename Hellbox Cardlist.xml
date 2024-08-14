@@ -6561,7 +6561,7 @@ Whenever Velukan Dragon attacks or blocks, roll a six-sided die. Velukan Dragon 
         <maintype>Creature</maintype>
         <type>Creature — Dragon</type>
       </prop>
-      <set rarity="rare" uuid="1c91a50e-2a06-4a0d-bc47-7217b3dfcb6f" num="10">HELL</set>
+      <set rarity="rare" num="145" uuid="1ef829f1-eaa7-43e7-acef-5bb688ca6077">HELL</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -6903,7 +6903,7 @@ When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+
         <maintype>Creature</maintype>
         <cmc>8</cmc>
       </prop>
-      <set num="280" rarity="mythic" muid="627744" uuid="e8f4435a-8604-45b5-a537-dfdfcb922e16">HELL</set>
+      <set rarity="mythic" num="280" muid="627744" uuid="e8f4435a-8604-45b5-a537-dfdfcb922e16">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -6921,7 +6921,7 @@ When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+
         <layout>normal</layout>
         <side>front</side>
       </prop>
-      <set>HELL</set>
+      <set rarity="common" num="999-DC" uuid="90489370-dac6-4e45-a837-d9cb6c8e66b2">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -7099,7 +7099,7 @@ Other Squirrels you control get +1/+1.</text>
         <layout>normal</layout>
         <maintype>Creature</maintype>
       </prop>
-      <set muid="10505" rarity="common" uuid="fae9abc7-ecd3-4042-a5b0-5f2b24491fa6" num="135">HELL</set>
+	  <set rarity="common" num="206" uuid="824aaef5-94ae-447e-b8f0-d5b89426675c">HELL</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -8292,7 +8292,7 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
         <maintype>Creature</maintype>
         <type>Creature — Human Wizard</type>
       </prop>
-      <set>HELL</set>
+      <set rarity="common" num="999-CFTM" uuid="4fab6c4b-bb56-4705-89f6-598a0de519fb">HELL</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -8913,7 +8913,7 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
         <colors>BRG</colors>
         <cmc>3</cmc>
       </prop>
-	  <set>HELL</set>
+      <set rarity="common" num="999-JEO" uuid="db024903-e6e7-4244-877a-98725032c274">HELL</set>
 	  <related>Abrupt Decay</related>
 	  <related>Blightning</related>
 	  <related>Bloodbraid Elf</related>
