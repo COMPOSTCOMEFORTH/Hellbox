@@ -5120,6 +5120,22 @@ When Thorn of the Black Rose enters, you become the monarch.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>TL;DR (HELL)</name>
+      <text>Exile target creature if it has any abilities other than keywords.</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Instant</type>
+        <layout>normal</layout>
+        <colors>B</colors>
+        <maintype>Instant</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>BB</manacost>
+      </prop>
+      <set rarity="common" num="999-TLDR" uuid="e6f78f7f-a5cb-4cc8-a23d-efb085cdd3c6">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Yargle, Glutton of Urborg (HELL)</name>
       <text>Menace</text>
       <prop>
