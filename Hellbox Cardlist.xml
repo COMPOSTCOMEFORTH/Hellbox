@@ -1299,6 +1299,22 @@ Whenever a player activates the ability of a creature, if that player has activa
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Intangible Vibes (HELL)</name>
+      <text>All creatures are tokens. (They're considered tokens for spells and abilities. After a creature leaves the battlefield, it ceases to exist.)</text>
+      <prop>
+        <coloridentity>W</coloridentity>
+        <type>Enchantment</type>
+        <layout>normal</layout>
+        <colors>W</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>1W</manacost>
+      </prop>
+      <set rarity="common" num="999-IV" uuid="2563d76b-0613-42af-96dd-37ead0051f1b">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Legion's Chant (HELL)</name>
       <text>Intensity 8
 Return any number of creature cards with total mana value X or less from your graveyard to the battlefield, where X is Legion's Chant's intensity.
