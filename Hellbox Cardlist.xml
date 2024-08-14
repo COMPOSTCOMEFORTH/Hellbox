@@ -10906,6 +10906,7 @@ Other noncreature artifacts are mono and continuous. (Each activated ability of 
         <manacost>0</manacost>
       </prop>
       <set rarity="common" num="999-OOO" uuid="46199a5e-ad37-4e66-b296-39428021d951">HELL</set>
+      <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>
