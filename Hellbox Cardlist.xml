@@ -1312,6 +1312,7 @@ Whenever a player activates the ability of a creature, if that player has activa
         <manacost>1W</manacost>
       </prop>
       <set rarity="common" num="999-IV" uuid="2563d76b-0613-42af-96dd-37ead0051f1b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>
