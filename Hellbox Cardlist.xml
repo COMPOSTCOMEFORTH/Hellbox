@@ -5172,6 +5172,36 @@ If a card would be put into your graveyard from anywhere this turn, exile that c
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>You Compleat Me (HELL)</name>
+      <text>If your life total is greater than 10, it becomes 10. For the rest of the game, your maximum life total is 10. You get an emblem with &quot;Pay 2 life: Add one mana of any color&quot; and &quot;At the beginning of your upkeep, you draw a card and you lose 1 life.&quot;</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Sorcery</type>
+        <layout>normal</layout>
+        <colors>B</colors>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>1BB</manacost>
+      </prop>
+	  <related>Compleation Emblem (HELL)</related>
+      <set rarity="common" num="999-YCM" uuid="afb8ebe9-8648-4bd1-b725-e0d9656f53e3">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Compleation Emblem (HELL)</name>
+      <text>Pay 2 life: Add one mana of any color.
+At the beginning of your upkeep, your draw a card and you lose 1 life.</text>
+      <prop>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set rarity="common" num="999-YCM" uuid="afb8ebe9-8648-4bd1-b725-e0d9656f53e3">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>ᛘᛅᚹ (HELL)</name>
       <text>(Once per turn, you may attach a land you control to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
 Psyche — {0}: ᛘᛅᚹ deals 40 damage to any target. Activate only once during each of your turns, and only if ᛘᛅᚹ has at least {B}{B} attached to it as Energy.
