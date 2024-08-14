@@ -317,7 +317,6 @@
         <card number="1" name="Form of the Dinosaur (HELL)"/>
         <card number="1" name="Form of the Squirrel (HELL)"/>
         <card number="1" name="Earl of Squirrel (HELL)"/>
-        <card number="1" name="Essence of the Wild (HELL)"/>
         <card number="1" name="Eternal Witness (HELL)"/>
         <card number="1" name="Golgari Grave-Troll (HELL)"/>
         <card number="1" name="Fog (HELL)"/>
@@ -540,6 +539,7 @@
 		<card number="1" name="Rule with an Even Hand (HELL)"/>
 		<card number="1" name="Subgoyf (HELL)"/>
 		<card number="1" name="Starting Town NPC (HELL)"/>
+		<card number="1" name="The Colossal Dreadmaw (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

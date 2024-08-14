@@ -7140,6 +7140,26 @@ All Chorus cards you own intensify by 1.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>The Colossal Dreadmaw (HELL)</name>
+      <text>Trample
+You may cast creature cards from your hand as though they were the card Colossal Dreadmaw.</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Legendary Creature — Dinosaur</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+        <side>front</side>
+        <cmc>6</cmc>
+        <manacost>4GG</manacost>
+      </prop>
+      <set rarity="common" num="999-TCD" uuid="d0c98dca-b499-408f-8f99-9c59742027ee">HELL</set>
+	  <related>Colossal Dreadmaw</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Constructor Warrior Shovelon (HELL)</name>
       <text>(The number of stars in a cost determines the Rush creature's casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
@@ -7300,24 +7320,6 @@ Other Squirrels you control get +1/+1.</text>
         <side>front</side>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
-    <card>
-      <name>Essence of the Wild (HELL)</name>
-      <text>Creatures you control enter the battlefield as a copy of Essence of the Wild.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>G</coloridentity>
-        <type>Creature — Avatar</type>
-        <maintype>Creature</maintype>
-        <side>front</side>
-        <manacost>3GGG</manacost>
-        <colors>G</colors>
-        <pt>6/6</pt>
-        <cmc>6</cmc>
-      </prop>
-      <set num="178" rarity="mythic" muid="254133" uuid="dec48cba-1b5d-44e7-9e25-16922dedb67d">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
