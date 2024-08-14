@@ -2226,6 +2226,23 @@ When you control no Islands, sacrifice Dandân.</text>
       <related attach="transform">Delver of Secrets (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Duelists' Convocation International (HELL)</name>
+      <text>When Duelists' Convocation International enters the battlefield, choose a 10-digit number at random and write it down.
+Whenever you play a land or cast a spell, if it shares a mana value with one or more uncrossed digits in the chosen number, cross out one of those digits and draw a card. Then if all ten digits are crossed out, you win the game.</text>
+      <prop>
+        <coloridentity>U</coloridentity>
+        <type>Enchantment</type>
+        <layout>normal</layout>
+        <colors>U</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>2U</manacost>
+      </prop>
+      <set rarity="common" num="999-DCI" uuid="da56c50e-235c-4e55-92f8-bf6cdf39fe79">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Ebidramon (HELL)</name>
       <text>Digivolve Lv.3 Blue Digimon {2}
