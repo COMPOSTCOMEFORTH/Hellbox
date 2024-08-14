@@ -332,6 +332,21 @@ This ability cannot be countered.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Indicate (HELL)</name>
+      <text>Target permanent.</text>
+      <prop>
+        <type>Sorcery</type>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
+      </prop>
+      <set rarity="common" num="999-I" uuid="e328353e-d43f-46f7-ab4e-d3e1f3e57c7e">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
   	<card>
       <name>Joker (HELL)</name>
       <text></text>
@@ -9050,6 +9065,7 @@ Snakes you control have daunt, deathtouch, and poisonous 2. (A creature with dau
         <manacost>2BGU</manacost>
       </prop>
       <set rarity="common" num="999-HOTSK" uuid="2bbaddee-5d3d-4b86-b3cc-fefb8e0ecd76">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>

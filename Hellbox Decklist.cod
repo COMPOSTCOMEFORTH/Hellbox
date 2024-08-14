@@ -519,6 +519,7 @@
 		<card number="1" name="Duelists' Convocation International (HELL)"/>
 		<card number="1" name="Fludge, Gunk Guardian (HELL)"/>
 		<card number="1" name="Hish of the Snake Cult (HELL)"/>
+		<card number="1" name="Indicate (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
