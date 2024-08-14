@@ -8342,7 +8342,7 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
         <layout>normal</layout>
         <maintype>Instant</maintype>
       </prop>
-      <set muid="2599" rarity="uncommon" uuid="a8645e4f-eaa8-4420-a6a3-eb53c311fab1" num="275">HELL</set>
+            <set rarity="common" num="77" uuid="8cef2ecb-4c23-4af8-940e-86a381e92330">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
