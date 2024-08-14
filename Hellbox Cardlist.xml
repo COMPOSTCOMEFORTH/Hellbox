@@ -8001,6 +8001,42 @@ Whenever Questing Beast deals combat damage to an opponent, it deals that much d
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Questing Cosplayer (HELL)</name>
+      <text>When Questing Cosplayer enters the battlefield, create a Questing Role token and attach it to target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has all the abilities of Questing Beast.)</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Creature — Human Bard</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>1G</manacost>
+      </prop>
+      <set rarity="common" num="999-QC" uuid="2fae8698-5cbc-4346-8989-f654520a58c4">HELL</set>
+	  <related>Questing Role (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Questing Role (HELL)</name>
+      <text>Enchant creature
+Enchanted creature has vigilance, deathtouch, and haste.
+Enchanted creature can’t be blocked by creatures with power 2 or less.
+Combat damage that would be dealt by creatures you control can’t be prevented.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.</text>
+      <prop>
+        <side>front</side>
+        <type>Token Enchantment — Aura Role</type>
+        <layout>normal</layout>
+        <maintype>Token</maintype>
+        <cmc>0</cmc>
+      </prop>
+      <set rarity="common" num="999-QC" uuid="2fae8698-5cbc-4346-8989-f654520a58c4">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Rancor (HELL)</name>
       <text>Enchant creature
 Enchanted creature gets +2/+0 and has trample.
