@@ -1846,6 +1846,26 @@ Whenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 cou
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Alberix, the Trade Planet (HELL)</name>
+      <text>Planet (When this permanent enters, exile the top five cards of your library as its resources.)
+Trade Routes — At the beginning of your precombat main phase, choose one —
+• Discard a card. If you do, put two of Alberix's resources into its owner's hand.
+• Exile the top card of your library as a resource.</text>
+      <prop>
+        <coloridentity>U</coloridentity>
+        <type>World Enchantment</type>
+        <layout>normal</layout>
+        <colors>U</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>4</cmc>
+        <manacost>2UU</manacost>
+      </prop>
+      <set rarity="common" num="999-ATP" uuid="8c134dea-ee5b-4d3a-a2fb-7b0910443790">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Amphibian Downpour (HELL)</name>
       <text>Flash
 Storm
@@ -1860,10 +1880,10 @@ Enchanted creature loses all abilities and is a blue Frog creature with base pow
         <manacost>2U</manacost>
         <colors>U</colors>
         <maintype>Enchantment</maintype>
-       </prop>
-       <set muid="662203" rarity="rare" num="51" uuid="2d8aeca5-622a-45be-8168-07e7c00e3092">HELL</set>
-	   <related attach="transform">Omni-Land (HELL)</related>
-       <tablerow>1</tablerow>
+      </prop>
+      <set muid="662203" rarity="rare" num="51" uuid="2d8aeca5-622a-45be-8168-07e7c00e3092">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Ancestral Recall (HELL)</name>
