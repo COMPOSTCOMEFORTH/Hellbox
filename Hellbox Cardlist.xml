@@ -6435,6 +6435,24 @@ Flashback {5}{R}{R}</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Pyromancy 101 (HELL)</name>
+      <text>Pyromancy 101 deals 1 damage to any target.
+Teach {1}{R} (Then exile this spell taught to a creature you control. For as long as this card remains exiled, that creature has &quot;{T}: Copy the exiled card. You may cast the copy for its teach cost.&quot;)</text>
+      <prop>
+        <coloridentity>R</coloridentity>
+        <type>Sorcery — Lesson</type>
+        <layout>normal</layout>
+        <colors>R</colors>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>1</cmc>
+        <manacost>R</manacost>
+      </prop>
+      <set rarity="common" num="999-PMOOO" uuid="70d1834c-c01a-44db-9368-fd285dbf08a7">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Ragavan, Nimble Pilferer (HELL)</name>
       <text>As long as this creature is on the battlefield, damage isn’t removed from it during cleanup steps.
 Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
