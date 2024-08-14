@@ -978,6 +978,23 @@ At the beginning of your upkeep, if Arden Angel is in your graveyard, roll a fou
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Avacyn's Collar, the Symbol of Her Church (HELL)</name>
+      <text>Equipped creature can't attack, block, or transform, and its activated abilities can't be activated.
+Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a sorcery.)</text>
+      <prop>
+        <coloridentity>W</coloridentity>
+        <type>Artifact — Equipment</type>
+        <layout>normal</layout>
+        <colors>W</colors>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>1W</manacost>
+      </prop>
+      <set rarity="common" num="999-AC" uuid="7e4c67bd-a87f-4938-8a57-46946263cd44">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>AWOL (HELL)</name>
       <text>Exile target attacking creature. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone.</text>
