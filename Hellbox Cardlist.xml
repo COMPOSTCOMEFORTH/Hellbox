@@ -7924,6 +7924,24 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Penumbra Umbra (HELL)</name>
+      <text>Enchant creature you control
+When Penumbra Umbra is put into a graveyard from the battlefield, create a token that's a copy of enchanted creature, except the token is black.
+Umbra armor</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Enchantment — Aura</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>1G</manacost>
+      </prop>
+      <set rarity="common" num="999-PUU" uuid="8c3abc5c-8741-4aa2-842d-5b72e3d75394">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Permeating Mass (HELL)</name>
       <text>Whenever Permeating Mass deals combat damage to a creature, that creature becomes a copy of Permeating Mass.</text>
       <prop>

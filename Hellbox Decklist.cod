@@ -535,6 +535,7 @@
 		<card number="1" name="Pyromancy 101 (HELL)"/>
 		<card number="1" name="Pinchy McStingbutt (HELL)"/>
 		<card number="1" name="Phyrexian Seedling (HELL)"/>
+		<card number="1" name="Penumbra Umbra (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
