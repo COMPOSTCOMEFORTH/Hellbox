@@ -3301,24 +3301,6 @@ You can't win the game and your opponents can't lose the game.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Ai &amp; Mako (HELL)</name>
-      <text>At the beginning of your precombat main phase, if you have two or less unspent mana, add {C}{C}{C}.
-{T}: Mill 1. Activate only if you are attacking. If you are attacking with a Beelzemon, you may digivolve it into a Beelzemon Blast Mode in your graveyard by paying {3}. (Put Beelzemon Blast Mode over Beelzemon. It becomes a copy of Beelzemon Blast Mode for as long as Beelzemon Blast Mode remains on top. Then, draw a card.)</text>
-      <prop>
-        <colors>B</colors>
-        <manacost>4</manacost>
-        <coloridentity>B</coloridentity>
-        <type>Enchantment — Tamer</type>
-        <maintype>Enchantment</maintype>
-        <cmc>4</cmc>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>1</tablerow>
-    </card>
 	<card>
       <name>Assemble from Parts (HELL)</name>
       <text>Target creature card in your graveyard perpetually gains &quot;{1}{B}{B}, Exile this card from your graveyard: Shuffle it into your library. Create a token that's a copy of it, except it's a 4/4 black Zombie in addition to its other types. Activate only as a sorcery.&quot;</text>
@@ -3947,29 +3929,6 @@ You lose this emblem.</text>
         <cmc>1</cmc>
       </prop>
       <set num="474" rarity="rare" uuid="f776cb6c-548f-45a9-b605-b386c5468885">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
-	<card>
-      <name>DeathXmon (HELL)</name>
-      <text>X Program (This keyword has no effect on it's own.)
-Digivolve Lv.6 Black or Artifact Digimon {6}
-(If you cast this spell for its digivolve cost, put it over target black or artifact Lv.6 Digimon creature you own. It becomes a copy of DeathXmon for as long as DeathXmon remains on top. Then, draw a card.)
-This spell costs {3} less to cast for each creature and Tamer your opponent controls.
-When DeathXmon enters, or a creature digivolves into DeathXmon, remove the top card of all stacked permanents your opponents control. Then, destroy all Lv.4 or lower creatures your opponents control. (Stacked permanents include mutated, digivolved, or EX-evolved creatures, and evolved Pokémon.)
-And the beginning of your opponent's end step, destroy all creatures they control with the lowest mana value.</text>
-      <prop>
-        <maintype>Creature</maintype>
-        <pt>15000/15000</pt>
-        <cmc>20</cmc>
-        <colors>B</colors>
-        <manacost>20</manacost>
-        <side>front</side>
-		<coloridentity>B</coloridentity>
-        <layout>normal</layout>
-        <type>Creature — Lv.7 Digimon Zombie Avatar</type>
-      </prop>
-      <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -8368,6 +8327,24 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Ai &amp; Mako (HELL)</name>
+      <text>At the beginning of your precombat main phase, if you have two or less unspent mana, add {C}{C}{C}.
+{T}: Mill 1. Activate only if you are attacking. If you are attacking with a Beelzemon, you may digivolve it into a Beelzemon Blast Mode in your graveyard by paying {3}. (Put Beelzemon Blast Mode over Beelzemon. It becomes a copy of Beelzemon Blast Mode for as long as Beelzemon Blast Mode remains on top. Then, draw a card.)</text>
+      <prop>
+        <colors>P</colors>
+        <manacost>4</manacost>
+        <coloridentity>P</coloridentity>
+        <type>Enchantment — Tamer</type>
+        <maintype>Enchantment</maintype>
+        <cmc>4</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Alpha (HELL)</name>
       <text>Conjure a card named Beta into your library, then shuffle.
 Exile Alpha.</text>
@@ -8803,6 +8780,29 @@ When Darksteel Hydra enters, conjure a card named Darksteel Ingot and a card nam
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>DeathXmon (HELL)</name>
+      <text>X Program (This keyword has no effect on it's own.)
+Digivolve Lv.6 Black or Purple Digimon {6}
+(If you cast this spell for its digivolve cost, put it over target black or purple Lv.6 Digimon creature you own. It becomes a copy of DeathXmon for as long as DeathXmon remains on top. Then, draw a card.)
+This spell costs {3} less to cast for each creature and Tamer your opponent controls.
+When DeathXmon enters, or a creature digivolves into DeathXmon, remove the top card of all stacked permanents your opponents control. Then, destroy all Lv.4 or lower creatures your opponents control. (Stacked permanents include mutated, digivolved, or EX-evolved creatures, and evolved Pokémon.)
+And the beginning of your opponent's end step, destroy all creatures they control with the lowest mana value.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>15000/15000</pt>
+        <cmc>20</cmc>
+        <colors>BP</colors>
+        <manacost>20</manacost>
+        <side>front</side>
+		<coloridentity>BP</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Lv.7 Digimon Zombie Avatar</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Disa the Restless (HELL)</name>
       <text>Whenever a Lhurgoyf permanent card is put into your graveyard from anywhere other than the battlefield, put it onto the battlefield.
@@ -8903,14 +8903,14 @@ Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of tu
 	<card>
       <name>Flame Hellscythe (HELL)</name>
       <text>Target creature an opponent controls gets -6000/-6000 until end of turn.
-Return target white or black creature with 6000 or less power from your graveyard to the battlefield.</text>
+Return target white or purple creature with 6000 or less power from your graveyard to the battlefield.</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>2</cmc>
-		<colors>WB</colors>
+		<colors>WP</colors>
         <manacost>2</manacost>
         <side>front</side>
-		<coloridentity>WB</coloridentity>
+		<coloridentity>WP</coloridentity>
         <layout>normal</layout>
         <type>Sorcery</type>
       </prop>
