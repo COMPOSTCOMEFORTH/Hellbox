@@ -10563,6 +10563,23 @@ Equip {3}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Luxior, Ignited (HELL)</name>
+      <text>Equipped creature gets +1/+1 for each counter on Luxior, Ignited.
+[+1]: Attach this Equipment to up to one target creature you control.
+[−2]: Equipped creature gets +2/+2 and gains double strike until end of turn.</text>
+      <prop>
+        <type>Legendary Artifact Planeswalker — Equipment Luxior</type>
+        <layout>normal</layout>
+        <loyalty>1</loyalty>
+        <maintype>Planeswalker</maintype>
+        <side>front</side>
+        <cmc>4</cmc>
+        <manacost>4</manacost>
+      </prop>
+      <set rarity="common" num="999-LI" uuid="8d125658-4fa7-4429-9138-39eefda59ce7">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Mana Crypt (HELL)</name>
       <text>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
 {T}: Add {C}{C}.
