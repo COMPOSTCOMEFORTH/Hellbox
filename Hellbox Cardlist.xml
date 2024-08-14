@@ -11683,6 +11683,26 @@ Metalcraft — {T}: Add {C} for each Urza's land you control. Activate only if y
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
+    <card>
+      <name>Value Town // Take a Trip to... (HELL)</name>
+      <text>Draw two cards. This spell deals 2 damage to each opponent. (Then exile this card. You may play the land later from exile.)
+
+---
+
+Value Town enters the battlefield tapped.
+{T}: Add {U} or {R}.</text>
+      <prop>
+        <coloridentity>UR</coloridentity>
+        <type>Sorcery — Adventure // Land — Town</type>
+        <layout>adventure</layout>
+        <maintype>Land</maintype>
+        <side>front</side>
+        <cmc>6</cmc>
+        <manacost>4UR</manacost>
+      </prop>
+      <set rarity="common" num="999-VAT" uuid="8d4ad5a7-bb3e-47ef-ba33-018b18248bd0">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Face Down Monster (HELL)</name>
       <text>Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.

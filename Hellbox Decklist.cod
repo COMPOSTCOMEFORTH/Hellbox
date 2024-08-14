@@ -541,6 +541,7 @@
 		<card number="1" name="Starting Town NPC (HELL)"/>
 		<card number="1" name="The Colossal Dreadmaw (HELL)"/>
 		<card number="1" name="The Heron Moon (HELL)"/>
+		<card number="1" name="Value Town // Take a Trip to... (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
