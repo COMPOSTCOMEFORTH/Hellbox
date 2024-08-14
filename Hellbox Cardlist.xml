@@ -1354,6 +1354,25 @@ All Chorus cards you own intensify by 1.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Muraganda Eldrazi (HELL)</name>
+      <text>Devoid
+Deworded (This creature counts as having no abilities.)
+When you cast this spell, put a primeval counter on target creature. (A creature with a primeval counter loses all abilities and can't gain abilities.)</text>
+      <prop>
+        <coloridentity>W</coloridentity>
+        <type>Creature — Eldrazi Dinosaur</type>
+        <layout>normal</layout>
+        <colors>W</colors>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+        <side>front</side>
+        <cmc>5</cmc>
+        <manacost>4W</manacost>
+      </prop>
+      <set rarity="common" num="999-ME" uuid="0ad445d9-8c80-4146-9539-d36a966e8a07">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Murmuration (HELL)</name>
       <text>Birds you control get +1/+1 and have vigilance.
 At the beginning of your end step, for each spell you've cast this turn, create a 1/2 blue Bird creature token with flying named Storm Crow.</text>
