@@ -7944,6 +7944,23 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Naturalize 2 (HELL)</name>
+      <text>Destroy target artifact, enchantment, emblem, or gameplay tracker. (Trackers include play aids such as dungeons, city's blessing, and monarch. When you destroy it, the associated object or designation is removed from the game.)</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Instant</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Instant</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <manacost>1G</manacost>
+      </prop>
+      <set rarity="common" num="999-NT" uuid="d50f89d4-56fd-492c-bd9a-28eab5a5b1aa">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Noxious Fumes (HELL)</name>
       <text>At the beginning of your upkeep, each opponent gets two poison counters.</text>
       <prop>
