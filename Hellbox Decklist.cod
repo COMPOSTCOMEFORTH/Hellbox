@@ -530,6 +530,7 @@
 		<card number="1" name="Map to Lorthos's Temple (HELL)"/>
 		<card number="1" name="Naturalize 2 (HELL)"/>
 		<card number="1" name="Narod, the Beige Flower (HELL)"/>
+		<card number="1" name="Oddric, Lunar Marquis (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

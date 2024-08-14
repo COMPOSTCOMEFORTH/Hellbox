@@ -4774,6 +4774,24 @@ Pay 1 life: Exile the top card of your library face down. Put that card into you
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Oddric, Lunar Marquis (HELL)</name>
+      <text>At the beginning of each combat, creatures you control gain banding until end of turn if a creature you control has banding. The same is true for changeling, devoid, fear, flanking, horsemanship, ingest, intimidate, landwalk, shroud, tantrum, wither, and the activated ability &quot;Sacrifice this creature: Add {C}.&quot;</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Creature — Human Soldier</type>
+        <layout>normal</layout>
+        <colors>B</colors>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>2B</manacost>
+      </prop>
+      <set rarity="common" num="999-OLM" uuid="d2ad2377-bd13-4b6c-8206-ca590234392b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>One with Nothing (HELL)</name>
       <text>Discard your hand.</text>
       <prop>
