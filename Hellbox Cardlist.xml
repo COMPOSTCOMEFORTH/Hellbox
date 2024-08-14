@@ -10356,6 +10356,24 @@ Destroy target enchantment.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Wowzer, the Aspirational (HELL)</name>
+      <text>Whenever Wowzer, the Aspirational attacks, if you have an {E}, control a Blood, a Clue, a Food, a Map, a Powerstone, and a Treasure, are the monarch, and have the city's blessing and the initiative, you win the game.</text>
+      <prop>
+        <coloridentity>WUBRG</coloridentity>
+        <type>Legendary Snow Creature — Wurm</type>
+        <layout>normal</layout>
+        <colors>WUBRG</colors>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+        <side>front</side>
+        <cmc>7</cmc>
+        <manacost>CWUBRGS</manacost>
+      </prop>
+      <set rarity="common" num="999-WTA" uuid="7346d60d-0b0a-4d1e-abb2-a98656b3a6d5">HELL</set>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Wrath of Sod (HELL)</name>
       <text>Put a manabond counter on all creatures. (They lose all other abilities and become lands with &quot;{T}: Add one mana of this card's color.&quot;)</text>
       <prop>
