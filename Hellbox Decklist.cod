@@ -526,6 +526,7 @@
 		<card number="1" name="Luxior, Ignited (HELL)"/>
 		<card number="1" name="Liliana's Other Contract (HELL)"/>
 		<card number="1" name="Muraganda Eldrazi (HELL)"/>
+		<card number="1" name="Meandered Towershell (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

@@ -7740,6 +7740,23 @@ Whenever Matsu-Tribe Sniper deals damage to a creature, tap that creature and it
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Meandered Towershell (HELL)</name>
+      <text>Enchant creature
+Enchanted creature has islandwalk and &quot;Whenever this creature attacks, exile it and Meandered Towershell. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn, then return Meandered Towershell to the battlefield under its owner's control attached to that creature.&quot;</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Enchantment — Aura</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>1</cmc>
+        <manacost>G</manacost>
+      </prop>
+      <set rarity="common" num="999-MT" uuid="d17d858e-8df7-4f90-a3f4-b08f1eaa1fcf">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Meandering Towershell (HELL)</name>
       <text>Islandwalk
 Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.</text>
