@@ -8290,7 +8290,7 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
         <layout>normal</layout>
         <colors>WBG</colors>
         <maintype>Creature</maintype>
-        <type>Creature — Human Wizard</type>
+        <type>Legendary Creature — Human Wizard</type>
       </prop>
       <set rarity="common" num="999-CFTM" uuid="4fab6c4b-bb56-4705-89f6-598a0de519fb">HELL</set>
       <tablerow>2</tablerow>
