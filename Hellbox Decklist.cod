@@ -524,6 +524,7 @@
 		<card number="1" name="Lich's Duel Mastery (HELL)"/>
 		<card number="1" name="Lifening Elemental (HELL)"/>
 		<card number="1" name="Luxior, Ignited (HELL)"/>
+		<card number="1" name="Liliana's Other Contract (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

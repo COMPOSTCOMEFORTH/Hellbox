@@ -4533,6 +4533,43 @@ Splice onto instant or sorcery {1}{B}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Liliana's Other Contract (HELL)</name>
+      <text>When Liliana's Other Contract enters the battlefield, you draw three cards and you lose 3 life.
+If you would lose the game, instead exile Liliana's Other Contract, then return it to the battlefield transformed under your control.</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Enchantment</type>
+        <layout>transform</layout>
+        <colors>B</colors>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>5</cmc>
+        <manacost>4B</manacost>
+      </prop>
+      <set rarity="common" num="999-LOC" uuid="c9c1e5c2-8706-4c46-8b25-b045020a3a7f">HELL</set>
+      <related attach="transform">Liliana's Undead Minion (HELL)</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+	<card>
+      <name>Liliana's Undead Minion (HELL)</name>
+      <text>You can't lose the game.
+[+1]: Each opponent loses 1 life.
+[−4]: Destroy target creature.</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Planeswalker — You</type>
+        <layout>transform</layout>
+        <loyalty>5</loyalty>
+        <maintype>Planeswalker</maintype>
+        <side>back</side>
+        <cmc>0</cmc>
+      </prop>
+      <set rarity="common" num="999-LOC" uuid="c9c1e5c2-8706-4c46-8b25-b045020a3a7f">HELL</set>
+      <related attach="transform">Liliana's Other Contract (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Manor Guardian (HELL)</name>
       <text>When Manor Guardian dies, each player seeks a nonland card with mana value 2 or less.</text>
       <prop>
