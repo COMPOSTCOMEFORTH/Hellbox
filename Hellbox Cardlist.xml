@@ -9526,6 +9526,24 @@ Creatures you control have &quot;Whenever this creature becomes the target of a 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Narod, the Beige Flower (HELL)</name>
+      <text>Each creature assigns combat damage equal to its mana value rather than its power.</text>
+      <prop>
+        <coloridentity>WUB</coloridentity>
+        <type>Legendary Creature — Plant Rogue</type>
+        <layout>normal</layout>
+        <colors>WUB</colors>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>WUB</manacost>
+      </prop>
+      <set rarity="common" num="999-NTBF" uuid="60873d64-8ea6-4f8c-9c92-d0a833d87e8b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Nature's Blessing (HELL)</name>
       <text>{G}{W}, Discard a card: Put a +1/+1 counter on target creature or that creature gains banding, first strike, or trample.</text>
       <prop>
