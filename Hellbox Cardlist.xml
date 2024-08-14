@@ -888,6 +888,25 @@ https://scryfall.com/random?q=(t:instant+OR+t:sorcery)+include:extras</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>A Girl and Her Dogs (HELL)</name>
+      <text>When A Girl and Her Dogs enters the battlefield and at the beginning of your upkeep, create a 1/1 white legendary Dog creature token and name it.
+Whenever A Girl and Her Dogs attacks, it gets +1/+1 until end of turn for each legendary creature you control.</text>
+      <prop>
+        <coloridentity>W</coloridentity>
+        <type>Creature — Human</type>
+        <layout>normal</layout>
+        <colors>W</colors>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <side>front</side>
+        <cmc>5</cmc>
+        <manacost>4W</manacost>
+      </prop>
+      <set rarity="common" num="999-AGD" uuid="40a5e12b-9fe9-40ee-8114-08241668765c">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Aging Battleship (HELL)</name>
       <text>Aging Battleship deals 5 damage to any target.
 If you have cast another white spell this turn, draw a card.
