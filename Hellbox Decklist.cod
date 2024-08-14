@@ -540,6 +540,7 @@
 		<card number="1" name="Subgoyf (HELL)"/>
 		<card number="1" name="Starting Town NPC (HELL)"/>
 		<card number="1" name="The Colossal Dreadmaw (HELL)"/>
+		<card number="1" name="The Heron Moon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

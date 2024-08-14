@@ -3061,7 +3061,7 @@ Whenever a creature you control attacks alone, seek two nonland cards, then disc
         <cmc>2</cmc>
         <manacost>1U</manacost>
       </prop>
-      <set rarity="common" num="999-SG" uuid="3144ee6e-5dca-4fda-9f78-852541b3f4c3">MB2</set>
+      <set rarity="common" num="999-SG" uuid="3144ee6e-5dca-4fda-9f78-852541b3f4c3">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -8010,7 +8010,7 @@ Proliferatelink (Damage dealt by this creature also causes you to proliferate th
         <cmc>3</cmc>
         <manacost>2G</manacost>
       </prop>
-      <set rarity="common" num="999-PS" uuid="cd2de002-28c0-427e-a61b-4d6032bca83a">MB2</set>
+      <set rarity="common" num="999-PS" uuid="cd2de002-28c0-427e-a61b-4d6032bca83a">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -11438,6 +11438,23 @@ Change the text of all creatures on the battlefield by replacing all instances o
         <type>Land</type>
       </prop>
       <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>The Heron Moon (HELL)</name>
+      <text>{T}: Add {C}.
+{1}, {T}: Exile the bottom card of target opponent's library.
+Whenever one or more cards an opponent owns are put into exile, put a release counter on The Heron Moon. Then if it has thirteen or more release counters on it, sacrifice it and create a copy of Emrakul, the Promised End. Cast it without paying its mana cost.</text>
+      <prop>
+        <type>Legendary Land</type>
+        <layout>normal</layout>
+        <maintype>Land</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+      </prop>
+      <set rarity="common" num="999-THM" uuid="5986aeba-c0d8-497c-9573-5d0880dbe49a">HELL</set>
+	  <related>Emrakul, the Promised End</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
