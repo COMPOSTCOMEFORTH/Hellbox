@@ -8340,6 +8340,25 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Chatzuk, Mighty Guitarist (HELL)</name>
+      <text>Banding
+Creature spells you cast with banding cost {2} less to cast.
+Whenever two or more creatures you control attack in a band, each creature in that band gets +1/+1 until end of turn for each creature in that band.</text>
+      <prop>
+        <coloridentity>WG</coloridentity>
+        <type>Legendary Creature — Human Bard</type>
+        <layout>normal</layout>
+        <colors>WG</colors>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>1GW</manacost>
+      </prop>
+      <set rarity="common" num="999-CMG" uuid="193afb87-9695-416a-9b1c-7b362a4a99a1">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Chea, Friend to Maybe Too Many (HELL)</name>
       <text>Familiar spells you cast have flash. (Bats, Birds, Cats, Dragons, Faeries, Foxes, Frogs, Imps, Lizards, and Spiders are familiars, as well as any creature with “Familiar” in its name.)
 {T}: Add X {G} and each opponent loses X life, where X is the number of familiars you control.</text>
