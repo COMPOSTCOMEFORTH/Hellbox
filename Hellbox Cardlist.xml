@@ -9035,6 +9035,24 @@ When High Fae Prankster enters, choose up to one —
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Hish of the Snake Cult (HELL)</name>
+      <text>Nagas and Serpents you control are Snakes.
+Snakes you control have daunt, deathtouch, and poisonous 2. (A creature with daunt can't be blocked by creatures with power 2 or less.)</text>
+      <prop>
+        <coloridentity>UBG</coloridentity>
+        <type>Legendary Creature — Snake</type>
+        <layout>normal</layout>
+        <colors>UBG</colors>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+        <side>front</side>
+        <cmc>5</cmc>
+        <manacost>2BGU</manacost>
+      </prop>
+      <set rarity="common" num="999-HOTSK" uuid="2bbaddee-5d3d-4b86-b3cc-fefb8e0ecd76">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>It Came from Planet Glurg (HELL)</name>
       <text>You may have It Came from Planet Glurg enter the battlefield as a copy of X different creatures on the battlefield. (It has their total power, total toughness, combined mana costs, all text boxes, names, art, and so on.)</text>
       <prop>
