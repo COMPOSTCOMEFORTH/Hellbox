@@ -522,6 +522,7 @@
 		<card number="1" name="Indicate (HELL)"/>
 		<card number="1" name="Intangible Vibes (HELL)"/>
 		<card number="1" name="Lich's Duel Mastery (HELL)"/>
+		<card number="1" name="Lifening Elemental (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

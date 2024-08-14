@@ -4493,6 +4493,25 @@ When Lich's Mastery leaves the battlefield, you lose the game.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
 	</card>
+    <card>
+      <name>Lifening Elemental (HELL)</name>
+      <text>Lifelink
+Splice onto instant or sorcery {1}{B}</text>
+      <prop>
+        <coloridentity>B</coloridentity>
+        <type>Creature — Vampire Elemental</type>
+        <layout>normal</layout>
+        <colors>B</colors>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+        <side>front</side>
+        <cmc>6</cmc>
+        <manacost>5B</manacost>
+      </prop>
+      <set rarity="common" num="999-LE" uuid="0ab0dfea-ca51-4d89-9d48-6a21cb07a201">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Liliana of the Veil (HELL)</name>
       <text>[+1]: Each player discards a card.
