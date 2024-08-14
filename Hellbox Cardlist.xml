@@ -5488,26 +5488,6 @@ At the beginning of your upkeep, your draw a card and you lose 1 life.</text>
       <set rarity="common" num="999-YCM" uuid="afb8ebe9-8648-4bd1-b725-e0d9656f53e3">HELL</set>
       <tablerow>1</tablerow>
     </card>
-    <card>
-      <name>ᛘᛅᚹ (HELL)</name>
-      <text>(Once per turn, you may attach a land you control to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
-Psyche — {0}: ᛘᛅᚹ deals 40 damage to any target. Activate only once during each of your turns, and only if ᛘᛅᚹ has at least {B}{B} attached to it as Energy.
-If a black source would deal damage to ᛘᛅᚹ, it deals double that damage instead.
-Sacrifice two energy attached to ᛘᛅᚹ: Return ᛘᛅᚹ and all cards under it from the battlefield to your hand.</text>
-      <prop>
-        <pt>40</pt>
-        <cmc>0</cmc>
-        <side>front</side>
-        <layout>normal</layout>
-        <colors>B</colors>
-        <maintype>Battle</maintype>
-        <coloridentity>B</coloridentity>
-        <type>Battle — Basic Pokémon</type>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
 	<card>
       <name>Ants Running About (HELL)</name>
       <text>(The number of stars in a cost determines the Rush creature's casting cost. A one star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
@@ -5656,13 +5636,13 @@ Commanders you control get +X/+0, where X is the number of commanders you contro
     </card>
     <card>
       <name>Charizard (HELL)</name>
-      <text>(Once per turn, you may attach a land you control to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
+      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
 Evolves from Charmeleon. (Charizard can only be cast by paying {0} while you control a Charmeleon. When cast this way, put it over target Charmeleon you own. It becomes a copy of Charizard for as long as Charizard remains on top. You can only Evolve a Pokémon once each turn.)
 Energy Burn — All Energy attached to Charizard provide {R}.
-Fire Spin — Sacrifice three Energy attached to Charizard: Deal 200 damage to any target. Activate only once during each of your turns, and only if Charizard has at least {R}{R}{R}{R} attached to it as Energy.
-If a blue source would deal damage to Charizard, it deals double that damage instead.
-If a red source would deal damage to Charizard, prevent 20 of that damage.
-Sacrifice three energy attached to Charizard: Return Charizard and all cards under it from the battlefield to your hand.</text>
+Fire Spin — Sacrifice three Energy attached to Charizard: Deal 200 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Charizard has at least {R}{R}{R}{R} attached to it as Energy.
+Water Weakness — If a blue source would deal damage to Charizard, it deals double that damage instead.
+Fire Resistance — If a red source would deal damage to Charizard, prevent 20 of that damage.
+Retreat — Sacrifice three energy attached to Charizard: Return Charizard and all cards under it from the battlefield to your hand.</text>
       <prop>
         <pt>150</pt>
         <cmc>0</cmc>
@@ -5679,12 +5659,12 @@ Sacrifice three energy attached to Charizard: Return Charizard and all cards und
     </card>
     <card>
       <name>Charmander (HELL)</name>
-      <text>(Once per turn, you may attach a land you control to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
+      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
 You may only activate one of Charmander's activated abilities each turn.
-Scratch — {0}: Deal 10 damage to any target. Activate only once during each of your turns, and only if Charmander has at least {1} attached to it as energy.
-Ember — Sacrifice one {R} Energy attached to Charmander: Deal 30 damage to any target. Activate only once during each of your turns, and only if Charmander has at least {1}{R} attached to it as Energy.
-If a blue source would deal damage to Charmander, it deals double that damage instead.
-Sacrifice one Energy attached to Charmander: Return Charmander and all cards under it from the battlefield to your hand.</text>
+Scratch — {0}: Deal 10 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Charmander has at least {1} attached to it as energy.
+Ember — Sacrifice one {R} Energy attached to Charmander: Deal 30 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Charmander has at least {1}{R} attached to it as Energy.
+Water Weakness — If a blue source would deal damage to Charmander, it deals double that damage instead.
+Retreat — Sacrifice one Energy attached to Charmander: Return Charmander and all cards under it from the battlefield to your hand.</text>
       <prop>
         <pt>50</pt>
         <cmc>0</cmc>
@@ -5701,13 +5681,13 @@ Sacrifice one Energy attached to Charmander: Return Charmander and all cards und
     </card>
     <card>
       <name>Charmeleon (HELL)</name>
-      <text>(Once per turn, you may attach a land you control to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
+      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
 Evolves from Charmander. (Charmeleon can only be cast by paying {0} while you control a Charmander. When cast this way, put it over target Charmander you own. It becomes a copy of Charmeleon for as long as Charmeleon remains on top. You can only Evolve a Pokémon once each turn.)
 You may only activate one of Charmeleon's activated abilities each turn.
-Slash — {0}: Deal 30 damage to any target. Activate only once during each of your turns, and only if Charmeleon has at least {3} attached to it as Energy.
-Flamethrower — Sacrifice an energy attached to Charmeleon: Deal 50 damage to any target. Activate only once during each of your turns, and only if Charmeleon has at least {1}{R}{R} attached to it as Energy.
-If a blue source would deal damage to Charmeleon, it deals double that damage instead.
-Sacrifice one energy attached to Charmeleon: Return Charmeleon and all cards under it from the battlefield to your hand.</text>
+Slash — {0}: Deal 30 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Charmeleon has at least {3} attached to it as Energy.
+Flamethrower — Sacrifice an energy attached to Charmeleon: Deal 50 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if Charmeleon has at least {1}{R}{R} attached to it as Energy.
+Water Weakness — If a blue source would deal damage to Charmeleon, it deals double that damage instead.
+Retreat — Sacrifice one energy attached to Charmeleon: Return Charmeleon and all cards under it from the battlefield to your hand.</text>
       <prop>
         <pt>80</pt>
         <cmc>0</cmc>
@@ -8436,6 +8416,26 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
         <cmc>2</cmc>
       </prop>
       <set num="163" rarity="common" muid="10506" uuid="81dd362e-42f6-4eeb-9fe7-0d9cbeb4f21e">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>ᛘᛅᚹ (HELL)</name>
+      <text>Attach Energy (Once per turn, as a sorcery, you may attach a land from your hand to a Pokémon you control as an Energy. The Energy provided can be any colour of mana that land could produce.)
+Psyche — {0}: ᛘᛅᚹ deals 40 damage to target creature, planewalker, or battle. Activate only once during each of your turns, and only if ᛘᛅᚹ has at least {P}{P} attached to it as Energy.
+Psychic Weakness — If a purple source would deal damage to ᛘᛅᚹ, it deals double that damage instead.
+Retreat — Sacrifice two energy attached to ᛘᛅᚹ: Return ᛘᛅᚹ and all cards under it from the battlefield to your hand.</text>
+      <prop>
+        <pt>40</pt>
+        <cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <colors>P</colors>
+        <maintype>Battle</maintype>
+        <coloridentity>P</coloridentity>
+        <type>Battle — Basic Pokémon</type>
+      </prop>
+      <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
