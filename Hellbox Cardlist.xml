@@ -8397,9 +8397,42 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
         <layout>normal</layout>
         <maintype>Instant</maintype>
       </prop>
-            <set rarity="common" num="77" uuid="8cef2ecb-4c23-4af8-940e-86a381e92330">HELL</set>
+      <set rarity="common" num="77" uuid="8cef2ecb-4c23-4af8-940e-86a381e92330">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Wrenn and One (HELL)</name>
+      <text>[+1]: Wrenn and One gains &quot;{T}: Add {G}{G} until your next turn.
+[−1]: Create a 1/1 green Squirrel creature token.
+[−4]: You get an emblem with &quot;At the beginning of your precombat main phase, add {G} for each creature you control.&quot;</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Land Planeswalker — Wrenn</type>
+        <layout>normal</layout>
+        <loyalty>1</loyalty>
+        <colors>G</colors>
+        <maintype>Planeswalker</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+      </prop>
+      <set rarity="common" num="999-WAO" uuid="0aec3061-91cd-4454-be4c-9d4443f091dc">HELL</set>
+	  <related>Squirrel Token</related>
+	  <related>Wrenn and One Emblem (HELL)</realated>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Wrenn and One Emblem (HELL)</name>
+      <text>At the beginning of your precombat main phase, add {G} for each creature you control.</text>
+      <prop>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set rarity="common" num="999-WAO" uuid="0aec3061-91cd-4454-be4c-9d4443f091dc">HELL</set>
+      <tablerow>1</tablerow>
     </card>
     <card>
       <name>Zodiac Rooster (HELL)</name>
