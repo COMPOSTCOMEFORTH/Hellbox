@@ -1487,7 +1487,7 @@ Added by CatManThree</text>
 	  <prop>
         <maintype>Creature</maintype>
         <pt>1850/1850</pt>
-        <cmc>8</cmc>
+        <cmc>3</cmc>
         <colors>W</colors>
         <manacost>Link 3</manacost>
         <side>front</side>
