@@ -538,6 +538,8 @@
 		<card number="1" name="Penumbra Umbra (HELL)"/>
 		<card number="1" name="Questing Cosplayer (HELL)"/>
 		<card number="1" name="Rule with an Even Hand (HELL)"/>
+		<card number="1" name="Subgoyf (HELL)"/>
+		<card number="1" name="Starting Town NPC (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

@@ -3062,6 +3062,7 @@ Whenever a creature you control attacks alone, seek two nonland cards, then disc
         <manacost>1U</manacost>
       </prop>
       <set rarity="common" num="999-SG" uuid="3144ee6e-5dca-4fda-9f78-852541b3f4c3">MB2</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
 	<card>
@@ -8214,6 +8215,26 @@ Protection from text-changing effects.</text>
       <set uuid="fa90d01c-2bc8-46f7-9351-e878eb528d4c" rarity="rare" num="16">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Starting Town NPC (HELL)</name>
+      <text>Each creature card in your hand has a {1}{G} Adventure sorcery named Fetch Herbs with &quot;You gain 2 life.&quot; (You may cast it as the Adventure for {1}{G}. Then exile it, and you may cast the creature later from exile.)
+Each creature card you cast from exile enters the battlefield with an additional +1/+1 counter on it.</text>
+      <prop>
+        <coloridentity>G</coloridentity>
+        <type>Creature — Human Peasant</type>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <side>front</side>
+        <cmc>3</cmc>
+        <manacost>2G</manacost>
+      </prop>
+      <set rarity="common" num="999-STN" uuid="710ac5cd-04bf-44d7-985c-5a4bc35e1957">HELL</set>
+	  <related>On an Adventure</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Storm Seeker (HELL)</name>
