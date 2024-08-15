@@ -550,6 +550,7 @@
 		<card number="1" name="Drink the Ocean (HELL)"/>
 		<card number="1" name="Prismatic Dragon (HELL)"/>
 		<card number="1" name="Twilight Occultist (HELL)"/>
+		<card number="1" name="Phoenix of the End (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

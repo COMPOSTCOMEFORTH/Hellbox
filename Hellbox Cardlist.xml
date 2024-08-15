@@ -681,6 +681,23 @@ When you set this scheme in motion, each opponent sacrifices a creature. If you 
       <tablerow>1</tablerow>
     </card>
 	<card>
+      <name>Phoenix of the End (HELL)</name>
+      <text>Flying, mangle (Damage dealt by this card isn’t removed from creatures during cleanup steps.)
+If your life total would be reduced to 0 or less by combat damage, instead cast this card from your hand without paying its mana cost and set your life to 1. If you do, it gains &quot;When Phoenix of the End enters, it deals 5 damage to each other creature, planeswalker, and battle. Each player discards their hand, then draws five cards. End the turn.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <cmc>8</cmc>
+        <manacost>8</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Primeval Creature — Phoenix Avatar</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Pot of Greed (HELL)</name>
       <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Draw two cards.</text>
