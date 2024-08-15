@@ -235,6 +235,24 @@ When you set this scheme in motion, create seven 0/1 green Plant creature tokens
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>1</tablerow>
     </card>
+	<card>
+      <name>Eye of Atem (HELL)</name>
+      <text>Choose one —
+• Search your library for a card, reveal it, put that card into your hand, then shuffle. You lose life equal to half its mana value, rounded up.
+• Draw three cards, then discard three cards.
+• Gain 4 life.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>3</cmc>
+        <manacost>3</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Ethereal Sorcery — Boost</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
     <card>
       <name>Grim Patron (HELL)</name>
       <text>Whenever Grim Patron is dealt damage, create a token that’s a copy of Grim Patron.</text>
