@@ -8548,7 +8548,7 @@ Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
       </prop>
       <set rarity="common" num="999-WAO" uuid="0aec3061-91cd-4454-be4c-9d4443f091dc">HELL</set>
 	  <related>Squirrel Token</related>
-	  <related>Wrenn and One Emblem (HELL)</realated>
+	  <related>Wrenn and One Emblem (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
