@@ -698,6 +698,26 @@ Draw two cards.</text>
       <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Prismatic Dragon (HELL)</name>
+      <text>Flying
+When Prismatic Dragon enters, choose two —
+• Draw three cards.
+• Deal 4 damage to a creature Prismatic Dragon is able to block.
+• Put four await counts on a card in your hand. (A card with await counters costs {X} less to cost, where X is the number of await cards on it.)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+        <cmc>12</cmc>
+        <manacost>12</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Cosmic Creature — Dragon Rebel</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Raigeki (HELL)</name>
       <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Destroy all creatures you don’t control.
