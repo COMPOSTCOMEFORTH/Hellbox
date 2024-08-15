@@ -547,6 +547,7 @@
 		<card number="1" name="Who's That Praetor? (HELL)"/>
 		<card number="1" name="Eye of Atem (HELL)"/>
 		<card number="1" name="Technical Maneuver (HELL)"/>
+		<card number="1" name="Drink the Ocean (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

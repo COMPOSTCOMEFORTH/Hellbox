@@ -166,6 +166,21 @@ Whenever you cast an instant or sorcery spell with the chosen name, you may copy
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Drink the Ocean (HELL)</name>
+      <text>Draw 10 cards. For the rest of the game, shuffle your graveyard into your library at the beginning of each end step.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>10</cmc>
+        <manacost>10</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Ethereal Sorcery — Strike</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
     <card>
       <name>Eldrazi Conscription (HELL)</name>
       <text>Enchant creature
