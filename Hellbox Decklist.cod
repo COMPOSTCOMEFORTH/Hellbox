@@ -549,6 +549,7 @@
 		<card number="1" name="Technical Maneuver (HELL)"/>
 		<card number="1" name="Drink the Ocean (HELL)"/>
 		<card number="1" name="Prismatic Dragon (HELL)"/>
+		<card number="1" name="Twilight Occultist (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

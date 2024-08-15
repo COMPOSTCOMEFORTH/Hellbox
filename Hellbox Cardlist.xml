@@ -869,6 +869,24 @@ Each player chooses a card from their hand. Each player puts all cards not chose
 	  <related attach="transform">Omni-Land (HELL)</related>
     </card>
 	<card>
+      <name>Twilight Occultist (HELL)</name>
+      <text>When Twilight Occultist enters or is flipped face up, each player discards their hand, then draws four cards. For each creature card discarded this way, put an intensity counter on Twilight Occultist.
+{T}: Add X {C} and lose X life, where X is the number of intensity counters on Twilight Occultist.
+At the beginning of your upkeep, remove an intensity counter from Twilight Occultist.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <cmc>4</cmc>
+        <manacost>4</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Magical Creature — Human Warlock</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Ulamog, the Infinite Gyre (HELL)</name>
       <text>When you cast this spell, destroy target permanent.
 Indestructible, menace
