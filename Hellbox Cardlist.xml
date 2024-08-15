@@ -786,6 +786,21 @@ https://scryfall.com/search?q=f:standard+(mv=0+OR+mv=1+OR+mv=2+OR+mv=3)+(t:insta
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+	<card>
+      <name>Technical Maneuver (HELL)</name>
+      <text>Draw three cards, then discard two cards unless you pay half your life, rounded up.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>1</cmc>
+        <manacost>1</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Synthetic Sorcery — Boost</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
     <card>
       <name>There Is No Refuge (HELL)</name>
       <text>(You can only set one scheme into motion each turn.)
