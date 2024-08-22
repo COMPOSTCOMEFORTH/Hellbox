@@ -99,7 +99,7 @@ When a creature you control dies, you may play Corpse Maggots from your hand wit
       <prop>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <cmc>2</cmc>
+        <cmc>5</cmc>
         <manacost>🦴🦴🦴🦴🦴</manacost>
         <side>front</side>
         <layout>normal</layout>
@@ -515,6 +515,39 @@ Annihinfect (Whenever this creature attacks, defending player sacrifices a perma
       <set rarity="common" num="999-KC" uuid="8a5d0caf-8f15-4c25-958d-19ffc7ed462e">HELL</set>
       <related>Poison Counter</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Long Elk (HELL)</name>
+      <text>(Creatures with bone costs can be cast by exiling that many creatures from your graveyard)
+Deathtouch
+At the beginning of your end step, create a Vertebrae token.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <cmc>4</cmc>
+        <manacost>🦴🦴🦴🦴</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Elk Skeleton Horror</type>
+      </prop>
+      <set>HELL</set>
+	  <related>Vertebrae Token (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Vertebrae Token (HELL)</name>
+      <text></text>
+      <prop>
+        <maintype>Token</maintype>
+        <pt>0/1</pt>
+        <cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Token Creature — Skeleton</type>
+      </prop>
+      <set>HELL</set>
       <tablerow>2</tablerow>
     </card>
     <card>
