@@ -9888,6 +9888,44 @@ Snakes you control have daunt, deathtouch, and poisonous 2. (A creature with dau
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Indris, the Hydrostatic Surge (HELL)</name>
+      <text>When Indris, the Hydrostatic Surge enters, conjure a card named Lightning Bolt into your library. It perpetually gains storm. Then shuffle.
+Whenever you cast an instant or sorcery spell, draw a card.</text>
+      <prop>
+        <manacost>4UR</manacost>
+        <type>Legendary Creature — Otter Incarnation</type>
+        <colors>UR</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>UR</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>5/5</pt>
+        <cmc>6</cmc>
+      </prop>
+      <set num="25" rarity="mythic" uuid="618806ea-7ea8-4cfb-a8c1-c3defa34e7dd">HELL</set>
+      <related persistent="persistent">Lightning Bolt Token (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lightning Bolt Token (HELL)</name>
+      <text> Storm
+Lightning Bolt deals 3 damage to any target.</text>
+      <prop>
+        <layout>normal</layout>
+        <coloridentity>R</coloridentity>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <side>front</side>
+        <manacost>R</manacost>
+        <colors>R</colors>
+        <cmc>1</cmc>
+      </prop>
+      <set num="161" rarity="common" muid="209" uuid="d573ef03-4730-45aa-93dd-e45ac1dbaf4a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>It Came from Planet Glurg (HELL)</name>
       <text>You may have It Came from Planet Glurg enter the battlefield as a copy of X different creatures on the battlefield. (It has their total power, total toughness, combined mana costs, all text boxes, names, art, and so on.)</text>
       <prop>

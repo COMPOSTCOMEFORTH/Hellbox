@@ -565,6 +565,7 @@
 		<card number="1" name="Leaf-Leap Guide (HELL)"/>
 		<card number="1" name="Buxton, Decorated Host (HELL)"/>
 		<card number="1" name="Euru, Acorn Scrounger (HELL)"/>
+		<card number="1" name="Indris, the Hydrostatic Surge (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
