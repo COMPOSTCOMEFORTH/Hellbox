@@ -9159,6 +9159,25 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Buxton, Decorated Host (HELL)</name>
+      <text>Convoke
+At the beginning of your end step, if you control a tapped creature, seek a nonland permanent card with mana value X or less, where X is the number of tapped creatures you control. Put that card onto the battlefield.</text>
+      <prop>
+        <manacost>3GW</manacost>
+        <type>Legendary Creature — Rabbit Noble</type>
+        <colors>WG</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>WG</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>4/4</pt>
+        <cmc>5</cmc>
+      </prop>
+      <set num="21" rarity="mythic" uuid="016a7142-d4e9-4c3a-bfe3-f285ef30f6ff">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Cabaretti Revels (HELL)</name>
       <text>Whenever you cast a creature spell, seek a creature card with lesser mana value, then put it onto the battlefield.</text>
       <prop>

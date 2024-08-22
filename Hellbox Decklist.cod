@@ -563,6 +563,7 @@
 		<card number="1" name="Chittering Skullspeaker (HELL)"/>
 		<card number="1" name="Darkstar Banisher (HELL)"/>
 		<card number="1" name="Leaf-Leap Guide (HELL)"/>
+		<card number="1" name="Buxton, Decorated Host (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
