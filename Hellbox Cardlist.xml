@@ -665,6 +665,23 @@ At the beginning of your end step, if it's not the first turn of the game, put a
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+	<card>
+      <name>Ouroboros (HELL)</name>
+      <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
+When Ouroboros dies, it perpetually gets +1/+1. Return Ouroboros to its owner’s hand.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <cmc>2</cmc>
+        <manacost>🌢🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Snake</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Pay Tribute to Me (HELL)</name>
       <text>(You can only set one scheme into motion each turn.)

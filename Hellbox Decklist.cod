@@ -551,6 +551,7 @@
 		<card number="1" name="Prismatic Dragon (HELL)"/>
 		<card number="1" name="Twilight Occultist (HELL)"/>
 		<card number="1" name="Phoenix of the End (HELL)"/>
+		<card number="1" name="Ouroboros (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
