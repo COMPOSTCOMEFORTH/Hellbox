@@ -558,6 +558,7 @@
 		<card number="1" name="The Daus (HELL)"/>
 		<card number="1" name="Long Elk (HELL)"/>
 		<card number="1" name="Marshland Hordemaster (HELL)"/>
+		<card number="1" name="Cottontail Caretaker (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

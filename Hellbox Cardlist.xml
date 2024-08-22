@@ -1325,6 +1325,23 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Cottontail Caretaker (HELL)</name>
+      <text>When Cottontail Caretaker enters, choose a white creature card in your hand. That card perpetually gains offspring {1}.</text>
+      <prop>
+        <manacost>1W</manacost>
+        <type>Creature — Rabbit Citizen</type>
+        <colors>W</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>W</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>2/2</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="2" rarity="uncommon" uuid="7cdc2fb2-e6f1-44c1-8d35-14df611ca15c">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Dedicated Dollmaker (HELL)</name>
       <text>When Dedicated Dollmaker enters, exile up to one other target nonland, nontoken permanent. Its controller creates a token that's a copy of it, except it's not legendary and it's an artifact in addition to its other types.
