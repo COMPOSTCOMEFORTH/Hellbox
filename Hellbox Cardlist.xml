@@ -1132,7 +1132,7 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
         <pt>3000/2500</pt>
         <cmc>8</cmc>
         <colors>W</colors>
-        <manacost>********</manacost>
+        <manacost>☆☆☆☆☆☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
@@ -1309,7 +1309,7 @@ At the beginning of the upkeep of the exiled card's owner, that player rolls two
         <pt>200/1400</pt>
         <cmc>2</cmc>
         <colors>W</colors>
-        <manacost>**</manacost>
+        <manacost>☆☆</manacost>
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
@@ -1367,7 +1367,7 @@ Whenever a player activates the ability of a creature, if that player has activa
         <pt>2000/2000</pt>
         <cmc>4</cmc>
         <colors>W</colors>
-        <manacost>****</manacost>
+        <manacost>☆☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
@@ -1659,7 +1659,7 @@ Added by CatManThree</text>
         <pt>1850/1850</pt>
         <cmc>3</cmc>
         <colors>W</colors>
-        <manacost>Link 3</manacost>
+        <manacost>↙↓↘</manacost>
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
@@ -3381,7 +3381,7 @@ Warlock of the Ice Barrier gets "Each player cannot cast spells from their hand"
         <pt>400/1000</pt>
         <cmc>3</cmc>
         <colors>U</colors>
-        <manacost>***</manacost>
+        <manacost>☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>U</coloridentity>
         <layout>normal</layout>
@@ -3738,7 +3738,7 @@ When Darigaaz's Whelp enters, if it was kicked, seek a Dragon card. Darigaaz's W
         <pt>2500/2100</pt>
         <cmc>7</cmc>
         <colors>B</colors>
-        <manacost>*******</manacost>
+        <manacost>☆☆☆☆☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>B</coloridentity>
         <layout>normal</layout>
@@ -4143,7 +4143,7 @@ Added by VVK</text>
         <pt>1000/1000</pt>
         <cmc>3</cmc>
         <colors>G</colors>
-        <manacost>***</manacost>
+        <manacost>☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -4518,7 +4518,7 @@ Other Warlocks you control get +1/+1.</text>
         <pt>200/300</pt>
         <cmc>1</cmc>
         <colors>G</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -4539,7 +4539,7 @@ Added by VVK</text>
         <pt>200/300</pt>
         <cmc>1</cmc>
         <colors>G</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -5100,7 +5100,7 @@ While Relinquished is enchanted, if you take combat damage while Relinquished is
         <pt>0/1</pt>
         <cmc>1</cmc>
         <colors>B</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>B</coloridentity>
         <layout>normal</layout>
@@ -5139,7 +5139,7 @@ Added by VVK</text>
         <pt>200/300</pt>
         <cmc>1</cmc>
         <colors>G</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -5160,7 +5160,7 @@ Added by VVK</text>
         <pt>200/300</pt>
         <cmc>1</cmc>
         <colors>G</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -5553,7 +5553,7 @@ At the beginning of your upkeep, your draw a card and you lose 1 life.</text>
         <pt>100/600</pt>
         <cmc>1</cmc>
         <colors>R</colors>
-        <manacost>*</manacost>
+        <manacost>☆</manacost>
         <side>front</side>
 		<coloridentity>R</coloridentity>
         <layout>normal</layout>
@@ -7298,7 +7298,7 @@ You may cast creature cards from your hand as though they were the card Colossal
         <pt>1500/1</pt>
         <cmc>4</cmc>
         <colors>G</colors>
-        <manacost>****</manacost>
+        <manacost>☆☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -7606,7 +7606,7 @@ You can't cast spells.</text>
         <pt>1200/1400</pt>
         <cmc>4</cmc>
         <colors>G</colors>
-        <manacost>****</manacost>
+        <manacost>☆☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -7702,7 +7702,7 @@ Added by CatManThree</text>
         <pt>800/400</pt>
         <cmc>2</cmc>
         <colors>G</colors>
-        <manacost>**</manacost>
+        <manacost>☆☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
@@ -7902,7 +7902,7 @@ Added by CatManThree</text>
         <pt>800/700</pt>
         <cmc>3</cmc>
         <colors>G</colors>
-        <manacost>***</manacost>
+        <manacost>☆☆☆</manacost>
         <side>front</side>
 		<coloridentity>G</coloridentity>
         <layout>normal</layout>
