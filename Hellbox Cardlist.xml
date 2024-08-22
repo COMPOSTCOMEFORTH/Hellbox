@@ -3879,6 +3879,25 @@ Descend 8 — Exile a permanent card from your graveyard: You may play it. Activ
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Chittering Skullspeaker (HELL)</name>
+      <text>Intensity 0
+When Chittering Skullspeaker enters, cards you own named Chittering Skullspeaker intensify by 1. Then you draw X cards and lose X life, where X is Chittering Skullspeaker's intensity.</text>
+      <prop>
+        <manacost>1B</manacost>
+        <type>Creature — Squirrel Warlock</type>
+        <colors>B</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>B</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>1/1</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="9" rarity="uncommon" uuid="5ac04d21-2610-4974-a2b3-087707bb3ccc">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Custom Tutor (HELL)</name>
       <text>Reveal a custom card from outside the game. Each player votes for add or skip. If add gets more votes, add that card to your hand. If skip gets more votes or the vote is tied, draw a card.
