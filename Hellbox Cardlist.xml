@@ -6052,6 +6052,25 @@ Retreat — Sacrifice one energy attached to Charmeleon: Return Charmeleon and a
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Construction Arsonist (HELL)</name>
+      <text>When Construction Arsonist enters, you may choose an instant or sorcery card in your hand. If you do, that card perpetually incorporates {R} and gains &quot;When you cast this spell, it deals 2 damage to each opponent.&quot;
+Whenever you cast a multicolored spell, Construction Arsonist gets +1/+1 until end of turn for each of that spell's colors.</text>
+      <prop>
+        <manacost>1R</manacost>
+        <type>Creature — Goblin Rogue Wizard</type>
+        <colors>R</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>R</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>2/2</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="15" rarity="rare" uuid="8f4e750e-481f-487f-b89b-3a1a6ba0e3bb">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Dockside Extortionist (HELL)</name>
       <text>When Dockside Extortionist enters, create X Treasure tokens, where X is the number of artifacts and enchantments your opponents control. (Treasure tokens are artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
       <prop>

@@ -570,6 +570,7 @@
 		<card number="1" name="Scrutiny of the Guildpact (HELL)"/>
 		<card number="1" name="Mapping the Maze (HELL)"/>
 		<card number="1" name="Lurking Spinecrawler (HELL)"/>
+		<card number="1" name="Construction Arsonist (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
