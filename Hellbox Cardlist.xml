@@ -2951,6 +2951,27 @@ Invisible Stalker can't be blocked.</text>
 	  <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Landlore Navigator (HELL)</name>
+      <text>Whenever Landlore Navigator attacks, create a Map token.
+At the beginning of your end step, if two or more artifacts entered under your control this turn, conjure a card named Thieving Magpie onto the battlefield.</text>
+      <prop>
+        <manacost>1U</manacost>
+        <type>Creature — Orc Pirate</type>
+        <colors>U</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>U</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>2/1</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="7" rarity="uncommon" uuid="18c3922f-0e64-452f-9b4b-ef7a5984f38c">HELL</set>
+	  <related>Map Token</related>
+	  <related persistent="persistent">Thieving Magpie</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Let It Go (HELL)</name>
       <text>You may tap an untapped creature you control with mana value 5 or more rather than pay Let It Go’s mana cost.
 Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</text>

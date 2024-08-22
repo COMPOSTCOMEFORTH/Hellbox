@@ -566,6 +566,7 @@
 		<card number="1" name="Buxton, Decorated Host (HELL)"/>
 		<card number="1" name="Euru, Acorn Scrounger (HELL)"/>
 		<card number="1" name="Indris, the Hydrostatic Surge (HELL)"/>
+		<card number="1" name="Landlore Navigator (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
