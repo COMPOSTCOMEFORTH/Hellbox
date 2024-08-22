@@ -575,6 +575,7 @@
 		<card number="1" name="Veko, Death's Doorkeeper (HELL)"/>
 		<card number="1" name="Argivian Welcome (HELL)"/>
 		<card number="1" name="Smogbelcher Chariot (HELL)"/>
+		<card number="1" name="Kindred Denial (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
