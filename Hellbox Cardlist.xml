@@ -588,16 +588,14 @@ Creatures you control have shadow.</text>
 When Ragnaros the Firelord Avatar enters, your life total becomes 8.
 {2}: Ragnaros the Firelord Avatar deals 8 damage to target creature an opponent controls chosen at random. Activate only as a sorcery, and only once each turn.</text>
       <prop>
-        <maintype>Vanguard</maintype>
-        <pt>9/7</pt>
-        <cmc>9</cmc>
-        <manacost>9</manacost>
+        <maintype>Token</maintype>
+        <cmc>0</cmc>
         <side>front</side>
         <layout>normal</layout>
         <type>Token Vanguard</type>
       </prop>
       <set>HELL</set>
-      <tablerow>2</tablerow>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Mantis God (HELL)</name>
