@@ -92,6 +92,23 @@ You have no maximum hand size.
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
+	<card>
+      <name>Corpse Maggots (HELL)</name>
+      <text>(Creatures with bone costs can be cast by exiling that many creatures from your graveyard)
+When a creature you control dies, you may play Corpse Maggots from your hand without paying its mana cost.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <cmc>2</cmc>
+        <manacost>🦴🦴🦴🦴🦴</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Deathspeaker (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. Vanguards cannot leave the battlefield, except by their own effects.)
