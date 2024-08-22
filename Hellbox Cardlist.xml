@@ -9986,6 +9986,26 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Leaf-Leap Guide (HELL)</name>
+      <text>Vigilance
+Whenever another creature you control enters, Leaf-Leap Guide and that creature perpetually get +1/+1.
+{1}, {T}: Return another target creature you control to its owner's hand.</text>
+      <prop>
+      <manacost>GU</manacost>
+        <type>Creature — Frog Scout</type>
+        <colors>UG</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>UG</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>1/1</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="26" rarity="mythic" uuid="9182215f-ef51-4839-ae98-163b29fafafa">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Lochmere Serpent (HELL)</name>
       <text>Flash
 {U}, Sacrifice an Island: Lochmere Serpent can't be blocked this turn.

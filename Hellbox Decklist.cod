@@ -562,6 +562,7 @@
 		<card number="1" name="Pool Resources (HELL)"/>
 		<card number="1" name="Chittering Skullspeaker (HELL)"/>
 		<card number="1" name="Darkstar Banisher (HELL)"/>
+		<card number="1" name="Leaf-Leap Guide (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
