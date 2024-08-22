@@ -1340,6 +1340,7 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
         <cmc>2</cmc>
       </prop>
       <set num="2" rarity="uncommon" uuid="7cdc2fb2-e6f1-44c1-8d35-14df611ca15c">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
 	<card>
@@ -3201,6 +3202,25 @@ Create seven 0/1 blue Frog creature tokens with Submerge.</text>
       </prop>
       <set muid="658550" rarity="uncommon" num="81" uuid="37ff06d0-d652-4694-a3f5-bf7385e9e850">HELL</set>
 	  <related>Ape Token</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Pool Resources (HELL)</name>
+      <text>Gift a tapped Fish
+Draw two cards. If the gift was promised, seek two nonland cards instead.</text>
+      <prop>
+        <manacost>2U</manacost>
+        <type>Instant</type>
+        <colors>U</colors>
+        <maintype>Instant</maintype>
+        <coloridentity>U</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <cmc>3</cmc>
+      </prop>
+      <set num="6" rarity="uncommon" uuid="0fb016bd-8933-4f78-9ea0-5b9f08021556">HELL</set>
+	  <related>Fish Token  </related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -9996,6 +10016,7 @@ Whenever Marshland Hordemaster or another Lizard you control dies, target oppone
         <cmc>3</cmc>
       </prop>
       <set num="27" rarity="rare" uuid="46d4875f-735f-4ea9-8480-e5375d11db60">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
     <card>
