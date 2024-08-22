@@ -4856,24 +4856,6 @@ Reveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>2</tablerow>
 	</card>
-	<card>
-      <name>Mothman (HELL)</name>
-      <text>When Mothman enters, destroy target creature an opponent controls.</text>
-      <prop>
-        <maintype>Creature</maintype>
-        <pt>5/4</pt>
-        <cmc>0</cmc>
-        <colors>B</colors>
-        <manacost>0</manacost>
-        <side>front</side>
-		<coloridentity>B</coloridentity>
-        <layout>normal</layout>
-        <type>Creature — Insect Horror</type>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
     <card>
       <name>Murder (HELL)</name>
       <text>Destroy target creature.</text>
@@ -8772,6 +8754,24 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Mothman (HELL)</name>
+      <text>When Mothman enters, destroy target creature an opponent controls.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+        <cmc>0</cmc>
+        <colors>P</colors>
+        <manacost>0</manacost>
+        <side>front</side>
+		<coloridentity>P</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Insect Horror</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Vault (HELL)</name>
