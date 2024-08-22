@@ -7951,6 +7951,25 @@ Dredge 6</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Guildpact Greenwalker (HELL)</name>
+      <text>When Guildpact Greenwalker enters, you may choose a creature card in your hand. If you do, that card perpetually incorporates {1}{G} and gets +4/+4.
+Multicolored creatures you control have ward {2}.</text>
+      <prop>
+        <manacost>2G</manacost>
+        <type>Creature — Plant Rhino</type>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>G</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>4/4</pt>
+        <cmc>3</cmc>
+      </prop>
+      <set num="17" rarity="rare" uuid="461aa394-6632-424a-b5bd-f724048da3b9">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Grizzly Bears (HELL)</name>
       <text></text>
       <prop>
