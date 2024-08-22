@@ -9434,6 +9434,26 @@ Whenever you sacrifice Effluence Devourer or another creature, it perpetually ga
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Euru, Acorn Scrounger (HELL)</name>
+      <text>When Euru, Acorn Scrounger enters, you may forage. When you do, conjure a card named Chitterspitter onto the battlefield.
+Whenever one or more Squirrels you control deal combat damage to a player, you may sacrifice a token. If you do, put an acorn counter on each permanent you control named Chitterspitter.</text>
+      <prop>
+        <manacost>2BG</manacost>
+        <type>Legendary Creature — Squirrel Soldier</type>
+        <colors>BG</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>BG</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>3/3</pt>
+        <cmc>4</cmc>
+      </prop>
+      <set num="24" rarity="mythic" uuid="7c6c8540-9f2d-4abe-8acf-1d6670608364">HELL</set>
+      <related persistent="persistent">Chitterspitter</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Falkenrath Aristocrat (HELL)</name>
       <text>Flying, haste
 Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.</text>
