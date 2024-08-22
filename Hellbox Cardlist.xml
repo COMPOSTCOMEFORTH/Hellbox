@@ -971,6 +971,40 @@ At the beginning of your upkeep, Strange Larva transforms.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+	<card>
+      <name>The Daus (HELL)</name>
+      <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
+When The Daus enters, create two Chime tokens.
+Whenever a Chime you control is dealt damage by another creature, The Daus fights that creature.
+</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <cmc>2</cmc>
+        <manacost>🌢🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Boar Horror</type>
+      </prop>
+      <set>HELL</set>
+	  <related count="2">Chime Token (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Chime Token (HELL)</name>
+      <text>Defender</text>
+      <prop>
+        <maintype>Token</maintype>
+        <pt>0/1</pt>
+        <cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Token Artifact Creature — Chime</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>There Is No Refuge (HELL)</name>
       <text>(You can only set one scheme into motion each turn.)
