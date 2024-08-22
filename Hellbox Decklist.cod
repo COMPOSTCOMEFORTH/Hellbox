@@ -572,6 +572,7 @@
 		<card number="1" name="Lurking Spinecrawler (HELL)"/>
 		<card number="1" name="Construction Arsonist (HELL)"/>
 		<card number="1" name="Guildpact Greenwalker (HELL)"/>
+		<card number="1" name="Veko, Death's Doorkeeper (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

@@ -10922,6 +10922,25 @@ Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Veko, Death's Doorkeeper (HELL)</name>
+      <text>Extort
+{T}, Sacrifice a non-Spirit creature: Return target creature card from your graveyard to your hand. It perpetually becomes a Spirit, has base power and toughness 1/1, and gains &quot;You may pay {W/B} rather than pay this spell's mana cost.&quot; Activate only as a sorcery.</text>
+      <prop>
+        <manacost>WB</manacost>
+        <type>Legendary Creature — Spirit Cleric</type>
+        <colors>WB</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>WB</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>1/3</pt>
+        <cmc>2</cmc>
+      </prop>
+      <set num="30" rarity="rare" uuid="4aadbe15-8d91-4c61-bdee-5341a1794335">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Vindicate (HELL)</name>
       <text>Destroy target permanent.</text>
       <prop>
