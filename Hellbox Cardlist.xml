@@ -5555,6 +5555,26 @@ Flashback {B}{B}{B}{B}, sacrifice a Demon</text>
 	  <tablerow>2</tablerow>
 	</card>
     <card>
+      <name>Smogbelcher Chariot (HELL)</name>
+      <text>Menace, deathtouch, lifelink
+Whenever Smogbelcher Chariot attacks, target creature that crewed it this turn perpetually gains your choice of menace, deathtouch, or lifelink.
+Crew 3</text>
+      <prop>
+        <manacost>2B</manacost>
+        <type>Artifact — Vehicle</type>
+        <colors>B</colors>
+        <maintype>Artifact</maintype>
+        <coloridentity>B</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>3/3</pt>
+        <cmc>3</cmc>
+      </prop>
+      <set num="11" rarity="rare" uuid="9fc33271-4aab-47b2-b723-e5a60c542019">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Some Disassembly Required (HELL)</name>
       <text>{B}, Sacrifice a creature: Distribute the sacrificed creature's keyword abilities among any number of other target creatures until end of turn. If it's December, you gain 1 life for each of those keywords.</text>
       <prop>
@@ -9119,6 +9139,24 @@ Whenever another creature enters under your control, cards you own named Arek, F
       <set uuid="0da98dfc-3de1-48fb-881f-d01f34b2a22e" rarity="mythic" num="17">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Argivian Welcome (HELL)</name>
+      <text>Destroy up to one target creature with power 4 or greater.
+Choose a nonland card in your hand. It perpetually gains flash.</text>
+      <prop>
+        <manacost>WU</manacost>
+        <type>Instant</type>
+        <colors>WU</colors>
+        <maintype>Instant</maintype>
+        <coloridentity>WU</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <cmc>2</cmc>
+      </prop>
+      <set num="16" rarity="uncommon" uuid="401e4f50-e602-4aec-b7f3-d5ea55134a03">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Atraxa, Praetors' Voice (HELL)</name>
