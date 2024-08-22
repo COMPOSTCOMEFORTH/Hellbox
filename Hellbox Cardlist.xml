@@ -9964,6 +9964,24 @@ Equip {2}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Marshland Hordemaster (HELL)</name>
+      <text>Whenever Marshland Hordemaster or another Lizard you control enters, Marshland Hordemaster perpetually gains battle cry.
+Whenever Marshland Hordemaster or another Lizard you control dies, target opponent loses 1 life and you gain 1 life.</text>
+      <prop>
+        <manacost>1BR</manacost>
+        <type>Creature — Lizard Warlock</type>
+        <colors>BR</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>BR</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>2/4</pt>
+        <cmc>3</cmc>
+      </prop>
+      <set num="27" rarity="rare" uuid="46d4875f-735f-4ea9-8480-e5375d11db60">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Merciless Eviction (HELL)</name>
       <text>Choose one —
 • Exile all artifacts.

@@ -557,6 +557,7 @@
 		<card number="1" name="Strange Larva (HELL)"/>
 		<card number="1" name="The Daus (HELL)"/>
 		<card number="1" name="Long Elk (HELL)"/>
+		<card number="1" name="Marshland Hordemaster (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
