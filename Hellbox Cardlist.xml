@@ -112,11 +112,8 @@ When a creature you control dies, you may play Corpse Maggots from your hand wit
     <card>
       <name>Deathspeaker (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. Vanguards cannot leave the battlefield, except by their own effects.)
-Deathspeaker's toughness is equal to your life total.
-When Deathspeaker is dealt damage, you lose that much life.
-You don’t lose the game for having 0 or less life.
-If Deathspeaker takes damage while it has less than 1 toughness, sacrifice it.
-If you lose life while you have less than 1 life, sacrifice Deathspeaker.
+Player Avatar (Deathspeaker's toughness is always equal to your life total. If Deathspeaker would take damage, instead you lose that much life.)
+Death's Door (You don’t lose the game for having 0 or less life. If you would lose life while you have 0 or less life, you lose the game instead.)
 {T}: Choose one —
 • You may play an additional land this turn.
 • Reveal cards from the top of your library until you reveal a land card. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.
