@@ -570,6 +570,24 @@ When Ragnaros the Firelord Avatar enters, your life total becomes 8.
       <tablerow>2</tablerow>
     </card>
 	<card>
+      <name>Mantis God (HELL)</name>
+      <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
+Triple strike
+Mantis God can’t be blocked except by three or more creatures.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <cmc>1</cmc>
+        <manacost>🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect God</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Mirror Force (HELL)</name>
       <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Destroy all creatures target opponent controls that are tapped or attacking.</text>
@@ -871,6 +889,72 @@ https://scryfall.com/search?q=f:standard+(mv=0+OR+mv=1+OR+mv=2+OR+mv=3)+(t:insta
       <set muid="580730" rarity="mythic" num="11" uuid="d4a72769-f691-48c1-939f-54df244fb209">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Strange Larva (HELL)</name>
+      <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
+At the beginning of your upkeep, Strange Larva transforms.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <cmc>1</cmc>
+        <manacost>🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Strange Pupa (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Strange Pupa (HELL)</name>
+      <text>At the beginning of your upkeep, Strange Pupa transforms.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <cmc>1</cmc>
+        <manacost>🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Mothman (HELL 2)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Mothman (HELL 2)</name>
+      <text>Flying</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>7/3</pt>
+        <cmc>1</cmc>
+        <manacost>🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect Horror</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Strange Larva (HELL)</name>
+      <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
+At the beginning of your upkeep, Strange Larva transforms.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <cmc>1</cmc>
+        <manacost>🌢</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Creature — Insect</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
 	<card>
       <name>Technical Maneuver (HELL)</name>

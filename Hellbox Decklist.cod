@@ -553,6 +553,8 @@
 		<card number="1" name="Phoenix of the End (HELL)"/>
 		<card number="1" name="Ouroboros (HELL)"/>
 		<card number="1" name="Corpse Maggots (HELL)"/>
+		<card number="1" name="Mantis God (HELL)"/>
+		<card number="1" name="Strange Larva (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
