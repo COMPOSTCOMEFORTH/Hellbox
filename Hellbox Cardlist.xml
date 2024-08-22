@@ -8083,6 +8083,26 @@ Added by CatManThree</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Kami of Bamboo Groves (HELL)</name>
+      <text>When Kami of Bamboo Groves enters the battlefield, you may put a land card from your hand onto the battlefield tapped.
+Channel — {2}{G}, Discard Kami of Bamboo Groves: Conjure two cards named Forest into your hand.</text>
+      <prop>
+        <manacost>G</manacost>
+        <type>Enchantment Creature — Spirit</type>
+        <colors>G</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>G</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>1/1</pt>
+        <cmc>1</cmc>
+      </prop>
+      <set muid="555195" num="24" rarity="uncommon" uuid="1e3778d1-45e2-4958-8933-4c0f09129d55">HELL</set>
+	  <related persistent="persistent" count="2">Forest</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Killer Cosplay (HELL)</name>
       <text>Whenever Killer Cosplay becomes attached to a creature, choose a creature card name with an identical mana cost. That creature becomes a copy of the card with the chosen name until Killer Cosplay becomes unattached from it.
 Equip {3}</text>
