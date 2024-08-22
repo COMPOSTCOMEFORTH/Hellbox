@@ -561,6 +561,7 @@
 		<card number="1" name="Cottontail Caretaker (HELL)"/>
 		<card number="1" name="Pool Resources (HELL)"/>
 		<card number="1" name="Chittering Skullspeaker (HELL)"/>
+		<card number="1" name="Darkstar Banisher (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

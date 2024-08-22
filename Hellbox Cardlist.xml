@@ -9271,6 +9271,26 @@ Tap six untapped creatures you control: Return The Cinematic Phoenix from your g
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Darkstar Banisher (HELL)</name>
+      <text>Flying
+When Darkstar Banisher enters, exile target nonland permanent with mana value 3 or less an opponent controls.
+When Darkstar Banisher leaves the battlefield, the exiled card's owner seeks a card that shares a card type with the exiled card.</text>
+      <prop>
+        <manacost>1WB</manacost>
+        <type>Creature — Bat Cleric</type>
+        <colors>WB</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>WB</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <pt>2/2</pt>
+        <cmc>3</cmc>
+      </prop>
+      <set num="22" rarity="rare" uuid="a3d25f25-1c9b-4d3d-9bdb-3b0764e3199a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Darksteel Hydra (HELL)</name>
       <text>Indestructible
 Darksteel Hydra enters with X oil counters on it.
