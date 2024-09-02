@@ -3953,7 +3953,7 @@ Descend 8 — Exile a permanent card from your graveyard: You may play it. Activ
     </card>
     <card>
       <name>Chittering Skullspeaker (HELL)</name>
-      <text>Intensity 0
+      <text>Intensity 1
 When Chittering Skullspeaker enters, cards you own named Chittering Skullspeaker intensify by 1. Then you draw X cards and lose X life, where X is Chittering Skullspeaker's intensity.</text>
       <prop>
         <manacost>1B</manacost>
