@@ -10018,23 +10018,6 @@ Heroes of Kamigawa can be your commander.
 	  <tablerow>3</tablerow>
     </card>
     <card>
-      <name>Invert Polarity (HELL)</name>
-      <text>Choose target spell, then flip a coin. If you win the flip, gain control of that spell and you may choose new targets for it. If you lose the flip, counter that spell.</text>
-      <prop>
-        <type>Instant</type>
-        <cmc>3</cmc>
-        <coloridentity>UR</coloridentity>
-        <side>front</side>
-        <layout>normal</layout>
-        <manacost>UUR</manacost>
-        <colors>UR</colors>
-        <maintype>Instant</maintype>
-      </prop>
-      <set muid="662342" rarity="rare" num="190" uuid="dcee6a8a-c3a8-43bc-beb9-be30d03ab952">HELL</set>
-      <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
       <name>High Fae Prankster (HELL)</name>
       <text>Flying, deathtouch
 When High Fae Prankster enters, choose up to one —
@@ -10075,6 +10058,22 @@ Snakes you control have daunt, deathtouch, and poisonous 2. (A creature with dau
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Hurl Through Hell (HELL)</name>
+      <text>Exile target creature. Until the end of your next turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.</text>
+      <prop>
+        <manacost>2BR</manacost>
+        <type>Instant</type>
+        <colors>BR</colors>
+        <maintype>Instant</maintype>
+        <coloridentity>BR</coloridentity>
+        <layout>normal</layout>
+        <side>front</side>
+        <cmc>4</cmc>
+      </prop>
+      <set muid="531953" num="48" rarity="rare" uuid="47a3321c-28ed-4cd7-84d8-c8cecc09348b">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Indris, the Hydrostatic Surge (HELL)</name>
       <text>When Indris, the Hydrostatic Surge enters, conjure a card named Lightning Bolt into your library. It perpetually gains storm. Then shuffle.
 Whenever you cast an instant or sorcery spell, draw a card.</text>
@@ -10110,6 +10109,23 @@ Lightning Bolt deals 3 damage to any target.</text>
       </prop>
       <set num="161" rarity="common" muid="209" uuid="d573ef03-4730-45aa-93dd-e45ac1dbaf4a">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Invert Polarity (HELL)</name>
+      <text>Choose target spell, then flip a coin. If you win the flip, gain control of that spell and you may choose new targets for it. If you lose the flip, counter that spell.</text>
+      <prop>
+        <type>Instant</type>
+        <cmc>3</cmc>
+        <coloridentity>UR</coloridentity>
+        <side>front</side>
+        <layout>normal</layout>
+        <manacost>UUR</manacost>
+        <colors>UR</colors>
+        <maintype>Instant</maintype>
+      </prop>
+      <set muid="662342" rarity="rare" num="190" uuid="dcee6a8a-c3a8-43bc-beb9-be30d03ab952">HELL</set>
+      <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
     <card>
