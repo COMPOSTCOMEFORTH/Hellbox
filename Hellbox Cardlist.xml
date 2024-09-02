@@ -6557,7 +6557,7 @@ When this card leaves your graveyard, create a tapped 2/2 black Zombie creature 
 While Monkey.D.Luffy has two or more DON!!, it takes no combat damage from Strike creatures.
 {0}: Attach up to two tapped lands you control to Monkey.D.Luffy as DON!!. Activate only as a sorcery, and only once each turn.</text>
       <prop>
-        <pt>3000/3000</pt>
+        <pt>1/3000</pt>
         <cmc>2</cmc>
         <side>front</side>
         <layout>normal</layout>
@@ -9685,7 +9685,7 @@ Whenever you play a land or cast a spell, draw a card if you have no cards in ha
         <type>Legendary Creature — Frog Scout</type>
         <cmc>3</cmc>
         <coloridentity>URG</coloridentity>
-        <pt>0/5</pt>
+        <pt>3000/5</pt>
         <side>front</side>
         <layout>normal</layout>
         <manacost>GUR</manacost>
@@ -10031,7 +10031,7 @@ When High Fae Prankster enters, choose up to one —
         <side>front</side>
         <manacost>2UB</manacost>
         <colors>UB</colors>
-        <pt>1/4</pt>
+        <pt>0/4</pt>
         <cmc>4</cmc>
       </prop>
       <set num="20" rarity="rare" uuid="d89be725-d8fb-4524-8211-721628992187">HELL</set>
