@@ -95,7 +95,7 @@ You have no maximum hand size.
 	<card>
       <name>Corpse Maggots (HELL)</name>
       <text>(Creatures with bone costs can be cast by exiling that many creatures from your graveyard)
-When a creature you control dies, you may play Corpse Maggots from your hand without paying its mana cost.</text>
+When a creature you control dies, play Corpse Maggots from your hand without paying its mana cost. (This is not optional.)</text>
       <prop>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
