@@ -12075,6 +12075,22 @@ Equip {2}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Wretched Lotus (HELL)</name>
+      <text>{T}: Add {P}{P}{P}.
+{T}, Sacrifice Wretched Lotus: Uncover three nonland cards. (Exile cards from the top of your library until you find a card that meets the uncover requirements, reveal it, and put it into your hand. Return the remaining exiled cards to the top of your library in a random order.</text>
+      <prop>
+        <manacost>5</manacost>
+        <side>front</side>
+        <type>Artifact</type>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <cmc>5</cmc>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Wurmcoil Engine (HELL)</name>
       <text>Deathtouch, lifelink
 When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink.</text>
