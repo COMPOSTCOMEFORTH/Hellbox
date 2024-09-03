@@ -58,7 +58,7 @@ Exile Alpha.</text>
     </card>
 	<card>
       <name>Black Illusion Ritual (HELL)</name>
-      <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 As an additional cost to cast this spell, sacrifice creatures or discard creature cards from your hand with a total mana value equal to or greater than 1.  
 Cast a card named Relinquished from your hand without paying its mana cost.</text>
       <prop>
@@ -617,7 +617,7 @@ Mantis God can’t be blocked except by three or more creatures.</text>
     </card>
 	<card>
       <name>Mirror Force (HELL)</name>
-      <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Destroy all creatures target opponent controls that are tapped or attacking.</text>
       <prop>
         <maintype>Instant</maintype>
@@ -779,7 +779,7 @@ If your life total would be reduced to 0 or less by combat damage, instead cast 
     </card>
 	<card>
       <name>Pot of Greed (HELL)</name>
-      <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Draw two cards.</text>
       <prop>
         <maintype>Sorcery</maintype>
@@ -816,7 +816,7 @@ When Prismatic Dragon enters, choose two —
     </card>
 	<card>
       <name>Raigeki (HELL)</name>
-      <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Destroy all creatures you don’t control.
 
 Added by CatManThree</text>
@@ -835,7 +835,7 @@ Added by CatManThree</text>
     </card>
 	<card>
       <name>Reasoning (HELL)</name>
-      <text>Set Face Down (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Target opponent chooses a number between 1 and 12. Reveal cards from the top of your library until you reveal a creature card. If that card's mana value is not equal to the number chosen, put it onto the battlefield. Put the rest into your graveyard.
 
 Added by CatManThree</text>
@@ -3648,8 +3648,8 @@ When a creature you control named Yuna dies, draw 2 cards.</text>
     </card>
 	<card>
       <name>Warlock of the Ice Barrier (HELL)</name>
-      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A three cost creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)</text>
-Warlock of the Ice Barrier gets "Each player cannot cast spells from their hand" as long as you control another Ice Barrier creature. 
+      <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A three cost creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, &quot;When this creature blocks or is dealt damage, turn it face up.&quot; and &quot;This creature cannot attack.&quot;)
+Warlock of the Ice Barrier gets "Each player cannot cast instants or sorceries from their hand" and "Each instant or sorcery card in any player's hand without Set Face Down has Set Face Down. Its Set Face Down cost is equal to its mana cost" as long as you control another Ice Barrier creature.</text>
 	  <prop>
         <maintype>Creature</maintype>
         <pt>400/1000</pt>
@@ -12498,7 +12498,7 @@ This creature cannot attack.</text>
     </card>
 	<card>
       <name>Face Down Spell or Trap (HELL)</name>
-      <text></text>
+      <text>{0}: Turn this card face up. If it is an instant or sorcery, you may cast it without paying its mana cost. Activate only on a turn where this card has not entered the battlefield.</text>
       <prop>
         <maintype>Token</maintype>
         <cmc>0</cmc>
