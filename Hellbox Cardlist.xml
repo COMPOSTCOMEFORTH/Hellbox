@@ -5911,6 +5911,23 @@ At the beginning of your upkeep, your draw a card and you lose 1 life.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Atsadi &amp; Surge (HELL)</name>
+      <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
+Atsadi &amp; Surge enters with five heroism counters on it.
+Whenever you cast a creature spell, if its mana value is greater than or equal to the number of heroism counters on Atsadi &amp; Surge, draw a card, then put a heroism counter on Atsadi &amp; Surge.</text>
+      <prop>
+        <layout>vanguard</layout>
+        <type>Vanguard</type>
+        <maintype>Vanguard</maintype>
+        <side>front</side>
+		<coloridentity>R</coloridentity>
+        <cmc>0</cmc>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Blasphemous Act (HELL)</name>
       <text>This spell costs {1} less to cast for each creature on the battlefield.
 Blasphemous Act deals 13 damage to each creature.</text>
