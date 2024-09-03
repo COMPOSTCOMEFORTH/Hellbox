@@ -77,8 +77,8 @@ Cast a card named Relinquished from your hand without paying its mana cost.</tex
     <card>
       <name>Chronatog Avatar (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
-When Chronatog Avatar enters, gain 1 life and draw one card.
-Your starting life total is increased by 1.
+Starting Hand Size 6 (When Chronatog Avatar enters, your starting hand size becomes six. If you current hand size is less than six, draw cards equal to the difference. If you current hand size is greater than six, discard cards equal to the difference.)
+Starting Life Total 21 (When Chronatog Avatar enters, your starting life total becomes 21. If you current starting life total is less than 21, gain life equal to the difference. If you current starting life total is greater than 21, lose life equal to the difference.)
 You have no maximum hand size.
 {0}: Draw three cards. You skip your next turn. Activate only once each turn.</text>
       <prop>
@@ -550,9 +550,8 @@ At the beginning of your end step, create a Vertebrae token.</text>
     <card>
       <name>Lyna (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
-When Lyna enters, lose 4 life and draw two cards.
-Your starting life total is decreased by 4.
-Your max hand size is increased by 2.
+Starting Hand Size 8 (When Lyna enters, your starting hand size becomes eight. If you current hand size is less than eight, draw cards equal to the difference. If you current hand size is greater than eight, discard cards equal to the difference.)
+Starting Life Total 16 (When Lyna enters, your starting life total becomes 16. If you current starting life total is less than 16, gain life equal to the difference. If you current starting life total is greater than 16, lose life equal to the difference.)
 Creatures you control have shadow.</text>
       <prop>
         <layout>vanguard</layout>
@@ -698,8 +697,7 @@ When a creature put onto the battlefield with this scheme dies, abandon this sch
     <card>
       <name>Necropotence Avatar (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
-When Necropotence Avatar enters, gain 4 life.
-Your starting life total is increased by 4.
+Starting Life Total 24 (When Necropotence Avatar enters, your starting life total becomes 24. If you current starting life total is less than 24, gain life equal to the difference. If you current starting life total is greater than 24, lose life equal to the difference.)
 Skip your draw step.
 At the beginning of your end step, if it's not the first turn of the game, put a death counter on Necropotence Avatar. You draw X cards and you lose X life, where X is the number of death counters on Necropotence Avatar.</text>
       <prop>
