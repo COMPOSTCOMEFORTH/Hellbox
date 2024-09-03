@@ -616,7 +616,8 @@ Mantis God can’t be blocked except by three or more creatures.</text>
     </card>
     <card>
       <name>Mechanical Training (HELL)</name>
-      <text>Activate the entering the battlefield triggered abilities of up to two target permanents you control.</text>
+      <text>Activate the entering the battlefield triggered abilities of up to two target permanents you control.
+Reserve (If you cast this spell from your hand, exile it as it resolves. You may cast it for as long as it remains exiled.)</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>2</cmc>
