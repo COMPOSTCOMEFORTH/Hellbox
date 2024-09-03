@@ -884,8 +884,7 @@ Exile Shiv.</text>
     <card>
       <name>Sliver Queen Avatar (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
-When Sliver Queen Avatar enters, gain 7 life.
-Your starting life total is increased by 7.
+Starting Life Total 27 (When Sliver Queen Avatar enters, your starting life total becomes 27. If you current starting life total is less than 24, gain life equal to the difference. If you current starting life total is greater than 27, lose life equal to the difference.)
 Whenever you cast a non-Sliver creature spell, exile that spell. If you do, create a token that's a copy of a random Sliver creature card without Changeling that has the same mana value as that spell.
 
 https://scryfall.com/random?q=t:sliver+include:extras+mv:X (Replace X with the mana value of the casted creature.)</text>
@@ -3839,6 +3838,24 @@ You can't win the game and your opponents can't lose the game.</text>
       <set muid="452814" rarity="common" num="103" uuid="e9f7f218-fd2a-4233-8753-065ddc314f2d">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Celestial Blast (HELL)</name>
+      <text>Destroy two target permanents.
+Draw a card.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>7</cmc>
+        <colors>B</colors>
+        <manacost>7</manacost>
+        <side>front</side>
+        <coloridentity>B</coloridentity>
+        <layout>normal</layout>
+        <type>Sorcery — Disruption</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
 	<card>
       <name>Chains of Mephistopheles (HELL)</name>
