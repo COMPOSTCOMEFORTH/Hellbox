@@ -12494,7 +12494,8 @@ Value Town enters the battlefield tapped.
         <manacost>4UR</manacost>
       </prop>
       <set rarity="common" num="999-VAT" uuid="8d4ad5a7-bb3e-47ef-ba33-018b18248bd0">HELL</set>
-      <tablerow>3</tablerow>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>3</tablerow>
     </card>
 	<card>
       <name>Face Down Monster (HELL)</name>
