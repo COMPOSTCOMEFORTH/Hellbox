@@ -4801,6 +4801,23 @@ Other Warlocks you control get +1/+1.</text>
       <tablerow>2</tablerow>
     </card>
 	<card>
+      <name>The Kadigir, Yzmir Bastion (HELL)</name>
+      <text>{T}: The next spell you cast this turn may be cast without playing its mana cost.</text>
+      <prop>
+        <maintype>Artifact</maintype>
+        <cmc>8</cmc>
+        <colors>B</colors>
+        <manacost>8</manacost>
+        <side>front</side>
+        <coloridentity>B</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact — Landmark</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+	<card>
       <name>Kami of Mourning (HELL)</name>
       <text>Whenever Kami of Mourning enters, target creature you control or creature card in your graveyard perpetually gains &quot;Whenever a creature you control with greater mana value than this card dies, return this card from your graveyard to the battlefield tapped.&quot;</text>
       <prop>
