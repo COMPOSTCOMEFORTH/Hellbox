@@ -529,7 +529,7 @@ At the beginning of your end step, create a Vertebrae token.</text>
         <type>Creature — Elk Skeleton Horror</type>
       </prop>
       <set>HELL</set>
-	  <related>Vertebrae Token (HELL)</related>
+	  <related persistent="persistent">Vertebrae Token (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -1015,7 +1015,7 @@ Whenever a Chime you control is dealt damage by another creature, The Daus deals
         <type>Creature — Boar Horror</type>
       </prop>
       <set>HELL</set>
-	  <related count="2">Chime Token (HELL)</related>
+	  <related count="2" persistent="persistent">Chime Token (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
