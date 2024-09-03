@@ -583,6 +583,7 @@
 		<card number="1" name="The Spindle, Muna Bastion (HELL)"/>
 		<card number="1" name="The Kadigir, Yzmir Bastion (HELL)"/>
 		<card number="1" name="Atsadi &amp; Surge (HELL)"/>
+		<card number="1" name="Mechanical Training (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

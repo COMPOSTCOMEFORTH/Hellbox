@@ -614,6 +614,21 @@ Mantis God can’t be blocked except by three or more creatures.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Mechanical Training (HELL)</name>
+      <text>Activate the entering the battlefield triggered abilities of up to two target permanents you control.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>2</cmc>
+        <manacost>2</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Sorcery</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Mirror Force (HELL)</name>
       <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
