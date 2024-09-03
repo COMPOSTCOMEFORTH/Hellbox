@@ -9128,6 +9128,25 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Nevenka &amp; Blotch (HELL)</name>
+      <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
+{T}: Choose target creature you control, then roll a d6.
+1 | Sacrifice it.
+2—5 | Put a +1/+1 counter on it.
+6 | It becomes anchored (The next time it would become tapped, it is not tapped.)</text>
+      <prop>
+        <layout>vanguard</layout>
+        <type>Vanguard</type>
+        <maintype>Vanguard</maintype>
+        <side>front</side>
+		<coloridentity>P</coloridentity>
+        <cmc>0</cmc>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Vault (HELL)</name>
       <text>Take an extra turn after this one.
 End the turn.
