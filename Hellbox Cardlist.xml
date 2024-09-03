@@ -1003,7 +1003,7 @@ At the beginning of your upkeep, Strange Larva transforms.</text>
       <name>The Daus (HELL)</name>
       <text>(Creatures with blood costs can be cast by sacrificing that many creatures.)
 When The Daus enters, create two Chime tokens.
-Whenever a Chime you control is dealt damage by another creature, The Daus fights that creature.
+Whenever a Chime you control is dealt damage by another creature, The Daus deals damage equal to its power to that creature.
 </text>
       <prop>
         <maintype>Creature</maintype>
