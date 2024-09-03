@@ -8736,6 +8736,24 @@ Protection from text-changing effects.</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Spindle, Muna Bastion (HELL)</name>
+      <text>Creatures you control have ward {2}.
+At the beginning of your upkeep, put a +1/+1 counter on target creature you control.</text>
+      <prop>
+        <colors>G</colors>
+        <manacost>3</manacost>
+        <coloridentity>G</coloridentity>
+        <type>Artifact — Landmark</type>
+        <maintype>Artifact</maintype>
+        <cmc>1</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Starting Town NPC (HELL)</name>
       <text>Each creature card in your hand has a {1}{G} Adventure sorcery named Fetch Herbs with &quot;You gain 2 life.&quot; (You may cast it as the Adventure for {1}{G}. Then exile it, and you may cast the creature later from exile.)
 Each creature card you cast from exile enters the battlefield with an additional +1/+1 counter on it.</text>
