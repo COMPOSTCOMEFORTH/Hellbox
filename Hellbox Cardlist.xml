@@ -10309,6 +10309,24 @@ When this creature enters, draw a card.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>The Jolly Balloon Man (HELL)</name>
+      <text>Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+      <prop>
+        <pt>1/4</pt>
+        <type>Legendary Creature — Human Clown</type>
+        <colors>WR</colors>
+        <layout>normal</layout>
+        <manacost>1RW</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>3</cmc>
+        <coloridentity>WR</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="a3c4e2e0-1c0e-475d-a0f4-1be4216c2bad" num="219">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Jund 'Em Out (HELL)</name>
       <text>Retrace
 Choose one at random. Create a copy of the chosen card. You may cast the copy without paying its mana cost.
