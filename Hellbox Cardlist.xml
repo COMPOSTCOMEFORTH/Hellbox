@@ -4419,6 +4419,25 @@ You lose this emblem.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Doomsday Excruciator (HELL)</name>
+      <text>Flying
+When Doomsday Excruciator enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.</text>
+      <prop>
+        <pt>6/6</pt>
+        <type>Creature — Demon</type>
+        <colors>B</colors>
+        <layout>normal</layout>
+        <manacost>BBBBBB</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>6</cmc>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384" num="94">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Dread Return (HELL)</name>
       <text>Return target creature card from your graveyard to the battlefield.
