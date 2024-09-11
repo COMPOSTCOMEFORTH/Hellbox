@@ -8242,6 +8242,23 @@ Equip {3}</text>
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Leyline of Mutation (HELL)</name>
+      <text>If Leyline of Mutation is in your opening hand, you may begin the game with it on the battlefield.
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>WUBRG</coloridentity>
+        <type>Enchantment</type>
+        <side>front</side>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="188" rarity="rare" uuid="2359b670-41f0-4ec7-8db9-3f87f7577bc3">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Living Wish (HELL)</name>
       <text>You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.</text>
       <prop>

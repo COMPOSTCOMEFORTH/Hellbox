@@ -589,6 +589,7 @@
 		<card number="1" name="The Jolly Balloon Man (HELL)"/>
 		<card number="1" name="The Mindskinner (HELL)"/>
 		<card number="1" name="Unstoppable Slasher (HELL)"/>
+		<card number="1" name="Leyline of Mutation (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
