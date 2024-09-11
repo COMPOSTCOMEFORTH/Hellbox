@@ -5934,6 +5934,26 @@ When Unstoppable Slasher dies, if it had no counters on it, return it to the bat
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Valgavoth, Terror Eater (HELL)</name>
+      <text>Flying, lifelink
+Ward—Sacrifice three nonland permanents.
+If a card you didn't control would be put into an opponent's graveyard from anywhere, exile it instead.
+During your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Creature — Elder Demon</type>
+        <side>front</side>
+        <manacost>6BBB</manacost>
+        <cmc>9</cmc>
+        <colors>B</colors>
+        <pt>9/9</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="120" rarity="mythic" uuid="ec48f-5e6a-4f57-86ca-3640b7235002">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Yargle, Glutton of Urborg (HELL)</name>
       <text>Menace</text>
       <prop>

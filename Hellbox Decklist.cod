@@ -595,6 +595,7 @@
 		<card number="1" name="Marvin, Murderous Mimic (HELL)"/>
 		<card number="1" name="Kianne, Corrupted Memory (HELL)"/>
 		<card number="1" name="Valgavoth's Lair (HELL)"/>
+		<card number="1" name="Valgavoth, Terror Eater (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
