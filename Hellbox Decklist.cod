@@ -596,6 +596,8 @@
 		<card number="1" name="Kianne, Corrupted Memory (HELL)"/>
 		<card number="1" name="Valgavoth's Lair (HELL)"/>
 		<card number="1" name="Valgavoth, Terror Eater (HELL)"/>
+		<card number="3" name="Say Its Name (HELL)"/>
+		<card number="1" name="Altanak, the Thrice-Called (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

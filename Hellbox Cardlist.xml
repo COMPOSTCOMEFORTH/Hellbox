@@ -7563,6 +7563,25 @@ Whenever Velukan Dragon attacks or blocks, roll a six-sided die. Velukan Dragon 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Altanak, the Thrice-Called (HELL)</name>
+      <text>Trample
+Whenever Altanak, the Thrice-Called becomes the target of a spell or ability an opponent controls, draw a card.
+{1}{G}, Discard Altanak, the Thrice-Called: Return target land card from your graveyard to the battlefield tapped.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>G</coloridentity>
+        <type>Legendary Creature — Insect Beast</type>
+        <side>front</side>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <colors>G</colors>
+        <pt>9/9</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="166" rarity="uncommon" uuid="807b0674-8eba-4204-b6b6-fa2b785a79e9">DSK</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Ardyn (HELL)</name>
       <text>When Ardyn enters, target creature an opponent controls cannot attack or block until your next turn.
 When a spell or ability an opponent controls destroys Ardyn, return it from the graveyard to the battlefield at the beginning of the next end step.</text>
@@ -8818,6 +8837,23 @@ When Rothga, Bonded Engulfer enters, you get a one-time boon with &quot;When you
       </prop>
       <set uuid="e4f250af-01fb-41dd-b6da-8b636166058f" rarity="mythic" num="14">HELL</set>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Say Its Name (HELL)</name>
+      <text>Mill three cards. Then you may return a creature or land card from your graveyard to your hand.
+Exile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <coloridentity>G</coloridentity>
+        <type>Sorcery</type>
+        <side>front</side>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="197" rarity="common" uuid="94c58683-b5f2-4863-9562-6f6be1ec21fe">HELL</set>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Scute Swarm (HELL)</name>
