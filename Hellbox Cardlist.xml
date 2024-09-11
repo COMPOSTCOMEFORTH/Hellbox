@@ -5173,6 +5173,24 @@ Reveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and
 	  <tablerow>2</tablerow>
 	</card>
     <card>
+      <name>Meathook Massacre II (HELL)</name>
+      <text>When Meathook Massacre II enters, each player sacrifices X creatures.
+Whenever a creature you control dies, you may pay 3 life. If you do, return that card under your control with a finality counter on it.
+Whenever a creature an opponent controls dies, they may pay 3 life. If they don't, return that card under your control with a finality counter on it.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Enchantment</type>
+        <side>front</side>
+        <manacost>XXBBBB</manacost>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="108" rarity="mythic" uuid="3db59d06-a226-42b2-8f01-6b63a6eea83f">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Murder (HELL)</name>
       <text>Destroy target creature.</text>
       <prop>
