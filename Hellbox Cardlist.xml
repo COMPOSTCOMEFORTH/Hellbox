@@ -3094,6 +3094,24 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>The Mindskinner (HELL)</name>
+      <text>The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Enchantment Creature — Nightmare</type>
+        <side>front</side>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <pt>10/1</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="66" rarity="rare" uuid="7f1bb4c5-99be-46cc-ad54-7affb5f0144c">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Mistblade Shinobi (HELL)</name>
       <text>Ninjutsu {U}
 Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.</text>
