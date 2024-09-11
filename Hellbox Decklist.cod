@@ -592,6 +592,7 @@
 		<card number="1" name="Leyline of Mutation (HELL)"/>
 		<card number="1" name="Marina Vendrell's Grimoire (HELL)"/>
 		<card number="1" name="The Tale of Tamiyo (HELL)"/>
+		<card number="1" name="Marvin, Murderous Mimic (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

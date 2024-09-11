@@ -11908,6 +11908,21 @@ Added by CatManThree</text>
       <set muid="642856" rarity="mythic" num="17" uuid="ecb293d5-b13b-400f-ac7b-162a1e127ec7">HELL</set>
       <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Marvin, Murderous Mimic (HELL)</name>
+      <text>Marvin, Murderous Mimic has all activated abilities of creatures you control that don't have the same name as this creature.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Legendary Artifact Creature — Toy</type>
+        <side>front</side>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="253" rarity="rare" uuid="66898970-b99b-48f2-9240-68c301c95500">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Mask of Mayhem (HELL)</name>
       <text>All creatures attack each combat if able.
