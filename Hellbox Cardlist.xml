@@ -5877,6 +5877,25 @@ When Thorn of the Black Rose enters, you become the monarch.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+	<card>
+      <name>Unstoppable Slasher (HELL)</name>
+      <text>Deathtouch
+Whenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up.
+When Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Creature — Zombie Assassin</type>
+        <side>front</side>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>2/3</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="119" rarity="rare" uuid="0a30a301-8e87-46e7-89aa-cd55b1a14420">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Yargle, Glutton of Urborg (HELL)</name>
       <text>Menace</text>
