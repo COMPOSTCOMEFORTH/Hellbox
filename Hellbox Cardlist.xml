@@ -3536,6 +3536,24 @@ Whenever a creature you control attacks alone, seek two nonland cards, then disc
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>The Tale of Tamiyo (HELL)</name>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Enchantment — Saga</type>
+        <side>front</side>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <layout>saga</layout>
+      </prop>
+      <set num="75" rarity="rare" uuid="aaeba193-05d3-4c2d-a304-bbe7114c2eef">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Tempest (HELL)</name>
       <text>You get X Lightning emblems.
