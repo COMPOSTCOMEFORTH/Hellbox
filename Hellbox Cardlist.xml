@@ -3060,6 +3060,25 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Marina Vendrell's Grimoire (HELL)</name>
+      <text>When Marina Vendrell's Grimoire enters, if you cast it, draw five cards.
+You have no maximum hand size and don't lose the game for having 0 or less life.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game.</text>
+      <prop>
+        <maintype>Artifact</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Artifact</type>
+        <side>front</side>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <colors>U</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="64" rarity="rare" uuid="b976d642-3cf0-42c5-b3ba-12818e596f9c">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Mapping the Maze (HELL)</name>
       <text>Choose an instant or sorcery card in your hand or graveyard. That card perpetually incorporates {U} and gains &quot;When you cast this spell, draw a card.&quot; Then return a multicolored instant or sorcery card from your graveyard to your hand.</text>
       <prop>

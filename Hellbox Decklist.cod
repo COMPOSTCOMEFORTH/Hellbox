@@ -590,6 +590,7 @@
 		<card number="1" name="The Mindskinner (HELL)"/>
 		<card number="1" name="Unstoppable Slasher (HELL)"/>
 		<card number="1" name="Leyline of Mutation (HELL)"/>
+		<card number="1" name="Marina Vendrell's Grimoire (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
