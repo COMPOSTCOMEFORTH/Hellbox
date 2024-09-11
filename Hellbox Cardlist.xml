@@ -12724,6 +12724,21 @@ Metalcraft — {T}: Add {C} for each Urza's land you control. Activate only if y
       <tablerow>0</tablerow>
     </card>
     <card>
+      <name>Valgavoth's Lair (HELL)</name>
+      <text>Hexproof
+Valgavoth's Lair enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+      <prop>
+        <maintype>Land</maintype>
+        <type>Enchantment Land</type>
+        <side>front</side>
+        <cmc>0</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="271" rarity="rare" uuid="7b5041f1-7cb8-4b60-94f6-436430bbece4">HELL</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
       <name>Value Town // Take a Trip to... (HELL)</name>
       <text>Draw two cards. This spell deals 2 damage to each opponent. (Then exile this card. You may play the land later from exile.)
 
