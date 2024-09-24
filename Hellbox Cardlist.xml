@@ -5964,6 +5964,28 @@ When Thorn of the Black Rose enters, you become the monarch.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Unholy Annex // Ritual Chamber (HELL)</name>
+      <text>At the beginning of your end step, draw a card. If you control a Demon, each opponent loses 2 life and you gain 2 life. Otherwise, you lose 2 life.
+
+---
+
+When you unlock this door, create a 6/6 black Demon creature token with flying.</text>
+      <prop>
+        <manacost>2B // 3BB</manacost>
+        <layout>split</layout>
+        <side>front</side>
+        <maintype>Enchantment</maintype>
+        <type>Enchantment — Room</type>
+        <cmc>8</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="681caa94-e95e-47f0-8305-eca0ed55cb5e" num="118" muid="673523">HELL</set>
+	  <related>Demon Token    </related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Unstoppable Slasher (HELL)</name>
       <text>Deathtouch
