@@ -6287,6 +6287,24 @@ Whenever you cast a multicolored spell, Construction Arsonist gets +1/+1 until e
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Cursed Recording (HELL)</name>
+      <text>Whenever you cast an instant or sorcery spell, put a time counter on Cursed Recording. Then if there are seven or more time counters on it, remove those counters and it deals 20 damage to you.
+{T}: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
+      <prop>
+        <manacost>2RR</manacost>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <type>Artifact</type>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="d13a247c-c941-488a-b13b-bffb1f1f368a" num="131" muid="673536">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Dockside Extortionist (HELL)</name>
       <text>When Dockside Extortionist enters, create X Treasure tokens, where X is the number of artifacts and enchantments your opponents control. (Treasure tokens are artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
       <prop>
