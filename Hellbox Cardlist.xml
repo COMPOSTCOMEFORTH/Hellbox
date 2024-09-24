@@ -8421,6 +8421,24 @@ You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you ca
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Manifest Dread (HELL)</name>
+      <text>Manifest dread.</text>
+      <prop>
+        <manacost>1G</manacost>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <type>Sorcery</type>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <set rarity="common" uuid="a649265b-6c32-49e7-b6cb-6086c40d26e8" num="189" muid="673594">HELL</set>
+	  <related>Manifest</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Marwyn's Kindred (HELL)</name>
       <text>Conjure a card named Marwyn, the Nurturer and X cards named Llanowar Elves onto the battlefield.</text>
       <prop>
