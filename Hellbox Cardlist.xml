@@ -1174,6 +1174,22 @@ https://scryfall.com/random?q=(t:instant+OR+t:sorcery)+include:extras</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>You Cannot Hide from Me (HELL)</name>
+      <text>(You can only set one scheme into motion each turn. An ongoing scheme remains face up until it's abandoned. It is not a permanent.)
+At the beginning of combat on your turn, up to one target creature gets +2/+2 and gains vigilance until end of turn. It can't be blocked this turn.
+At the beginning of each opponent's end step, if that player has less than half their starting life total, abandon this scheme.</text>
+      <prop>
+        <layout>scheme</layout>
+        <maintype>Scheme</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+        <type>Ongoing Scheme</type>
+      </prop>
+      <set rarity="common" uuid="2273beae-1ae9-438a-84cb-00f206ad971e" num="360" muid="675250">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>A Girl and Her Dogs (HELL)</name>
       <text>When A Girl and Her Dogs enters the battlefield and at the beginning of your upkeep, create a 1/1 white legendary Dog creature token and name it.
 Whenever A Girl and Her Dogs attacks, it gets +1/+1 until end of turn for each legendary creature you control.</text>
