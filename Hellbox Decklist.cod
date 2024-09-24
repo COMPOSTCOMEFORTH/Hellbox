@@ -606,6 +606,7 @@
 		<card number="1" name="Sadistic Shell Game (HELL)"/>
 		<card number="1" name="Unholy Annex // Ritual Chamber (HELL)"/>
 		<card number="1" name="You Cannot Hide from Me (HELL)"/>
+		<card number="1" name="Winter, Misanthropic Guide (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

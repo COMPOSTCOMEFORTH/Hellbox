@@ -11513,6 +11513,25 @@ Destroy target enchantment.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Winter, Misanthropic Guide (HELL)</name>
+      <text>Ward {2}
+At the beginning of your upkeep, each player draws two cards.
+Delirium — As long as there are four or more card types among cards in your graveyard, each opponent's maximum hand size is equal to seven minus the number of those card types.</text>
+      <prop>
+        <manacost>1BRG</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Warlock</type>
+        <cmc>4</cmc>
+        <colors>BRG</colors>
+        <pt>3/4</pt>
+        <coloridentity>BRG</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="e9b81421-44cb-440f-a6ac-3ddf620f1989" num="240" muid="673645">DSK</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Wowzer, the Aspirational (HELL)</name>
       <text>Whenever Wowzer, the Aspirational attacks, if you have an {E}, control a Blood, a Clue, a Food, a Map, a Powerstone, and a Treasure, are the monarch, and have the city's blessing and the initiative, you win the game.</text>
       <prop>
