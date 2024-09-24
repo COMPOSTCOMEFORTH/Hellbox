@@ -5640,6 +5640,23 @@ Added by VVK</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Sadistic Shell Game (HELL)</name>
+      <text>Starting with the next opponent in turn order, each player chooses a creature you don't control. Destroy the chosen creatures.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="4c5c8eb3-c866-4974-90eb-be99c07af1a1" num="24" muid="675619">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Sanitarium Skeleton (HELL)</name>
       <text>{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.</text>
       <prop>
