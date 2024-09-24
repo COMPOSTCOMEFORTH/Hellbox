@@ -6788,6 +6788,25 @@ While Monkey.D.Luffy has two or more DON!!, it takes no combat damage from Strik
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Norin, Swift Survivalist (HELL)</name>
+      <text>Norin, Swift Survivalist can't block.
+Whenever a creature you control becomes blocked, you may exile it. You may play that card from exile this turn.</text>
+      <prop>
+        <manacost>R</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Coward</type>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2/1</pt>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <set rarity="uncommon" uuid="49f0fdf4-3881-4327-924f-2c1b67ccda93" num="145" muid="673550">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Obliterate (HELL)</name>
       <text>This spell can't be countered.
 Destroy all artifacts, creatures, and lands. They can't be regenerated.</text>
