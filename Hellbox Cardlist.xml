@@ -3309,6 +3309,29 @@ Draw two cards. If the gift was promised, seek two nonland cards instead.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Really Charming Prince (HELL)</name>
+      <text>Flying
+When Really Charming Prince enters the battlefield, choose one of the following four cards at random: Piracy Charm, Sapphire Charm, Trickery Charm, and Vision Charm. You may create a copy of the chosen card and cast that copy without paying its mana cost.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Faerie Noble</type>
+        <pt>2/1</pt>
+      </prop>
+      <set rarity="rare" uuid="c45d0d5f-b802-4cb3-8caa-88ad6bf42c6a" num="RU02d">HELL</set>
+	  <related>Piracy Charm</related>
+      <related>Sapphire Charm</related>
+      <related>Trickery Charm</related>
+      <related>Vision Charm</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Reef Worm (HELL)</name>
       <text>When Reef Worm dies, create a 3/3 blue Fish creature token with &quot;When this creature dies, create a 6/6 blue Whale creature token with 'When this creature dies, create a 9/9 blue Kraken creature token.'&quot;</text>
