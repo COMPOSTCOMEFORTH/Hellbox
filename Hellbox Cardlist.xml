@@ -6086,7 +6086,7 @@ Retreat — Sacrifice three energy attached to Charizard: Return Charizard and a
         <colors>R</colors>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Stage 2 Pokémon</type>
+        <type>Kindred Battle — Stage 2 Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6107,7 +6107,7 @@ Retreat — Sacrifice one Energy attached to Charmander: Return Charmander and a
         <colors>R</colors>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Basic Pokémon</type>
+        <type>Kindred Battle — Basic Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6130,7 +6130,7 @@ Retreat — Sacrifice one energy attached to Charmeleon: Return Charmeleon and a
 		<manacost>0</manacost>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Stage 1 Pokémon</type>
+        <type>Kindred Battle — Stage 1 Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -9087,7 +9087,7 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
         <colors>P</colors>
         <maintype>Battle</maintype>
         <coloridentity>P</coloridentity>
-        <type>Battle — Basic Pokémon</type>
+        <type>Kindred Battle — Basic Cat Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
