@@ -6854,6 +6854,27 @@ Whenever Phyrexian Harvester is dealt damage, seek that many nonland cards. At t
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Polis the Planeshifter (HELL)</name>
+      <text>When Polis the Planeshifter enters the battlefield, choose a plane at random from among all planechase planes. Polis the Planeshifter has all abilities of the last chosen plane. (Rolls of the planar die don't affect Polis.)
+{W}{U}{B}{R}{G}: Flip a Coin. If you win the flip, do Polis the Planeshifter's chaos ensues effect. If you lose the flip, choose a new plane for Polis the Planeshifter.
+
+https://scryfall.com/random?q=(t:plane)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Azra Wizard</type>
+        <pt>3/3</pt>
+      </prop>
+      <set rarity="mythic" uuid="7e6e84d8-f40d-4e58-b795-818a69121d01" num="MR01">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Powerbalance (HELL)</name>
       <text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, you may cast that card without paying its mana cost if the two spells have the same mana value.</text>
       <prop>
