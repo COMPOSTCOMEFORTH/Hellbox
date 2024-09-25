@@ -11604,6 +11604,25 @@ Delirium — As long as there are four or more card types among cards in your gr
       <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Zimone, All-Questioning (HELL)</name>
+      <text>At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)</text>
+      <prop>
+        <manacost>1GU</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Wizard</type>
+        <cmc>3</cmc>
+        <colors>UG</colors>
+        <pt>1/1</pt>
+        <coloridentity>UG</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="7722f4f7-fe38-4107-a715-7b27b6a4e341" num="241" muid="673646">HELL</set>
+	  <related>Primo, the Indivisible</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Zinnia, Valley's Voice (HELL)</name>
       <text>Flying
 Zinnia, Valley's Voice gets +X/+0, where X is the number of other creatures you control with base power 1.
