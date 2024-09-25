@@ -6679,7 +6679,7 @@ Destroy all artifacts, creatures, and lands. They can't be regenerated.</text>
       <text>You lose 6 life.
 Add {R}{R}.
 Draw three cards.
-Exile Offering..</text>
+Exile Offering.</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>0</cmc>
