@@ -7766,6 +7766,26 @@ When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>The Disciple of Nissa (HELL)</name>
+      <text>Whenever the Disciple of Nissa attacks, you may pay {X}{X}{X}{G}{G}. When you do, create X tokens that are copies of different Nissa planeswalkers chosen at random. They each enter with an additional loyalty counter.
+	  
+https://scryfall.com/random?q=(t:nissa)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Elf Wizard</type>
+        <pt>3/2</pt>
+      </prop>
+      <set rarity="rare" uuid="d5226a9b-14bd-4b34-8abb-67ac59e7a017" num="RG01b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Doubling Season (HELL)</name>
       <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
 If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>
