@@ -6525,6 +6525,23 @@ Storm</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Guess Who it Is! (HELL)</name>
+      <text>Look at the top ten cards of target opponent's library and choose a creature card from among them. That opponent asks you five yes or no questions about that creature. (Answer truthfully!) Then that player chooses a card name. Reveal the card. If it doesn't have that name, put it onto the battlefield under your control. Then shuffle each card not put onto the battlefield this way into its owner's library.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="uncommon" uuid="0fc4d8db-8bad-48b6-9901-7a9784506e89" num="UR04a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Hazoret the Pervert (HELL)</name>
       <text>Indestructible, haste
 Hazoret the Pervert can't attack or block unless you have one or fewer cards in hand.
