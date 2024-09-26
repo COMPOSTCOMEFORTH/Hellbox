@@ -12183,6 +12183,25 @@ Whenever Puresteel Angel deals combat damage to a player, you get an emblem with
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Rebellious Intelligence (HELL)</name>
+      <text>At the beginning of your upkeep, put a random card from outside the game into your hand.
+{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.
+
+https://scryfall.com/random</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact Creature — Rebel</type>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="rare" uuid="8b443705-b482-4e28-94ff-df2cd844a369" num="RA31">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Scion of Draco (HELL)</name>
       <text>Domain — This spell costs {2} less to cast for each basic land type among lands you control.
 Flying
