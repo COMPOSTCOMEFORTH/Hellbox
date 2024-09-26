@@ -4461,6 +4461,26 @@ You lose this emblem.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>The Disciple of Vess (HELL)</name>
+      <text>Whenever The Disciple of Vess attacks, you may put a planeswalker card from your hand onto the battlefield. If you don't create a token that's a copy of a Liliana planeswalker chosen at random.
+	  
+https://scryfall.com/random?q=(t:Liliana)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Human Cleric</type>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="rare" uuid="0e83124c-6b96-4c44-a054-c91d9b86310e" num="RB54">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Doom Blade (HELL)</name>
       <text>Destroy target nonblack creature.</text>
