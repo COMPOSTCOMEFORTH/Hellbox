@@ -589,6 +589,8 @@
 		<card number="1" name="The Disciple of Nissa (HELL)"/>
 		<card number="1" name="Really Charming Prince (HELL)"/>
 		<card number="1" name="Ensoul Ring (HELL)"/>
+		<card number="1" name="Wrath of Oko (HELL)"/>
+		<card number="1" name="Quest Compleated Best (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

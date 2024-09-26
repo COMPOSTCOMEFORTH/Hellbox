@@ -3740,6 +3740,23 @@ https://scryfall.com/random?q=t:instant+include:extras</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Wrath of Oko (HELL)</name>
+      <text>All creatures loose all abilities and become green Elk creatures with base power and toughness 3/3. (This effect lasts indefinitely. Just like Oko. Unfortunately.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="795d2d40-3ac1-4aa0-96b6-6f5c794c6868" num="RU03b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Abyssal Persecutor (HELL)</name>
       <text>Flying, trample
@@ -5454,6 +5471,27 @@ Whenever Pinchy McStingbutt deals combat damage to a player, conjure a card name
         <side>front</side>
       </prop>
       <set uuid="562c63c7-a21e-4afb-a74c-1e4b84d03c1f" muid="548257" rarity="mythic" num="31">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quest Compleated Best (HELL)</name>
+      <text>Menace, Lifelink, Toxic 2
+Quest Compleated Best can't be blocked by tokens.
+Your opponent can't gain life or remove poison counters.
+Whenever Quest Compleated Best deals combat damage to an opponent, it deals that much damage to target battle that player is protecting.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Phyrexian Beast</type>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="rare" uuid="cb38c0dc-c945-447f-9bca-62af1dc1f2c3" num="RB04d">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
