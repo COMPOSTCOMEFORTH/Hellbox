@@ -1446,6 +1446,25 @@ Enchanted permanent can't attack or block, and its activated abilities can't be 
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Fioran Reformist (HELL)</name>
+      <text>When Fioran Reformist enters the battlefield, if a player is the monarch, get rid of the monarchy.
+Democracy is in effect until Fioran Reformist leaves the battlefield. (At the beginning of each player's end step, if they control more creatures than each other player, they draw a card. Player's can't become the monarch.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Advisor</type>
+        <pt>3/3</pt>
+      </prop>
+      <set rarity="rare" uuid="5c9c264c-545c-484e-bd9a-c3ddaa874a1e" num="RW03b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>GO TO JAIL (HELL)</name>
       <text>When GO TO JAIL enters, exile target creature an opponent controls until GO TO JAIL leaves the battlefield.
