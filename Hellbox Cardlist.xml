@@ -2608,6 +2608,25 @@ Whenever you play a land or cast a spell, if it shares a mana value with one or 
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Ensoul Ring (HELL)</name>
+      <text>Enchant nonland permanent.
+Enchanted permanent is a Sol Ring. (It's no longer anything else.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment — Aura</type>
+      </prop>
+      <set rarity="uncommon" uuid="fd855e8d-cda5-429e-897b-11ed0c454cc1" num="UU02a">HELL</set>
+	  <related>Sol Ring</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Enter the Infinite (HELL)</name>
       <text>Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.</text>
