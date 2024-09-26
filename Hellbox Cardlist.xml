@@ -8667,6 +8667,24 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
 	  <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Occupation of Llanowar (HELL)</name>
+      <text>(Any opponent may attack this battle. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters. This is different from sieges!)
+At the beginning of your combat step, put a +1/+1 counter to target creature you control.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Battle</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Battle — Control Point</type>
+      </prop>
+      <set rarity="rare" uuid="0ccb6224-276f-4452-a57b-602b589fba3b" num="RG11">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Outmaneuver (HELL)</name>
       <text>At the beginning of your next precombat main phase, add {G}{G}.</text>
       <prop>
