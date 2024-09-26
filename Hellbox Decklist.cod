@@ -594,7 +594,8 @@
 		<card number="1" name="Halana and Alena and Gisa and Geralf (HELL)"/>
 		<card number="1" name="The Disciple of Vess (HELL)"/>
 		<card number="1" name="The Rebellious Intelligence (HELL)"/>
-		<card number="1" namer="Sort of _____ and _____ (HELL)"/>
+		<card number="1" name="Sort of _____ and _____ (HELL)"/>
+		<card number="1" name="Welcome to Mini-apolis (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

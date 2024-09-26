@@ -3721,6 +3721,23 @@ Warlock of the Ice Barrier gets "Each player cannot cast instants or sorceries f
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Welcome to Mini-apolis (HELL)</name>
+      <text>Whenever an opponent casts a creature spell, create a token that's a copy of it, except it's 1/1.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <set rarity="rare" uuid="e54ef148-3bcf-40d1-b9c6-cdf31b53578c" num="RU05">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Whimsy (HELL)</name>
       <text>Play X random fast effects.
