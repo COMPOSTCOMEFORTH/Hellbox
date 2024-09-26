@@ -10105,6 +10105,25 @@ At the beginning of each player's end step, if that player's program has fewer t
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Halana and Alena and Gisa and Geralf (HELL)</name>
+      <text>First strike, reach
+At the beginning of combat on your turn, mill four cards. You may choose a creature card from among them and cast it. When you do, it gains haste, becomes a Zombie in addition to its other types, and enters the battlefield with X +1/+1 counters on it, where X is Halana and Alena and Gisa and Geralf's power.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UBRG</colors>
+        <coloridentity>UBRG</coloridentity>
+        <manacost>RGUB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Human Ranger Wizard</type>
+        <pt>3/5</pt>
+      </prop>
+      <set rarity="rare" uuid="9a134fd3-d40e-4cbe-befd-426a6b856832" num="RZ04c">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Heroes of Kamigawa (HELL)</name>
       <text>Each spell you cast with a name printed in a Kamigawa expansion costs {1} less to cast.
 Heroes of Kamigawa can be your commander.
