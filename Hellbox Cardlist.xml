@@ -1140,6 +1140,37 @@ When you set this scheme in motion, gain control of target creature an opponent 
       <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Windmill Slam (HELL)</name>
+      <text>Create a 4/4 Windmill artifact creature token with defender. When you do, it deals damage equal to its power to any target.
+Miracle {0}</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="uncommon" uuid="453e8e60-7e4a-4cb3-b1ad-7854f83ebf27" num="UC07">HELL</set>
+	  <related>Windmill Token (HELL)</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Windmill Token (HELL)</name>
+      <text>Defender</text>
+      <prop>
+        <type>Token Artifact Creature — Windmill</type>
+        <maintype>Token</maintype>
+		<pt>4/4</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
 	<card>
       <name>Yogg-Saron, Hope's End (HELL)</name>
       <text>When Yogg-Saron, Hope's End enters, cast X random instants and sorceries with random targets, where X is the number of instants and sorceries you have cast this game.

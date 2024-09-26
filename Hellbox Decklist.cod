@@ -598,6 +598,7 @@
 		<card number="1" name="Welcome to Mini-apolis (HELL)"/>
 		<card number="1" name="Occupation of Llanowar (HELL)"/>
 		<card number="1" name="Fioran Reformist (HELL)"/>
+		<card number="1" name="Windmill Slam (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
