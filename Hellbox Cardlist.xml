@@ -12268,6 +12268,24 @@ Equip {1}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Sort of _____ and _____ (HELL)</name>
+      <text>When Sort of _____ and _____ enters the battlefield, choose two tournament legal cards in the Sword of _____ and _____ cycle at random. This equipment has the first piece of the combat damage trigger of the first chosen one, and the second piece of the combat damage trigger on the second chosen one. (It doesn't grant +2/+2 or protection. Yes, Hearth still returns the creature.)
+Equip {2}
+
+https://scryfall.com/random?q=%22sword+of%22+%22and%22+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment</type>
+      </prop>
+      <set rarity="rare" uuid="fc3191cb-7213-41d6-98d8-0330dbc86449" num="RA13">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Stocking Tiger (HELL)</name>
       <text>Stocking Tiger enters with a sealed booster pack under it.
 When Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it into your hand.</text>
