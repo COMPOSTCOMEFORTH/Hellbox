@@ -9769,6 +9769,24 @@ Tap six untapped creatures you control: Return The Cinematic Phoenix from your g
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Colossal Dreadmaw and Storm Crow (HELL)</name>
+      <text>Flying, trample</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UG</colors>
+        <coloridentity>UG</coloridentity>
+        <manacost>5UG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature — Dinosaur Bird</type>
+        <pt>7/8</pt>
+      </prop>
+      <set rarity="rare" uuid="67dea3ca-586a-468c-96ab-761a05076e1c" num="RZ07a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Crucias, Titan of the Waves (HELL)</name>
       <text>At the beginning of your end step, you may discard a card. If you do, create a Treasure token and choose ambitious or expedient. If you chose ambitious, seek a card with greater mana value than the discarded card. If you chose expedient, seek a card with lesser mana value than the discarded card.</text>
       <prop>
