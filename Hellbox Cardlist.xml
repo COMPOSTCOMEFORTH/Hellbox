@@ -10996,9 +10996,10 @@ Whenever you draw a card, put a +1/+1 counter on Kianne.</text>
         <layout>normal</layout>
       </prop>
       <set num="2" rarity="mythic" uuid="d970c966-9a89-4c4c-ac73-8cf8fffe7721">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
-	<card>
+    <card>
       <name>Koma and Toski, Compleated (HELL)</name>
       <text>This spell can't be countered.
 At the beginning of each upkeep, create a 1/1 Phyrexian Serpent Squirrel artifact creature token named Toski's Coil with &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
