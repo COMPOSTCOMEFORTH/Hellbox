@@ -10653,6 +10653,43 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Koma and Toski, Compleated (HELL)</name>
+      <text>This spell can't be countered.
+At the beginning of each upkeep, create a 1/1 Phyrexian Serpent Squirrel artifact creature token named Toski's Coil with &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
+Sacrifice another Serpent or Squirrel: Choose one —
+*Target creature attacks this turn if able. Its activated abilities can't be activated this turn.
+*Koma and Toski, Compleated gains indestructible until end of turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UG</colors>
+        <coloridentity>UG</coloridentity>
+        <manacost>6UG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature — Phyrexian Serpent Squirrel</type>
+        <pt>7/7</pt>
+      </prop>
+      <set rarity="rare" uuid="d8dd0e55-d8eb-4cf5-a860-65f1e6fe661f" num="RZ08b">HELL</set>
+	  <related>Toski's Coil Token (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Toski's Coil Token (HELL)</name>
+      <text>Whenever this creature deals combat damage to a player, draw a card.</text>
+      <prop>
+        <type>Token Artifact Creature — Phyrexian Serpent Squirrel</type>
+        <maintype>Token</maintype>
+		<pt>1/1</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
+    <card>
       <name>Last-Minute Chopping (HELL)</name>
       <text>Ask target opponent if they remembered to get you a present. If they say yes, they put a card they own from outside the game into your hand. Otherwise, you gain control of target permanent they control.</text>
       <prop>
