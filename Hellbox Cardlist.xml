@@ -10980,7 +10980,6 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
       <tablerow>2</tablerow>
     </card>
     <card>
-<<<<<<< HEAD
       <name>Kianne, Corrupted Memory (HELL)</name>
       <text>As long as Kianne's power is even, you may cast noncreature spells as though they had flash.
 As long as Kianne's power is odd, you may cast creature spells as though they had flash.
@@ -10999,7 +10998,7 @@ Whenever you draw a card, put a +1/+1 counter on Kianne.</text>
       <set num="2" rarity="mythic" uuid="d970c966-9a89-4c4c-ac73-8cf8fffe7721">HELL</set>
       <tablerow>2</tablerow>
     </card>
-=======
+	<card>
       <name>Koma and Toski, Compleated (HELL)</name>
       <text>This spell can't be countered.
 At the beginning of each upkeep, create a 1/1 Phyrexian Serpent Squirrel artifact creature token named Toski's Coil with &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
@@ -11036,7 +11035,6 @@ Sacrifice another Serpent or Squirrel: Choose one —
       <set>HELL</set>
 	  <tablerow>2</tablerow>
 	</card>
->>>>>>> main
     <card>
       <name>Last-Minute Chopping (HELL)</name>
       <text>Ask target opponent if they remembered to get you a present. If they say yes, they put a card they own from outside the game into your hand. Otherwise, you gain control of target permanent they control.</text>
