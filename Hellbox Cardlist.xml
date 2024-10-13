@@ -10368,6 +10368,26 @@ Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of tu
       <tablerow>2</tablerow>
     </card>
 	<card>
+      <name>Fear of Change (HELL)</name>
+      <text>When this creature enters or dies, exile another creature you control. If you do, conjure a duplicate of a random creature card with mana value X onto the battlefield, where X is 2 plus the exiled creature’s mana value.
+	  
+https://scryfall.com/random?q=t:creature+include:extras+mv:X (Replace X with 2 plus the exiled creature’s mana value)</text>
+      <prop>
+        <manacost>UG</manacost>
+        <side>front</side>
+        <type>Creature — Nightmare</type>
+        <pt>2/3</pt>
+        <coloridentity>UG</coloridentity>
+        <layout>normal</layout>
+        <colors>UG</colors>
+        <maintype>Creature</maintype>
+        <cmc>2</cmc>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Flame Hellscythe (HELL)</name>
       <text>Target creature an opponent controls gets -6000/-6000 until end of turn.
 Return target white or purple creature with 6000 or less power from your graveyard to the battlefield.</text>
