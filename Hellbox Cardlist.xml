@@ -8077,6 +8077,40 @@ Other Squirrels you control get +1/+1.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Emrakul and Chatterfang (HELL)</name>
+      <text>Devoid
+Flying, Trample, Forestwalk, protection from non-Squirrels
+When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scion creature tokens with &quot;Sacrifice this creature: Add {G} or {B}&quot;.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+        <manacost>8GGG</manacost>
+        <cmc>11</cmc>
+        <type>Legendary Creature — Eldrazi Squirrel</type>
+        <pt>15/15</pt>
+      </prop>
+      <set rarity="rare" uuid="a05d2a64-fc37-4bb8-ad98-0cbf08552d81" num="RG10">HELL</set>
+      <related count="15">Eldrazi Squirrel Scion (HELL)</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Eldrazi Squirrel Scion (HELL)</name>
+      <text>Sacrifice this creature: Add {G} or {B}</text>
+      <prop>
+        <type>Token Creature — Eldrazi Squirrel Scion</type>
+        <maintype>Token</maintype>
+		<pt>1/1</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
+    <card>
       <name>Eternal Witness (HELL)</name>
       <text>When Eternal Witness enters, you may return target card from your graveyard to your hand.</text>
       <prop>
@@ -9120,6 +9154,24 @@ Remove three spore counters from Thallid: Create a 1/1 green Saproling creature 
 	  <related>Saproling Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Then, Dreadmaws Ate Everyone (HELL)</name>
+      <text>Create X 6/6 green Dinosaur creature tokens with trample named Colossal Dreadmaw.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>X4GG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="eb41631e-3545-4dc3-861e-1dbe3d82898b" num="RG08">HELL</set>
+	  <related>Colossal Dreadmaw</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Tireless Tracker (HELL)</name>
