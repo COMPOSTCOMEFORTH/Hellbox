@@ -8106,6 +8106,7 @@ When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scio
 		<cmc>0</cmc>
         <layout>normal</layout>
         <side>front</side>
+		<colors>G</colors>
       </prop>
       <set>HELL</set>
 	  <tablerow>2</tablerow>
