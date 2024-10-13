@@ -1155,6 +1155,37 @@ When you set this scheme in motion, gain control of target creature an opponent 
       <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Windmill Slam (HELL)</name>
+      <text>Create a 4/4 Windmill artifact creature token with defender. When you do, it deals damage equal to its power to any target.
+Miracle {0}</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="uncommon" uuid="453e8e60-7e4a-4cb3-b1ad-7854f83ebf27" num="UC07">HELL</set>
+	  <related>Windmill Token (HELL)</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Windmill Token (HELL)</name>
+      <text>Defender</text>
+      <prop>
+        <type>Token Artifact Creature — Windmill</type>
+        <maintype>Token</maintype>
+		<pt>4/4</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
 	<card>
       <name>Yogg-Saron, Hope's End (HELL)</name>
       <text>When Yogg-Saron, Hope's End enters, cast X random instants and sorceries with random targets, where X is the number of instants and sorceries you have cast this game.
@@ -1474,6 +1505,25 @@ Enchanted permanent can't attack or block, and its activated abilities can't be 
         <type>Creature — Cat Beast</type>
       </prop>
       <set rarity="rare" num="23" uuid="9b464549-a84d-44bf-a684-d59db5babc6d">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fioran Reformist (HELL)</name>
+      <text>When Fioran Reformist enters the battlefield, if a player is the monarch, get rid of the monarchy.
+Democracy is in effect until Fioran Reformist leaves the battlefield. (At the beginning of each player's end step, if they control more creatures than each other player, they draw a card. Player's can't become the monarch.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Advisor</type>
+        <pt>3/3</pt>
+      </prop>
+      <set rarity="rare" uuid="5c9c264c-545c-484e-bd9a-c3ddaa874a1e" num="RW03b">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -2639,6 +2689,25 @@ Whenever you play a land or cast a spell, if it shares a mana value with one or 
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Ensoul Ring (HELL)</name>
+      <text>Enchant nonland permanent.
+Enchanted permanent is a Sol Ring. (It's no longer anything else.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment — Aura</type>
+      </prop>
+      <set rarity="uncommon" uuid="fd855e8d-cda5-429e-897b-11ed0c454cc1" num="UU02a">HELL</set>
+	  <related>Sol Ring</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Enter the Infinite (HELL)</name>
       <text>Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.</text>
@@ -3377,6 +3446,29 @@ Draw two cards. If the gift was promised, seek two nonland cards instead.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Really Charming Prince (HELL)</name>
+      <text>Flying
+When Really Charming Prince enters the battlefield, choose one of the following four cards at random: Piracy Charm, Sapphire Charm, Trickery Charm, and Vision Charm. You may create a copy of the chosen card and cast that copy without paying its mana cost.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Faerie Noble</type>
+        <pt>2/1</pt>
+      </prop>
+      <set rarity="rare" uuid="c45d0d5f-b802-4cb3-8caa-88ad6bf42c6a" num="RU02d">HELL</set>
+	  <related>Piracy Charm</related>
+      <related>Sapphire Charm</related>
+      <related>Trickery Charm</related>
+      <related>Vision Charm</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Reef Worm (HELL)</name>
       <text>When Reef Worm dies, create a 3/3 blue Fish creature token with &quot;When this creature dies, create a 6/6 blue Whale creature token with 'When this creature dies, create a 9/9 blue Kraken creature token.'&quot;</text>
@@ -3765,6 +3857,23 @@ Warlock of the Ice Barrier gets "Each player cannot cast instants or sorceries f
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Welcome to Mini-apolis (HELL)</name>
+      <text>Whenever an opponent casts a creature spell, create a token that's a copy of it, except it's 1/1.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <set rarity="rare" uuid="e54ef148-3bcf-40d1-b9c6-cdf31b53578c" num="RU05">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Whimsy (HELL)</name>
       <text>Play X random fast effects.
@@ -3781,6 +3890,23 @@ https://scryfall.com/random?q=t:instant+include:extras</text>
         <side>front</side>
       </prop>
       <set uuid="ff257509-8035-45c7-a0d7-ab55449a99c9" rarity="common" num="10">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Wrath of Oko (HELL)</name>
+      <text>All creatures loose all abilities and become green Elk creatures with base power and toughness 3/3. (This effect lasts indefinitely. Just like Oko. Unfortunately.)</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="795d2d40-3ac1-4aa0-96b6-6f5c794c6868" num="RU03b">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -4485,6 +4611,26 @@ You lose this emblem.</text>
         <cmc>1</cmc>
       </prop>
       <set num="474" rarity="rare" uuid="f776cb6c-548f-45a9-b605-b386c5468885">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Disciple of Vess (HELL)</name>
+      <text>Whenever The Disciple of Vess attacks, you may put a planeswalker card from your hand onto the battlefield. If you don't create a token that's a copy of a Liliana planeswalker chosen at random.
+	  
+https://scryfall.com/random?q=(t:Liliana)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Human Cleric</type>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="rare" uuid="0e83124c-6b96-4c44-a054-c91d9b86310e" num="RB54">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -5539,6 +5685,27 @@ Whenever Pinchy McStingbutt deals combat damage to a player, conjure a card name
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Quest Compleated Best (HELL)</name>
+      <text>Menace, Lifelink, Toxic 2
+Quest Compleated Best can't be blocked by tokens.
+Your opponent can't gain life or remove poison counters.
+Whenever Quest Compleated Best deals combat damage to an opponent, it deals that much damage to target battle that player is protecting.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Phyrexian Beast</type>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="rare" uuid="cb38c0dc-c945-447f-9bca-62af1dc1f2c3" num="RB04d">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Reanimate (HELL)</name>
       <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.</text>
       <prop>
@@ -6287,7 +6454,7 @@ Retreat — Sacrifice three energy attached to Charizard: Return Charizard and a
         <colors>R</colors>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Stage 2 Pokémon</type>
+        <type>Kindred Battle — Stage 2 Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6308,7 +6475,7 @@ Retreat — Sacrifice one Energy attached to Charmander: Return Charmander and a
         <colors>R</colors>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Basic Pokémon</type>
+        <type>Kindred Battle — Basic Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6331,7 +6498,7 @@ Retreat — Sacrifice one energy attached to Charmeleon: Return Charmeleon and a
 		<manacost>0</manacost>
         <maintype>Battle</maintype>
         <coloridentity>R</coloridentity>
-        <type>Battle — Stage 1 Pokémon</type>
+        <type>Kindred Battle — Stage 1 Lizard Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6575,6 +6742,23 @@ Storm</text>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guess Who it Is! (HELL)</name>
+      <text>Look at the top ten cards of target opponent's library and choose a creature card from among them. That opponent asks you five yes or no questions about that creature. (Answer truthfully!) Then that player chooses a card name. Reveal the card. If it doesn't have that name, put it onto the battlefield under your control. Then shuffle each card not put onto the battlefield this way into its owner's library.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="uncommon" uuid="0fc4d8db-8bad-48b6-9901-7a9784506e89" num="UR04a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Hazoret the Pervert (HELL)</name>
@@ -6917,7 +7101,7 @@ Destroy all artifacts, creatures, and lands. They can't be regenerated.</text>
       <text>You lose 6 life.
 Add {R}{R}.
 Draw three cards.
-Exile Offering..</text>
+Exile Offering.</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>0</cmc>
@@ -7088,6 +7272,27 @@ Whenever Phyrexian Harvester is dealt damage, seek that many nonland cards. At t
         <side>front</side>
       </prop>
       <set uuid="61ec25b0-40ab-4719-8c35-1fc4f59239d9" rarity="mythic" num="13">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Polis the Planeshifter (HELL)</name>
+      <text>When Polis the Planeshifter enters the battlefield, choose a plane at random from among all planechase planes. Polis the Planeshifter has all abilities of the last chosen plane. (Rolls of the planar die don't affect Polis.)
+{W}{U}{B}{R}{G}: Flip a Coin. If you win the flip, do Polis the Planeshifter's chaos ensues effect. If you lose the flip, choose a new plane for Polis the Planeshifter.
+
+https://scryfall.com/random?q=(t:plane)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Azra Wizard</type>
+        <pt>3/3</pt>
+      </prop>
+      <set rarity="mythic" uuid="7e6e84d8-f40d-4e58-b795-818a69121d01" num="MR01">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -8002,6 +8207,26 @@ When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>The Disciple of Nissa (HELL)</name>
+      <text>Whenever the Disciple of Nissa attacks, you may pay {X}{X}{X}{G}{G}. When you do, create X tokens that are copies of different Nissa planeswalkers chosen at random. They each enter with an additional loyalty counter.
+	  
+https://scryfall.com/random?q=(t:nissa)+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Elf Wizard</type>
+        <pt>3/2</pt>
+      </prop>
+      <set rarity="rare" uuid="d5226a9b-14bd-4b34-8abb-67ac59e7a017" num="RG01b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Doubling Season (HELL)</name>
       <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
 If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>
@@ -8108,6 +8333,41 @@ Other Squirrels you control get +1/+1.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Emrakul and Chatterfang (HELL)</name>
+      <text>Devoid
+Flying, Trample, Forestwalk, protection from non-Squirrels
+When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scion creature tokens with &quot;Sacrifice this creature: Add {G} or {B}&quot;.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+        <manacost>8GGG</manacost>
+        <cmc>11</cmc>
+        <type>Legendary Creature — Eldrazi Squirrel</type>
+        <pt>15/15</pt>
+      </prop>
+      <set rarity="rare" uuid="a05d2a64-fc37-4bb8-ad98-0cbf08552d81" num="RG10">HELL</set>
+      <related count="15">Eldrazi Squirrel Scion (HELL)</related>
+      <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Eldrazi Squirrel Scion (HELL)</name>
+      <text>Sacrifice this creature: Add {G} or {B}</text>
+      <prop>
+        <type>Token Creature — Eldrazi Squirrel Scion</type>
+        <maintype>Token</maintype>
+		<pt>1/1</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+		<colors>G</colors>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
     <card>
       <name>Eternal Witness (HELL)</name>
       <text>When Eternal Witness enters, you may return target card from your graveyard to your hand.</text>
@@ -8801,6 +9061,24 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
 	  <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Occupation of Llanowar (HELL)</name>
+      <text>(Any opponent may attack this battle. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters. This is different from sieges!)
+At the beginning of your combat step, put a +1/+1 counter to target creature you control.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Battle</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Battle — Control Point</type>
+      </prop>
+      <set rarity="rare" uuid="0ccb6224-276f-4452-a57b-602b589fba3b" num="RG11">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Outmaneuver (HELL)</name>
       <text>At the beginning of your next precombat main phase, add {G}{G}.</text>
       <prop>
@@ -9188,6 +9466,24 @@ Remove three spore counters from Thallid: Create a 1/1 green Saproling creature 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Then, Dreadmaws Ate Everyone (HELL)</name>
+      <text>Create X 6/6 green Dinosaur creature tokens with trample named Colossal Dreadmaw.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <manacost>X4GG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="eb41631e-3545-4dc3-861e-1dbe3d82898b" num="RG08">HELL</set>
+	  <related>Colossal Dreadmaw</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Tireless Tracker (HELL)</name>
       <text>Landfall — Whenever a land enters under your control, investigate. (Create a Clue token. It's an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
 Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.</text>
@@ -9396,7 +9692,7 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
         <colors>P</colors>
         <maintype>Battle</maintype>
         <coloridentity>P</coloridentity>
-        <type>Battle — Basic Pokémon</type>
+        <type>Kindred Battle — Basic Cat Pokémon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -9852,6 +10148,24 @@ Tap six untapped creatures you control: Return The Cinematic Phoenix from your g
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Colossal Dreadmaw and Storm Crow (HELL)</name>
+      <text>Flying, trample</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UG</colors>
+        <coloridentity>UG</coloridentity>
+        <manacost>5UG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature — Dinosaur Bird</type>
+        <pt>7/8</pt>
+      </prop>
+      <set rarity="rare" uuid="67dea3ca-586a-468c-96ab-761a05076e1c" num="RZ07a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Crucias, Titan of the Waves (HELL)</name>
       <text>At the beginning of your end step, you may discard a card. If you do, create a Treasure token and choose ambitious or expedient. If you chose ambitious, seek a card with greater mana value than the discarded card. If you chose expedient, seek a card with lesser mana value than the discarded card.</text>
       <prop>
@@ -10293,6 +10607,25 @@ At the beginning of each player's end step, if that player's program has fewer t
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Halana and Alena and Gisa and Geralf (HELL)</name>
+      <text>First strike, reach
+At the beginning of combat on your turn, mill four cards. You may choose a creature card from among them and cast it. When you do, it gains haste, becomes a Zombie in addition to its other types, and enters the battlefield with X +1/+1 counters on it, where X is Halana and Alena and Gisa and Geralf's power.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UBRG</colors>
+        <coloridentity>UBRG</coloridentity>
+        <manacost>RGUB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Human Ranger Wizard</type>
+        <pt>3/5</pt>
+      </prop>
+      <set rarity="rare" uuid="9a134fd3-d40e-4cbe-befd-426a6b856832" num="RZ04c">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Heroes of Kamigawa (HELL)</name>
       <text>Each spell you cast with a name printed in a Kamigawa expansion costs {1} less to cast.
 Heroes of Kamigawa can be your commander.
@@ -10647,6 +10980,7 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
       <tablerow>2</tablerow>
     </card>
     <card>
+<<<<<<< HEAD
       <name>Kianne, Corrupted Memory (HELL)</name>
       <text>As long as Kianne's power is even, you may cast noncreature spells as though they had flash.
 As long as Kianne's power is odd, you may cast creature spells as though they had flash.
@@ -10665,6 +10999,44 @@ Whenever you draw a card, put a +1/+1 counter on Kianne.</text>
       <set num="2" rarity="mythic" uuid="d970c966-9a89-4c4c-ac73-8cf8fffe7721">HELL</set>
       <tablerow>2</tablerow>
     </card>
+=======
+      <name>Koma and Toski, Compleated (HELL)</name>
+      <text>This spell can't be countered.
+At the beginning of each upkeep, create a 1/1 Phyrexian Serpent Squirrel artifact creature token named Toski's Coil with &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
+Sacrifice another Serpent or Squirrel: Choose one —
+*Target creature attacks this turn if able. Its activated abilities can't be activated this turn.
+*Koma and Toski, Compleated gains indestructible until end of turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <colors>UG</colors>
+        <coloridentity>UG</coloridentity>
+        <manacost>6UG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature — Phyrexian Serpent Squirrel</type>
+        <pt>7/7</pt>
+      </prop>
+      <set rarity="rare" uuid="d8dd0e55-d8eb-4cf5-a860-65f1e6fe661f" num="RZ08b">HELL</set>
+	  <related>Toski's Coil Token (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Toski's Coil Token (HELL)</name>
+      <text>Whenever this creature deals combat damage to a player, draw a card.</text>
+      <prop>
+        <type>Token Artifact Creature — Phyrexian Serpent Squirrel</type>
+        <maintype>Token</maintype>
+		<pt>1/1</pt>
+		<cmc>0</cmc>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
+>>>>>>> main
     <card>
       <name>Last-Minute Chopping (HELL)</name>
       <text>Ask target opponent if they remembered to get you a present. If they say yes, they put a card they own from outside the game into your hand. Otherwise, you gain control of target permanent they control.</text>
@@ -12422,6 +12794,25 @@ Whenever Puresteel Angel deals combat damage to a player, you get an emblem with
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Rebellious Intelligence (HELL)</name>
+      <text>At the beginning of your upkeep, put a random card from outside the game into your hand.
+{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.
+
+https://scryfall.com/random</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact Creature — Rebel</type>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="rare" uuid="8b443705-b482-4e28-94ff-df2cd844a369" num="RA31">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Scion of Draco (HELL)</name>
       <text>Domain — This spell costs {2} less to cast for each basic land type among lands you control.
 Flying
@@ -12484,6 +12875,24 @@ Equip {1}</text>
         <cmc>1</cmc>
       </prop>
       <set num="269" rarity="uncommon" muid="40" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sort of _____ and _____ (HELL)</name>
+      <text>When Sort of _____ and _____ enters the battlefield, choose two tournament legal cards in the Sword of _____ and _____ cycle at random. This equipment has the first piece of the combat damage trigger of the first chosen one, and the second piece of the combat damage trigger on the second chosen one. (It doesn't grant +2/+2 or protection. Yes, Hearth still returns the creature.)
+Equip {2}
+
+https://scryfall.com/random?q=%22sword+of%22+%22and%22+include:extras</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment</type>
+      </prop>
+      <set rarity="rare" uuid="fc3191cb-7213-41d6-98d8-0330dbc86449" num="RA13">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
