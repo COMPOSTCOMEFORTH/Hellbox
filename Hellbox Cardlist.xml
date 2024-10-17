@@ -315,6 +315,21 @@ You can't cast instant or sorcery spells.</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>I Am Duskmourn (HELL)</name>
+      <text>(You can only set one scheme into motion each turn. An ongoing scheme remains face up until it's abandoned. It is not a permanent.)
+At the beginning of your end step, you may cast a spell from your hand without paying its mana cost. If you do, abandon this scheme.</text>
+      <prop>
+        <layout>scheme</layout>
+        <maintype>Scheme</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+        <type>Ongoing Scheme</type>
+      </prop>
+      <set rarity="common" uuid="fe69d226-ded2-43b3-aa37-b311f97199c5" num="334" muid="675224">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>I Know All, I See All (HELL)</name>
       <text>(You can only set one scheme into motion each turn. An ongoing scheme remains face up until it's abandoned. It is not a permanent.)
 Untap all permanents you control during each opponent's untap step.
@@ -1188,6 +1203,22 @@ https://scryfall.com/random?q=(t:instant+OR+t:sorcery)+include:extras</text>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>You Cannot Hide from Me (HELL)</name>
+      <text>(You can only set one scheme into motion each turn. An ongoing scheme remains face up until it's abandoned. It is not a permanent.)
+At the beginning of combat on your turn, up to one target creature gets +2/+2 and gains vigilance until end of turn. It can't be blocked this turn.
+At the beginning of each opponent's end step, if that player has less than half their starting life total, abandon this scheme.</text>
+      <prop>
+        <layout>scheme</layout>
+        <maintype>Scheme</maintype>
+        <side>front</side>
+        <cmc>0</cmc>
+        <type>Ongoing Scheme</type>
+      </prop>
+      <set rarity="common" uuid="2273beae-1ae9-438a-84cb-00f206ad971e" num="360" muid="675250">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
     <card>
       <name>A Girl and Her Dogs (HELL)</name>
@@ -2917,6 +2948,23 @@ When Great Old One enters, put a flood counter on each land on the battlefield. 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Housemeld (HELL)</name>
+      <text>Exile target creature. The exiled card perpetually becomes an enchantment. Then put it onto the battlefield under your control. (It loses all other card types.)</text>
+      <prop>
+        <type>Sorcery</type>
+        <coloridentity>U</coloridentity>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>4</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="5" rarity="uncommon" uuid="d3cf68c1-d137-4a10-b20a-d3e08744ff33">HELL</set>
+     <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Hullbreacher (HELL)</name>
       <text>Flash
 If an opponent would draw a card except the first one they draw in each of their draw steps, instead you create a Treasure token.</text>
@@ -3129,6 +3177,25 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Marina Vendrell's Grimoire (HELL)</name>
+      <text>When Marina Vendrell's Grimoire enters, if you cast it, draw five cards.
+You have no maximum hand size and don't lose the game for having 0 or less life.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game.</text>
+      <prop>
+        <maintype>Artifact</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Artifact</type>
+        <side>front</side>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <colors>U</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="64" rarity="rare" uuid="b976d642-3cf0-42c5-b3ba-12818e596f9c">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Mapping the Maze (HELL)</name>
       <text>Choose an instant or sorcery card in your hand or graveyard. That card perpetually incorporates {U} and gains &quot;When you cast this spell, draw a card.&quot; Then return a multicolored instant or sorcery card from your graveyard to your hand.</text>
       <prop>
@@ -3161,6 +3228,24 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
       <set muid="517566" rarity="rare" num="74" uuid="98c1b465-b6d9-491b-bfc2-c034cc825d27">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Mindskinner (HELL)</name>
+      <text>The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Enchantment Creature — Nightmare</type>
+        <side>front</side>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <pt>10/1</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="66" rarity="rare" uuid="7f1bb4c5-99be-46cc-ad54-7affb5f0144c">HELL</set>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Mistblade Shinobi (HELL)</name>
@@ -3590,6 +3675,24 @@ Whenever a creature you control attacks alone, seek two nonland cards, then disc
       <set muid="522144" rarity="rare" num="90" uuid="40af215c-d3f7-42f0-85cd-77a3fcd919ba">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Tale of Tamiyo (HELL)</name>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>U</coloridentity>
+        <type>Legendary Enchantment — Saga</type>
+        <side>front</side>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <layout>saga</layout>
+      </prop>
+      <set num="75" rarity="rare" uuid="aaeba193-05d3-4c2d-a304-bbe7114c2eef">HELL</set>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Tempest (HELL)</name>
@@ -4565,6 +4668,25 @@ https://scryfall.com/random?q=(t:Liliana)+include:extras</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Doomsday Excruciator (HELL)</name>
+      <text>Flying
+When Doomsday Excruciator enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.</text>
+      <prop>
+        <pt>6/6</pt>
+        <type>Creature — Demon</type>
+        <colors>B</colors>
+        <layout>normal</layout>
+        <manacost>BBBBBB</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>6</cmc>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384" num="94">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Dread Return (HELL)</name>
       <text>Return target creature card from your graveyard to the battlefield.
@@ -5245,6 +5367,24 @@ Reveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and
 	  <tablerow>2</tablerow>
 	</card>
     <card>
+      <name>Meathook Massacre II (HELL)</name>
+      <text>When Meathook Massacre II enters, each player sacrifices X creatures.
+Whenever a creature you control dies, you may pay 3 life. If you do, return that card under your control with a finality counter on it.
+Whenever a creature an opponent controls dies, they may pay 3 life. If they don't, return that card under your control with a finality counter on it.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Enchantment</type>
+        <side>front</side>
+        <manacost>XXBBBB</manacost>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="108" rarity="mythic" uuid="3db59d06-a226-42b2-8f01-6b63a6eea83f">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Murder (HELL)</name>
       <text>Destroy target creature.</text>
       <prop>
@@ -5700,6 +5840,23 @@ Added by VVK</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Sadistic Shell Game (HELL)</name>
+      <text>Starting with the next opponent in turn order, each player chooses a creature you don't control. Destroy the chosen creatures.</text>
+      <prop>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set rarity="rare" uuid="4c5c8eb3-c866-4974-90eb-be99c07af1a1" num="24" muid="675619">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Sanitarium Skeleton (HELL)</name>
       <text>{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.</text>
       <prop>
@@ -6004,6 +6161,87 @@ When Thorn of the Black Rose enters, you become the monarch.</text>
         <manacost>BB</manacost>
       </prop>
       <set rarity="common" num="999-TLDR" uuid="e6f78f7f-a5cb-4cc8-a23d-efb085cdd3c6">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Unholy Annex // Ritual Chamber (HELL)</name>
+      <text>At the beginning of your end step, draw a card. If you control a Demon, each opponent loses 2 life and you gain 2 life. Otherwise, you lose 2 life.
+
+---
+
+When you unlock this door, create a 6/6 black Demon creature token with flying.</text>
+      <prop>
+        <manacost>2B // 3BB</manacost>
+        <layout>split</layout>
+        <side>front</side>
+        <maintype>Enchantment</maintype>
+        <type>Enchantment — Room</type>
+        <cmc>8</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="681caa94-e95e-47f0-8305-eca0ed55cb5e" num="118" muid="673523">HELL</set>
+	  <related>Demon Token    </related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+	<card>
+      <name>Unstoppable Slasher (HELL)</name>
+      <text>Deathtouch
+Whenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up.
+When Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Creature — Zombie Assassin</type>
+        <side>front</side>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>2/3</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="119" rarity="rare" uuid="0a30a301-8e87-46e7-89aa-cd55b1a14420">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valgavoth, Terror Eater (HELL)</name>
+      <text>Flying, lifelink
+Ward—Sacrifice three nonland permanents.
+If a card you didn't control would be put into an opponent's graveyard from anywhere, exile it instead.
+During your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>B</coloridentity>
+        <type>Legendary Creature — Elder Demon</type>
+        <side>front</side>
+        <manacost>6BBB</manacost>
+        <cmc>9</cmc>
+        <colors>B</colors>
+        <pt>9/9</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="120" rarity="mythic" uuid="ec48f-5e6a-4f57-86ca-3640b7235002">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Welcome the Darkness (HELL)</name>
+      <text>X can't be 0.
+Draw X cards.
+Create an X/X black Demon creature token with flying. Your life total becomes X. You can't gain life for the rest of the game.</text>
+      <prop>
+        <type>Instant</type>
+        <coloridentity>B</coloridentity>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <maintype>Instant</maintype>
+        <side>front</side>
+        <cmc>1</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="11" rarity="mythic" uuid="e559c627-6fa2-41fc-adbd-64c06e06cccf">HELL</set>
+	  <related>Demon Token </related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -6321,6 +6559,24 @@ Whenever you cast a multicolored spell, Construction Arsonist gets +1/+1 until e
       <set num="15" rarity="rare" uuid="8f4e750e-481f-487f-b89b-3a1a6ba0e3bb">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cursed Recording (HELL)</name>
+      <text>Whenever you cast an instant or sorcery spell, put a time counter on Cursed Recording. Then if there are seven or more time counters on it, remove those counters and it deals 20 damage to you.
+{T}: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
+      <prop>
+        <manacost>2RR</manacost>
+        <layout>normal</layout>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <type>Artifact</type>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="5aacedd1-de6b-4485-891e-0283ef33f3d4" num="131" muid="673536">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
     <card>
       <name>Dockside Extortionist (HELL)</name>
@@ -6819,6 +7075,25 @@ While Monkey.D.Luffy has two or more DON!!, it takes no combat damage from Strik
         <cmc>4</cmc>
       </prop>
       <set num="1" rarity="rare" muid="97050" uuid="7f9c6be5-ec44-4c66-aad6-cf9eca765b6b">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Norin, Swift Survivalist (HELL)</name>
+      <text>Norin, Swift Survivalist can't block.
+Whenever a creature you control becomes blocked, you may exile it. You may play that card from exile this turn.</text>
+      <prop>
+        <manacost>R</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Coward</type>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2/1</pt>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <set rarity="uncommon" uuid="49f0fdf4-3881-4327-924f-2c1b67ccda93" num="145" muid="673550">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -7655,6 +7930,25 @@ Whenever Velukan Dragon attacks or blocks, roll a six-sided die. Velukan Dragon 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Altanak, the Thrice-Called (HELL)</name>
+      <text>Trample
+Whenever Altanak, the Thrice-Called becomes the target of a spell or ability an opponent controls, draw a card.
+{1}{G}, Discard Altanak, the Thrice-Called: Return target land card from your graveyard to the battlefield tapped.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>G</coloridentity>
+        <type>Legendary Creature — Insect Beast</type>
+        <side>front</side>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <colors>G</colors>
+        <pt>9/9</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="166" rarity="uncommon" uuid="807b0674-8eba-4204-b6b6-fa2b785a79e9">DSK</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Ardyn (HELL)</name>
       <text>When Ardyn enters, target creature an opponent controls cannot attack or block until your next turn.
 When a spell or ability an opponent controls destroys Ardyn, return it from the graveyard to the battlefield at the beginning of the next end step.</text>
@@ -8446,6 +8740,23 @@ Equip {3}</text>
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Leyline of Mutation (HELL)</name>
+      <text>If Leyline of Mutation is in your opening hand, you may begin the game with it on the battlefield.
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.</text>
+      <prop>
+        <maintype>Enchantment</maintype>
+        <coloridentity>WUBRG</coloridentity>
+        <type>Enchantment</type>
+        <side>front</side>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="188" rarity="rare" uuid="2359b670-41f0-4ec7-8db9-3f87f7577bc3">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Living Wish (HELL)</name>
       <text>You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.</text>
       <prop>
@@ -8512,6 +8823,24 @@ Equip {3}</text>
 	  <related>Llanowar Elves (Token)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manifest Dread (HELL)</name>
+      <text>Manifest dread.</text>
+      <prop>
+        <manacost>1G</manacost>
+        <layout>normal</layout>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <type>Sorcery</type>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <set rarity="common" uuid="a649265b-6c32-49e7-b6cb-6086c40d26e8" num="189" muid="673594">HELL</set>
+	  <related>Manifest</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Marwyn's Kindred (HELL)</name>
@@ -8968,6 +9297,23 @@ When Rothga, Bonded Engulfer enters, you get a one-time boon with &quot;When you
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Say Its Name (HELL)</name>
+      <text>Mill three cards. Then you may return a creature or land card from your graveyard to your hand.
+Exile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <coloridentity>G</coloridentity>
+        <type>Sorcery</type>
+        <side>front</side>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <layout>normal</layout>
+      </prop>
+      <set num="197" rarity="common" uuid="94c58683-b5f2-4863-9562-6f6be1ec21fe">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Scute Swarm (HELL)</name>
       <text>Landfall — Whenever a land enters under your control, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of Scute Swarm instead.</text>
       <prop>
@@ -9193,6 +9539,26 @@ Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.</text>
 	  <related>Clue Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Verdant Dread (HELL)</name>
+      <text>Whenever Verdant Dread or another permanent you control named Verdant Dread enters, manifest dread.
+{3}{G}{G}: Conjure a card named Verdant Dread onto the battlefield. Activate only as a sorcery.</text>
+      <prop>
+        <type>Enchantment</type>
+        <coloridentity>G</coloridentity>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="17" rarity="mythic" uuid="ace1acd8-acd0-434b-9724-488622822310">HELL</set>
+	  <related>Manifest</related>
+	  <related persistent="persistent">Verdant Dread (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
     <card>
       <name>Verduran Enchantress (HELL)</name>
@@ -10059,6 +10425,26 @@ Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of tu
       <tablerow>2</tablerow>
     </card>
 	<card>
+      <name>Fear of Change (HELL)</name>
+      <text>When this creature enters or dies, exile another creature you control. If you do, conjure a duplicate of a random creature card with mana value X onto the battlefield, where X is 2 plus the exiled creature's mana value.	  
+
+https://scryfall.com/random?q=t:creature+include:extras+mv:X (Replace X with 2 plus the exiled creature’s mana value)</text>
+      <prop>
+        <type>Enchantment Creature — Nightmare</type>
+        <coloridentity>UG</coloridentity>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="21" rarity="uncommon" uuid="d6da2a3a-2f1d-47de-8f60-77b6d9661b01">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Flame Hellscythe (HELL)</name>
       <text>Target creature an opponent controls gets -6000/-6000 until end of turn.
 Return target white or purple creature with 6000 or less power from your graveyard to the battlefield.</text>
@@ -10623,6 +11009,24 @@ When this creature enters, draw a card.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>The Jolly Balloon Man (HELL)</name>
+      <text>Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+      <prop>
+        <pt>1/4</pt>
+        <type>Legendary Creature — Human Clown</type>
+        <colors>WR</colors>
+        <layout>normal</layout>
+        <manacost>1RW</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>3</cmc>
+        <coloridentity>WR</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="a3c4e2e0-1c0e-475d-a0f4-1be4216c2bad" num="219">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Jund 'Em Out (HELL)</name>
       <text>Retrace
 Choose one at random. Create a copy of the chosen card. You may cast the copy without paying its mana cost.
@@ -10649,6 +11053,26 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
 	  <related>Lightning Bolt</related>
 	  <related>Liliana of the Veil</related>
 	  <related>Tarmogoyf</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kianne, Corrupted Memory (HELL)</name>
+      <text>As long as Kianne's power is even, you may cast noncreature spells as though they had flash.
+As long as Kianne's power is odd, you may cast creature spells as though they had flash.
+Whenever you draw a card, put a +1/+1 counter on Kianne.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <coloridentity>UG</coloridentity>
+        <type>Legendary Creature — Illusion</type>
+        <side>front</side>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <colors>UG</colors>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="2" rarity="mythic" uuid="d970c966-9a89-4c4c-ac73-8cf8fffe7721">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -10851,6 +11275,24 @@ At the beginning of your end step, choose target creature card in your graveyard
       </prop>
       <set num="52" rarity="mythic" muid="479513" uuid="91190972-7c9d-4a16-b7b8-0fcf3dbcebd5">HELL</set>
 	  <related>Experience Counter</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mischievous Lookout (HELL)</name>
+      <text>Once during each of your turns, you may cast a noncreature, non-Aura permanent spell from your graveyard. If you do, it perpetually becomes a 2/1 Rat creature in addition to its other types.</text>
+      <prop>
+        <type>Enchantment Creature — Rat Glimmer</type>
+        <coloridentity>WB</coloridentity>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="25" rarity="rare" uuid="7c441b04-fac8-4ac7-848b-967a96d66244">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -11537,6 +11979,25 @@ Destroy target enchantment.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Winter, Misanthropic Guide (HELL)</name>
+      <text>Ward {2}
+At the beginning of your upkeep, each player draws two cards.
+Delirium — As long as there are four or more card types among cards in your graveyard, each opponent's maximum hand size is equal to seven minus the number of those card types.</text>
+      <prop>
+        <manacost>1BRG</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Warlock</type>
+        <cmc>4</cmc>
+        <colors>BRG</colors>
+        <pt>3/4</pt>
+        <coloridentity>BRG</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="e9b81421-44cb-440f-a6ac-3ddf620f1989" num="240" muid="673645">DSK</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Wowzer, the Aspirational (HELL)</name>
       <text>Whenever Wowzer, the Aspirational attacks, if you have an {E}, control a Blood, a Clue, a Food, a Map, a Powerstone, and a Treasure, are the monarch, and have the city's blessing and the initiative, you win the game.</text>
       <prop>
@@ -11607,6 +12068,25 @@ Destroy target enchantment.</text>
       <set muid="571334" rarity="rare" num="2" uuid="249db4d4-2542-47ee-a216-e13ffbc2319c">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Zimone, All-Questioning (HELL)</name>
+      <text>At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)</text>
+      <prop>
+        <manacost>1GU</manacost>
+        <layout>normal</layout>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <type>Legendary Creature — Human Wizard</type>
+        <cmc>3</cmc>
+        <colors>UG</colors>
+        <pt>1/1</pt>
+        <coloridentity>UG</coloridentity>
+      </prop>
+      <set rarity="rare" uuid="7722f4f7-fe38-4107-a715-7b27b6a4e341" num="241" muid="673646">HELL</set>
+	  <related>Primo, the Indivisible</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
 	<card>
       <name>Zinnia, Valley's Voice (HELL)</name>
@@ -12150,6 +12630,21 @@ Added by CatManThree</text>
       <set muid="642856" rarity="mythic" num="17" uuid="ecb293d5-b13b-400f-ac7b-162a1e127ec7">HELL</set>
       <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Marvin, Murderous Mimic (HELL)</name>
+      <text>Marvin, Murderous Mimic has all activated abilities of creatures you control that don't have the same name as this creature.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Legendary Artifact Creature — Toy</type>
+        <side>front</side>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="253" rarity="rare" uuid="66898970-b99b-48f2-9240-68c301c95500">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Mask of Mayhem (HELL)</name>
       <text>All creatures attack each combat if able.
@@ -12492,6 +12987,25 @@ https://scryfall.com/random?q=%22sword+of%22+%22and%22+include:extras</text>
         <type>Artifact — Equipment</type>
       </prop>
       <set rarity="rare" uuid="fc3191cb-7213-41d6-98d8-0330dbc86449" num="RA13">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Soul Shredder (HELL)</name>
+      <text>Haste
+Whenever one or more other creatures die, Soul Shredder perpetually gets +1/+1. This ability also triggers if Soul Shredder is in your graveyard.
+Crew 1
+{1}, Sacrifice two creatures: Return Soul Shredder from your graveyard to the battlefield. Activate only as a sorcery.</text>
+      <prop>
+        <type>Artifact — Vehicle</type>
+        <manacost>2</manacost>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="30" rarity="rare" uuid="09077cc6-44b9-432c-8869-08bfac1e181d">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
@@ -12966,6 +13480,21 @@ Metalcraft — {T}: Add {C} for each Urza's land you control. Activate only if y
       </prop>
       <set num="28" rarity="rare" muid="586470" uuid="37c9b9d7-2fa7-4710-94bb-c55ee7bf598c">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Valgavoth's Lair (HELL)</name>
+      <text>Hexproof
+Valgavoth's Lair enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+      <prop>
+        <maintype>Land</maintype>
+        <type>Enchantment Land</type>
+        <side>front</side>
+        <cmc>0</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="271" rarity="rare" uuid="7b5041f1-7cb8-4b60-94f6-436430bbece4">HELL</set>
       <tablerow>0</tablerow>
     </card>
     <card>

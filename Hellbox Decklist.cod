@@ -585,6 +585,29 @@
 		<card number="1" name="Atsadi &amp; Surge (HELL)"/>
 		<card number="1" name="Mechanical Training (HELL)"/>
 		<card number="1" name="Nevenka &amp; Blotch (HELL)"/>
+		<card number="1" name="Doomsday Excruciator (HELL)"/>
+		<card number="1" name="The Jolly Balloon Man (HELL)"/>
+		<card number="1" name="The Mindskinner (HELL)"/>
+		<card number="1" name="Unstoppable Slasher (HELL)"/>
+		<card number="1" name="Leyline of Mutation (HELL)"/>
+		<card number="1" name="Marina Vendrell's Grimoire (HELL)"/>
+		<card number="1" name="The Tale of Tamiyo (HELL)"/>
+		<card number="1" name="Marvin, Murderous Mimic (HELL)"/>
+		<card number="1" name="Kianne, Corrupted Memory (HELL)"/>
+		<card number="1" name="Valgavoth's Lair (HELL)"/>
+		<card number="1" name="Valgavoth, Terror Eater (HELL)"/>
+		<card number="3" name="Say Its Name (HELL)"/>
+		<card number="1" name="Altanak, the Thrice-Called (HELL)"/>
+		<card number="1" name="Meathook Massacre II (HELL)"/>
+		<card number="1" name="Manifest Dread (HELL)"/>
+		<card number="1" name="Cursed Recording (HELL)"/>
+		<card number="1" name="Norin, Swift Survivalist (HELL)"/>
+		<card number="1" name="I Am Duskmourn (HELL)"/>
+		<card number="1" name="Sadistic Shell Game (HELL)"/>
+		<card number="1" name="Unholy Annex // Ritual Chamber (HELL)"/>
+		<card number="1" name="You Cannot Hide from Me (HELL)"/>
+		<card number="1" name="Winter, Misanthropic Guide (HELL)"/>
+		<card number="1" name="Zimone, All-Questioning (HELL)"/>
 		<card number="1" name="Polis the Planeshifter (HELL)"/>
 		<card number="1" name="The Disciple of Nissa (HELL)"/>
 		<card number="1" name="Really Charming Prince (HELL)"/>
@@ -604,6 +627,12 @@
 		<card number="1" name="Then, Dreadmaws Ate Everyone (HELL)"/>
 		<card number="1" name="Emrakul and Chatterfang (HELL)"/>
 		<card number="1" name="Koma and Toski, Compleated (HELL)"/>
+		<card number="1" name="Fear of Change (HELL)"/>
+		<card number="1" name="Housemeld (HELL)"/>
+		<card number="1" name="Welcome the Darkness (HELL)"/>
+		<card number="1" name="Verdant Dread (HELL)"/>
+		<card number="1" name="Mischievous Lookout (HELL)"/>
+		<card number="1" name="Soul Shredder (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
