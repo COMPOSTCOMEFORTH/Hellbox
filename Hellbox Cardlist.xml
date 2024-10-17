@@ -5508,7 +5508,7 @@ When Orcish Bowmasters enters and whenever an opponent draws a card except the f
         <pt>1/1</pt>
         <cmc>2</cmc>
       </prop>
-      <set num="103" rarity="rare" muid="616933" uuid="7c024bae-5631-4e20-ac69-df392ac9e109">HELL</set>
+      <set num="103" rarity="rare" muid="616933" uuid="de2de055-5246-408b-80fe-cd01688c145e">HELL</set>
 	  <related>Orc Army Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
@@ -5835,7 +5835,7 @@ Added by VVK</text>
         <side>front</side>
         <manacost>1B</manacost>
       </prop>
-      <set uuid="f3864bc8-f86e-4c41-b454-e19d1939147b" muid="479367" rarity="rare" num="35">HELL</set>
+      <set uuid="33fb161c-ff04-4bf2-8320-48302dfb085c" muid="479367" rarity="rare" num="35">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -7657,7 +7657,7 @@ Whenever you cast an instant or sorcery spell, create a token that's a copy of S
         <colors>R</colors>
         <maintype>Creature</maintype>
       </prop>
-      <set muid="669068" rarity="mythic" num="154" uuid="56f214d3-6b93-40db-a693-55e491c8a283">HELL</set>
+      <set muid="669068" rarity="mythic" num="154" uuid="9cb5235d-46a2-4b04-97fc-b8eb0f1ba14a">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -8277,7 +8277,7 @@ If an effect would put one or more counters on a permanent you control, it puts 
         <maintype>Enchantment</maintype>
         <cmc>5</cmc>
       </prop>
-      <set num="52" rarity="mythic" muid="632480" uuid="c7d7db76-0a0c-444f-96f1-559838450549">HELL</set>
+      <set num="52" rarity="mythic" muid="632480" uuid="6d545e9d-3b8e-44f5-8b4e-d8573ecc5819">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
@@ -9859,7 +9859,7 @@ Exile target nonland permanent. You may cast that card for as long as it remains
         <manacost>2WB</manacost>
         <cmc>4</cmc>
       </prop>
-      <set muid="662329" rarity="rare" num="177" uuid="d7149359-bb3f-413c-b21d-e4cd88618e56">HELL</set>
+      <set muid="662329" rarity="rare" num="177" uuid="771d4911-3dc8-4dc7-b2c9-e2158ee394bf">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -10527,7 +10527,7 @@ Whenever you play a land or cast a spell, draw a card if you have no cards in ha
         <colors>WU</colors>
         <cmc>5</cmc>
       </prop>
-      <set num="45" rarity="mythic" muid="657790" uuid="bd1db186-dd74-4e05-905c-34321fb3d641">HELL</set>
+      <set num="45" rarity="mythic" muid="657790" uuid="c127a3c8-be41-4135-8de6-c6331f4b880b">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -10591,7 +10591,7 @@ Whenever you cast a Lizard spell, Gev, Scaled Scorch deals 1 damage to target op
         <colors>BR</colors>
         <maintype>Creature</maintype>
       </prop>
-      <set muid="669128" rarity="rare" num="214" uuid="131ea976-289e-4f32-896d-27bbfd423ba9">HELL</set>
+      <set muid="669128" rarity="rare" num="214" uuid="4ad70a0b-3845-4b92-9c15-985a3fe0e1f2">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -11201,22 +11201,9 @@ When Mabel, Heir to Cragflame enters, create Cragflame, a legendary colorless Eq
         <side>front</side>
       </prop>
       <set uuid="be6627fd-729d-44f2-b6bf-5299f49d1e3d" rarity="rare" num="224">HELL</set>
-	  <related>Cragflame (HELL)</related>
+	  <related>Cragflame</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
-    </card>
-    <card>
-      <name>Cragflame (HELL)</name>
-      <text>Equipped creature gets +1/+1 and has vigilance, trample, and haste.
-Equip {2}</text>
-      <prop>
-        <type>Token Legendary Artifact — Equipment</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set uuid="b53c9857-3cad-4b61-bfaa-5de2d44dfbc4" muid="476228" rarity="rare" num="98">HELL</set>
-      <tablerow>1</tablerow>
     </card>
     <card>
       <name>Marshland Hordemaster (HELL)</name>
@@ -11348,7 +11335,7 @@ Creatures you control have &quot;Whenever this creature becomes the target of a 
         <colors>UG</colors>
         <maintype>Creature</maintype>
       </prop>
-      <set muid="662345" rarity="rare" num="193" uuid="94b67489-5eb0-4406-9bf3-27e50dc632eb">HELL</set>
+      <set muid="662345" rarity="rare" num="193" uuid="8281df8a-2fde-454a-813c-d9f86bb35d36">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -13435,7 +13422,7 @@ When Nearby Planet enters, sacrifice it unless you pay {1}.</text>
         <side>front</side>
         <cmc>0</cmc>
       </prop>
-      <set num="329" rarity="common" muid="490002" uuid="08dea8f6-bd32-44a3-bec4-93a5607819df">HELL</set>
+      <set num="329" rarity="common" muid="490002" uuid="546e0452-5304-41fa-9e3a-a3fa5a571315">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
@@ -13449,7 +13436,7 @@ When Nearby Planet enters, sacrifice it unless you pay {1}.</text>
         <side>front</side>
         <cmc>0</cmc>
       </prop>
-      <set num="330" rarity="common" muid="490003" uuid="54445d1f-5426-47e9-9e02-0274cea7174f">HELL</set>
+      <set num="330" rarity="common" muid="490003" uuid="936335d7-1c4a-4fcd-80ff-cd4d4fcab8c4">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
@@ -13463,7 +13450,7 @@ When Nearby Planet enters, sacrifice it unless you pay {1}.</text>
         <side>front</side>
         <cmc>0</cmc>
       </prop>
-      <set num="331" rarity="common" muid="490004" uuid="9e369f3f-354b-42bf-9b2f-286912730c6c">HELL</set>
+      <set num="331" rarity="common" muid="490004" uuid="c75672e0-fa2d-43c5-9381-e17f2fd6d3bc">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
@@ -13582,7 +13569,7 @@ This creature cannot attack.</text>
         <side>front</side>
         <cmc>0</cmc>
       </prop>
-      <set num="200a" rarity="uncommon" muid="583402" uuid="2e9eaed8-e956-4fb2-a23d-3d442cd2fa5c">HELL</set>
+      <set num="200a" rarity="uncommon" muid="583402" uuid="26bb8928-8178-439b-803e-35f5681b8ff4">HELL</set>
 	  <related>Balloon Token</related>
       <tablerow>1</tablerow>
     </card>
