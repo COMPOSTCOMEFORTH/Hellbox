@@ -12991,6 +12991,25 @@ https://scryfall.com/random?q=%22sword+of%22+%22and%22+include:extras</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Soul Shredder (HELL)</name>
+      <text>Haste
+Whenever one or more other creatures die, Soul Shredder perpetually gets +1/+1. This ability also triggers if Soul Shredder is in your graveyard.
+Crew 1
+{1}, Sacrifice two creatures: Return Soul Shredder from your graveyard to the battlefield. Activate only as a sorcery.</text>
+      <prop>
+        <type>Artifact — Vehicle</type>
+        <manacost>2</manacost>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="30" rarity="rare" uuid="09077cc6-44b9-432c-8869-08bfac1e181d">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Stocking Tiger (HELL)</name>
       <text>Stocking Tiger enters with a sealed booster pack under it.
 When Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it into your hand.</text>
