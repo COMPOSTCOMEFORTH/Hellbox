@@ -6225,6 +6225,26 @@ During your turn, you may play cards exiled with Valgavoth. If you cast a spell 
       <set num="120" rarity="mythic" uuid="ec48f-5e6a-4f57-86ca-3640b7235002">HELL</set>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Welcome the Darkness (HELL)</name>
+      <text>X can't be 0.
+Draw X cards.
+Create an X/X black Demon creature token with flying. Your life total becomes X. You can't gain life for the rest of the game.</text>
+      <prop>
+        <type>Instant</type>
+        <coloridentity>B</coloridentity>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <maintype>Instant</maintype>
+        <side>front</side>
+        <cmc>1</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="11" rarity="mythic" uuid="e559c627-6fa2-41fc-adbd-64c06e06cccf">HELL</set>
+	  <related>Demon Token </related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
     <card>
       <name>Yargle, Glutton of Urborg (HELL)</name>
       <text>Menace</text>
