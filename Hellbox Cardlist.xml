@@ -9541,6 +9541,26 @@ Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Verdant Dread (HELL)</name>
+      <text>Whenever Verdant Dread or another permanent you control named Verdant Dread enters, manifest dread.
+{3}{G}{G}: Conjure a card named Verdant Dread onto the battlefield. Activate only as a sorcery.</text>
+      <prop>
+        <type>Enchantment</type>
+        <coloridentity>G</coloridentity>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <maintype>Enchantment</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="17" rarity="mythic" uuid="ace1acd8-acd0-434b-9724-488622822310">HELL</set>
+	  <related>Manifest</related>
+	  <related persistent="persistent">Verdant Dread (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Verduran Enchantress (HELL)</name>
       <text>Whenever you cast an enchantment spell, you may draw a card.</text>
       <prop>

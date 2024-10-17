@@ -630,6 +630,7 @@
 		<card number="1" name="Fear of Change (HELL)"/>
 		<card number="1" name="Housemeld (HELL)"/>
 		<card number="1" name="Welcome the Darkness (HELL)"/>
+		<card number="1" name="Verdant Dread (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
