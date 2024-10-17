@@ -11279,6 +11279,24 @@ At the beginning of your end step, choose target creature card in your graveyard
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Mischievous Lookout (HELL)</name>
+      <text>Once during each of your turns, you may cast a noncreature, non-Aura permanent spell from your graveyard. If you do, it perpetually becomes a 2/1 Rat creature in addition to its other types.</text>
+      <prop>
+        <type>Enchantment Creature — Rat Glimmer</type>
+        <coloridentity>WB</coloridentity>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <maintype>Creature</maintype>
+        <side>front</side>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <layout>normal</layout>
+      </prop>
+      <set num="25" rarity="rare" uuid="7c441b04-fac8-4ac7-848b-967a96d66244">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Mortus Strider (HELL)</name>
       <text>When Mortus Strider dies, return it to its owner's hand.</text>
       <prop>

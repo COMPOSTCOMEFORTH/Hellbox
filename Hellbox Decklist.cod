@@ -631,6 +631,7 @@
 		<card number="1" name="Housemeld (HELL)"/>
 		<card number="1" name="Welcome the Darkness (HELL)"/>
 		<card number="1" name="Verdant Dread (HELL)"/>
+		<card number="1" name="Mischievous Lookout (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
