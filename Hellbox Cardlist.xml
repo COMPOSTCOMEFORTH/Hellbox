@@ -2948,6 +2948,23 @@ When Great Old One enters, put a flood counter on each land on the battlefield. 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Housemeld (HELL)</name>
+      <text>Exile target creature. The exiled card perpetually becomes an enchantment. Then put it onto the battlefield under your control. (It loses all other card types.)</text>
+      <prop>
+        <type>Sorcery</type>
+        <coloridentity>U</coloridentity>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <maintype>Sorcery</maintype>
+        <side>front</side>
+        <cmc>4</cmc>
+        <layout>normal</layout>
+      </prop>
+      <set num="5" rarity="uncommon" uuid="d3cf68c1-d137-4a10-b20a-d3e08744ff33">HELL</set>
+     <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Hullbreacher (HELL)</name>
       <text>Flash
 If an opponent would draw a card except the first one they draw in each of their draw steps, instead you create a Treasure token.</text>
