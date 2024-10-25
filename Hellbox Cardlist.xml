@@ -646,6 +646,23 @@ Reserve (If you cast this spell from your hand, exile it as it resolves. You may
 	  <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Medallion of the Ice Barrier (HELL)</name>
+      <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
+Search your library for an Ice Barrier creature card, put that card into your hand, then shuffle.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Kindred Sorcery — Ice Barrier</type>
+      </prop>
+      <set>HELL</set>
+	  <related>Face Down Spell or Trap (HELL)</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+	<card>
       <name>Mirror Force (HELL)</name>
       <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
 Destroy all creatures target opponent controls that are tapped or attacking.</text>

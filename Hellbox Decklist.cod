@@ -633,6 +633,7 @@
 		<card number="1" name="Verdant Dread (HELL)"/>
 		<card number="1" name="Mischievous Lookout (HELL)"/>
 		<card number="1" name="Soul Shredder (HELL)"/>
+		<card number="1" name="Medallion of the Ice Barrier (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
