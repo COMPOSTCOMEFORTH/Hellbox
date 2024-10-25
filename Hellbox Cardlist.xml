@@ -3546,7 +3546,12 @@ When Really Charming Prince enters the battlefield, choose one of the following 
     </card>
 	<card>
       <name>Richard Garfield, Ph.D. (HELL)</name>
-      <text>You may play cards as though they were other cards of your choice with the same mana cost. You can't choose the same card twice. (Mana cost includes color.)</text>
+      <text>You may play cards as though they were other cards of your choice with the same mana cost. You can't choose the same card twice. (Mana cost includes color.)
+	  
+Cards already chosen with Richard Garfield, Ph.D.:
+Emissary Green
+Fog
+Fog of War</text>
       <prop>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
