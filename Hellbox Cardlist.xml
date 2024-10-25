@@ -5150,7 +5150,7 @@ Other Warlocks you control get +1/+1.</text>
       <text>Whenever Kami of Mourning enters, target creature you control or creature card in your graveyard perpetually gains &quot;Whenever a creature you control with greater mana value than this card dies, return this card from your graveyard to the battlefield tapped.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>6/2</pt>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>2B</manacost>
