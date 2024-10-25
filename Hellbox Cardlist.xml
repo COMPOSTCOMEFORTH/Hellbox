@@ -1655,7 +1655,7 @@ At the beginning of the upkeep of the exiled card's owner, that player rolls two
       <text>(Creatures with star costs can only be cast once each turn. The number of stars determines the casting cost. A four star creature has a casting cost of {0}. Star cost creatures can also be cast face down as a 2/2 creature with &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery,&quot;, &quot;When this creature blocks or is dealt damage, turn it face up&quot; and &quot;This creature cannot attack.&quot;)
 You can’t cast this spell if you control a creature.
 If you control a creature, Inspector Boarder cannot enter the battlefield.
-Whenever a player activates the ability of a creature, if that player has activated X or more abilities from creatures this turn, counter that ability, where X is the number of creature supertypes currently on the battlefield.</text>
+Whenever a player activates the ability of a creature, or an ability of a creature they control triggers, if the combined number of abilities of creatures that player has activated and the number of abilities of creatures they control have triggered is equal to or greater than X, counter that ability, where X is the number of creature supertypes currently on the battlefield.</text>
       <prop>
         <maintype>Creature</maintype>
         <pt>2000/2000</pt>
@@ -1665,7 +1665,7 @@ Whenever a player activates the ability of a creature, if that player has activa
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
-        <type>Artifact Creature — Construct</type>
+        <type>Artifact Creature — Detective</type>
       </prop>
       <set>HELL</set>
 	  <related>Face Down Monster (HELL)</related>
