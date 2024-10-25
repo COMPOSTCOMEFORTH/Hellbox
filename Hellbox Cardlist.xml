@@ -10131,6 +10131,27 @@ You may cast Brokkos, Apex of Forever from your graveyard using its mutate abili
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Bruce (HELL)</name>
+      <text>Bruce gets +1/+1 for each Fish you control.
+Sacrifice a Fish: Bruce gets +3/+3 until end of turn.
+
+Added by VVK</text>
+      <prop>
+        <pt>3/3</pt>
+        <cmc>3</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <colors>UB</colors>
+        <maintype>Creature</maintype>
+        <coloridentity>UB</coloridentity>
+        <type>Creature — Shark</type>
+        <manacost>1UB</manacost>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Buxton, Decorated Host (HELL)</name>
       <text>Convoke
