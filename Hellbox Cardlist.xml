@@ -648,7 +648,9 @@ Reserve (If you cast this spell from your hand, exile it as it resolves. You may
 	<card>
       <name>Medallion of the Ice Barrier (HELL)</name>
       <text>Set Face Down {0} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {0}.)
-Search your library for an Ice Barrier creature card, put that card into your hand, then shuffle.</text>
+Search your library for an Ice Barrier creature card, put that card into your hand, then shuffle.
+
+Added by CatManThree</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>0</cmc>
@@ -2269,6 +2271,26 @@ Whenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 cou
         <cmc>2</cmc>
       </prop>
       <set num="41" rarity="common" muid="548336" uuid="43708ec9-a85a-4244-86b4-67b30b41d854">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Winds of Abandon (HELL)</name>
+      <text>Exile target creature you don't control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle.
+Overload {4}{W}{W}
+
+Added by VVK</text>
+      <prop>
+        <type>Sorcery</type>
+        <coloridentity>W</coloridentity>
+        <colors>W</colors>
+        <maintype>Sorcery</maintype>
+        <layout>normal</layout>
+        <cmc>2</cmc>
+        <side>front</side>
+        <manacost>1W</manacost>
+      </prop>
+      <set rarity="rare" muid="463986" num="37" uuid="3bb17913-fe4d-4acd-9b75-71f5a90f898b">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
