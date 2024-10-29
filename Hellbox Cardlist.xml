@@ -6865,6 +6865,27 @@ A creature with Greymon or Omnimon in its name that inherits this card gains &qu
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Growlmon (X Antibody) (HELL)</name>
+      <text>Digivolve Lv.3 Red Digimon {2}
+(If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Growlmon (X Antibody) for as long as Growlmon (X Antibody) remains on top. Then, draw a card.)
+X Antibody: Growlmon (You can digivolve Growlmon (X Antibody) onto a Growlmon you control. If you do, its digivolve cost is {0}
+A creature that inherits this card gains &quot;If an activated or triggered ability of this creature would destroy a creature, treat that creature's power as if it was 1000 higher.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>6000/6000</pt>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>R</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.4 Digimon Demon Dragon X Antibody</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Guess Who it Is! (HELL)</name>
       <text>Look at the top ten cards of target opponent's library and choose a creature card from among them. That opponent asks you five yes or no questions about that creature. (Answer truthfully!) Then that player chooses a card name. Reveal the card. If it doesn't have that name, put it onto the battlefield under your control. Then shuffle each card not put onto the battlefield this way into its owner's library.</text>
