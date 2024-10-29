@@ -638,6 +638,7 @@
 		<card number="1" name="Bruce (HELL)"/>
 		<card number="1" name="Starmon (HELL)"/>
 		<card number="1" name="Sangloupmon (HELL)"/>
+		<card number="1" name="Matadormon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

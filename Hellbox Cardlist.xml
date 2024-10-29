@@ -9838,6 +9838,27 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
 	  <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Matadormon (HELL)</name>
+      <text>Digivolve Lv.4 Purple Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target purple Lv.4 Digimon creature you own. It becomes a copy of Matadormon for as long as Matadormon remains on top. Then, draw a card.)
+When Matadormon attacks, you may discard a Demon Beast or a Zombie. If you do, Matadormon gets +3000/+3000 until end of turn.
+The digivolve cost of cards in your graveyard which target Matadormon cost {1} less.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>7000/7000</pt>
+        <cmc>7</cmc>
+        <colors>P</colors>
+        <manacost>7</manacost>
+        <side>front</side>
+		<coloridentity>P</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Lv.5 Digimon Zombie Vampire</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Mothman (HELL)</name>
       <text>When Mothman enters, destroy target creature an opponent controls.</text>
       <prop>
