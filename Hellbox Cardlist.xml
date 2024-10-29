@@ -8431,12 +8431,12 @@ When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scio
         <pt>15/15</pt>
       </prop>
       <set rarity="rare" uuid="a05d2a64-fc37-4bb8-ad98-0cbf08552d81" num="RG10">HELL</set>
-      <related count="15">Eldrazi Squirrel Scion (HELL)</related>
+      <related count="15">Eldrazi Squirrel Scion Token (HELL)</related>
       <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
 	<card>
-      <name>Eldrazi Squirrel Scion (HELL)</name>
+      <name>Eldrazi Squirrel Scion Token (HELL)</name>
       <text>Sacrifice this creature: Add {G} or {B}</text>
       <prop>
         <type>Token Creature — Eldrazi Squirrel Scion</type>
