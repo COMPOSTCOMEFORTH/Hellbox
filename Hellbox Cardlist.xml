@@ -2048,7 +2048,7 @@ Added by CatManThree</text>
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Zombie Lv.4 Digimon Mutant</type>
+        <type>Creature — Zombie Lv.4 Mutant Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -2741,7 +2741,7 @@ Whenever you play a land or cast a spell, if it shares a mana value with one or 
         <side>front</side>
 		<coloridentity>U</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Lv.4 Digimon Lobster Dragon</type>
+        <type>Creature — Lv.4 Crab Dragon Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6840,7 +6840,7 @@ A creature with Greymon or Omnimon in its name that inherits this card gains &qu
         <side>front</side>
 		<coloridentity>R</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Zombie Lv.4 Digimon Dinosaur X Antibody</type>
+        <type>Creature — Zombie Lv.4 Dinosaur X Antibody Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -6880,7 +6880,7 @@ A creature that inherits this card gains &quot;If an activated or triggered abil
         <side>front</side>
 		<coloridentity>R</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Zombie Lv.4 Digimon Demon Dragon X Antibody</type>
+        <type>Creature — Zombie Lv.4 Demon Dragon X Antibody Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -9052,7 +9052,7 @@ Added by CatManThree</text>
         <colors>G</colors>
         <manacost>0</manacost>
         <coloridentity>G</coloridentity>
-        <type>Kindred Enchantment — Lv.2 Digimon Child</type>
+        <type>Kindred Enchantment — Lv.2 Child Digimon</type>
         <maintype>Enchantment</maintype>
         <cmc>0</cmc>
         <layout>normal</layout>
@@ -9894,7 +9894,7 @@ The digivolve cost of cards in your graveyard which target Matadormon cost {1} l
         <side>front</side>
 		<coloridentity>P</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Lv.5 Digimon Zombie Vampire</type>
+        <type>Creature — Lv.5 Zombie Vampire Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -9951,7 +9951,7 @@ A creature that inherits this card gains &quot;When this creature attacks, you m
         <side>front</side>
 		<coloridentity>P</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Zombie Lv.4 Digimon Demon Beast Vampire Wolf</type>
+        <type>Creature — Zombie Lv.4 Demon Beast Vampire Wolf Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -10470,7 +10470,7 @@ And the beginning of your opponent's end step, destroy all creatures they contro
         <side>front</side>
 		<coloridentity>BP</coloridentity>
         <layout>normal</layout>
-        <type>Creature — Lv.7 Digimon Zombie Avatar</type>
+        <type>Creature — Lv.7 X Program Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
