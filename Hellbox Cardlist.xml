@@ -9874,6 +9874,26 @@ Retreat — Sacrifice two energy attached to Ancient Mew: Return Ancient Mew and
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
+	<card>
+      <name>Sangloupmon (HELL)</name>
+      <text>Digivolve Lv.3 Purple Digimon {2}
+(If you cast this spell for its digivolve cost, put it over target purple Lv.3 Digimon creature you own. It becomes a copy of Sangloupmon for as long as Sangloupmon remains on top. Then, draw a card.)
+A creature that inherits this card gains &quot;When this creature attacks, you may digivolve it into a Zombie or Demon Beast Digimon in your graveyard&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>5000/5000</pt>
+        <cmc>5</cmc>
+        <colors>P</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>P</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.4 Digimon Demon Beast Vampire Wolf</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Vault (HELL)</name>
       <text>Take an extra turn after this one.
