@@ -6825,6 +6825,27 @@ Storm</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+	<card>
+      <name>Greymon (X Antibody) (HELL)</name>
+      <text>Digivolve Lv.3 Red Digimon {2}
+(If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Greymon (X Antibody) for as long as Greymon (X Antibody) remains on top. Then, draw a card.)
+X Antibody: Greymon (You can digivolve Greymon (X Antibody) onto a Greymon you control. If you do, its digivolve cost is {0}
+A creature with Greymon or Omnimon in its name that inherits this card gains &quot;If this creature would leave the battlefield, you may remove two cards with the same Lv. that it has inherited instead.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>6000/6000</pt>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>R</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.4 Digimon Dinosaur X Antibody</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Grösse Poltergeist (HELL)</name>
       <text>Fire Threshold 2 (You can only cast this spell if you have two or more lands which can produce {R}.)
