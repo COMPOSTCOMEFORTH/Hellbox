@@ -11393,6 +11393,27 @@ Whenever Marshland Hordemaster or another Lizard you control dies, target oppone
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Maycrackmon - Vicious Mode (HELL)</name>
+      <text>Digivolve Lv.4 White or Purple Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target white or purple Lv.4 Digimon creature you own. It becomes a copy of Maycrackmon - Vicious Mode for as long as Maycrackmon - Vicious Mode remains on top. Then, draw a card.)
+When Maycrackmon - Vicious Mode enters or digivolves, you may discard a card. If you discard a purple card this way, destroy target Lv.3 or lower creature your opponent controls. If you discard a white card this way, target creature your opponent controls gets -3000/-3000 until end of turn.
+A multicolour creature that inherits this card gains &quot;When this creature dies, add {C}{C}.&quot;</text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>6000/6000</pt>
+        <cmc>6</cmc>
+        <colors>WP</colors>
+        <manacost>6</manacost>
+        <side>front</side>
+		<coloridentity>WP</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.5 Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Merciless Eviction (HELL)</name>
       <text>Choose one —
