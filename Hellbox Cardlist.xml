@@ -1691,7 +1691,7 @@ Whenever a player activates the ability of a creature, or an ability of a creatu
     </card>
     <card>
       <name>Legion's Chant (HELL)</name>
-      <text>Intensity 8
+      <text>Intensity 9
 Return any number of creature cards with total mana value X or less from your graveyard to the battlefield, where X is Legion's Chant's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -3025,7 +3025,7 @@ If an opponent would draw a card except the first one they draw in each of their
     </card>
     <card>
       <name>Hymn to the Ages (HELL)</name>
-      <text>Intensity 8
+      <text>Intensity 9
 Draw a number of cards equal to this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -5447,7 +5447,7 @@ Whenever a creature an opponent controls dies, they may pay 3 life. If they don'
     </card>
     <card>
       <name>Mycelic Ballad (HELL)</name>
-      <text>Intensity 7
+      <text>Intensity 8
 Each player sacrifices X creatures and you gain X life, where X is this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -7522,7 +7522,7 @@ Miracle {1}{R}</text>
     </card>
     <card>
       <name>Ribald Shanty (HELL)</name>
-      <text>Intensity 7
+      <text>Intensity 8
 This spell deals damage equal to its intensity to target creature or planeswalker.
 All Chorus cards you own intensify by 1.</text>
       <prop>
@@ -8175,7 +8175,7 @@ Exile Blob Wheel: Add {C}{C}{C}.</text>
     </card>
     <card>
       <name>Colossal Chorus (HELL)</name>
-      <text>Intensity 7
+      <text>Intensity 8
 Conjure X cards named Colossal Dreadmaw onto the battlefield, where X is this spell's intensity.
 All Chorus cards you own intensify by 1.</text>
       <prop>
