@@ -2035,6 +2035,25 @@ Added by CatManThree</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Starmon (HELL)</name>
+      <text>Digivolve Lv.3 White Digimon {2}
+(If you cast this spell for its digivolve cost, put it over target white Lv.3 Digimon creature you own. It becomes a copy of Starmon for as long as Starmon remains on top. Then, draw a card.)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>6000/6000</pt>
+        <cmc>4</cmc>
+        <colors>W</colors>
+        <manacost>4</manacost>
+        <side>front</side>
+		<coloridentity>W</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.4 Digimon Mutant</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
     <card>
       <name>Stitch, Carefree Surfer (HELL)</name>
       <text>Ohana — When Stitch, Carefree Surfer enters, if you control two or more other creatures, draw two cards.

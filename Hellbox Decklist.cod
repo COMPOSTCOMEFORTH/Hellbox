@@ -636,6 +636,7 @@
 		<card number="1" name="Medallion of the Ice Barrier (HELL)"/>
 		<card number="1" name="Winds of Abandon (HELL)"/>
 		<card number="1" name="Bruce (HELL)"/>
+		<card number="1" name="Starmon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
