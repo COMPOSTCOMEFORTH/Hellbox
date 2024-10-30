@@ -3992,6 +3992,25 @@ https://scryfall.com/random?q=t:instant+include:extras</text>
       <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Zombie Scientist (HELL)</name>
+      <text>Strike 1 (This creature deals combat damage to players as if its base power was 1.)
+Biohazard — Creatures are Zombies in addition to their other creature types.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <cmc>0</cmc>
+        <colors>U</colors>
+        <manacost>0</manacost>
+        <side>front</side>
+		<coloridentity>U</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Scientist</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Abyssal Persecutor (HELL)</name>
       <text>Flying, trample
 You can't win the game and your opponents can't lose the game.</text>
