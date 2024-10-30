@@ -12659,6 +12659,20 @@ Equip {8}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Fishing Pole (HELL)</name>
+      <text>Equipped creature has "{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole."
+Whenever equipped creature becomes untapped, remove a bait counter from this equipment. If you do, create a 1/1 blue Fish creature token.
+Equip {2}</text>
+      <prop>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <cmc>1</cmc>
+        <manacost>1</manacost>
+      </prop>
+      <set rarity="Uncommon" uuid="c95ab836-3277-4223-9aaa-ef2c77256b65">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Greatest Show in the Multiverse (HELL)</name>
       <text>As an additional cost to cast this spell, exile five instant and/or sorcery cards you own with the same artist and different names from outside the game.
 I, II, III — Choose one of the exiled cards at random. You may cast it without paying its mana cost.</text>
