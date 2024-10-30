@@ -1473,6 +1473,24 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Draconic Armageddon (HELL)</name>
+      <text>Destroy target permanent an opponent controls. If you control a Dragon with mana value 2 or greater, destroy two target permanents your opponents controls instead.
+	  Counter — When Draconic Armageddon is put into your graveyard from your library by an effect an opponent controls, destroy target permanent an opponent controls with mana value 2 or less.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>2</cmc>
+		<colors>R</colors>
+        <manacost>2</manacost>
+        <side>front</side>
+		<coloridentity>R</coloridentity>
+        <layout>normal</layout>
+        <type>Legendary Kindred Sorcery — Dragon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Eldrazi Displacer (HELL)</name>
       <text>Devoid
