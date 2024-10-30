@@ -12670,6 +12670,8 @@ Equip {2}</text>
         <manacost>1</manacost>
       </prop>
       <set rarity="Uncommon" uuid="c95ab836-3277-4223-9aaa-ef2c77256b65">HELL</set>
+	  <related>Fish Token  </related>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>
