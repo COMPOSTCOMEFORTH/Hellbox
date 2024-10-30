@@ -1480,10 +1480,10 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>2</cmc>
-		<colors>R</colors>
+		<colors>W</colors>
         <manacost>2</manacost>
         <side>front</side>
-		<coloridentity>R</coloridentity>
+		<coloridentity>W</coloridentity>
         <layout>normal</layout>
         <type>Legendary Kindred Sorcery — Dragon</type>
       </prop>
