@@ -1665,7 +1665,7 @@ Whenever a player activates the ability of a creature, or an ability of a creatu
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
-        <type>Artifact Creature — Detective</type>
+        <type>Artifact Creature — Cyborg Detective</type>
       </prop>
       <set>HELL</set>
 	  <related>Face Down Monster (HELL)</related>
@@ -7143,7 +7143,7 @@ Whenever this creature digivolves, until the end of your opponent's next turn, i
         <side>front</side>
 		<coloridentity>8</coloridentity>
         <layout>normal</layout>
-        <type>Artifact Creature — Zombie Lv.5 Dinosaur X Antibody Digimon</type>
+        <type>Artifact Creature — Zombie Lv.5 Cyborg Dinosaur X Antibody Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -11439,7 +11439,7 @@ Whenever Marshland Hordemaster or another Lizard you control dies, target oppone
       <name>Maycrackmon - Vicious Mode (HELL)</name>
       <text>Digivolve Lv.4 White or Purple Digimon {3}
 (If you cast this spell for its digivolve cost, put it over target white or purple Lv.4 Digimon creature you own. It becomes a copy of Maycrackmon - Vicious Mode for as long as Maycrackmon - Vicious Mode remains on top. Then, draw a card.)
-When Maycrackmon - Vicious Mode enters or digivolves, you may discard a card. If you discard a purple card this way, destroy target Lv.3 or lower creature your opponent controls. If you discard a white card this way, target creature your opponent controls gets -3000/-3000 until end of turn.
+When this creature enters or digivolves, you may discard a card. If you discard a purple card this way, destroy target Lv.3 or lower creature your opponent controls. If you discard a white card this way, target creature your opponent controls gets -3000/-3000 until end of turn.
 A multicolour creature that inherits this card gains &quot;When this creature dies, add {C}{C}.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -11451,6 +11451,27 @@ A multicolour creature that inherits this card gains &quot;When this creature di
 		<coloridentity>WP</coloridentity>
         <layout>normal</layout>
         <type>Creature — Zombie Lv.5 Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Megadramon (HELL)</name>
+      <text>Digivolve Lv.4 Black or Red Digimon {4}
+(If you cast this spell for its digivolve cost, put it over target black or red Lv.4 Digimon creature you own. It becomes a copy of Megadramon for as long as Megadramon remains on top. Then, draw a card.)
+When this creature digivolves, destroy target creature, Tamer, Pokémon, or planeswalker an opponent controls.
+A creature that inherits this card gains &quot;When this creature attacks, if it has inherited a Robot or Dragon card, destroy target creature, Tamer, Pokémon, or planeswalker with mana value 3 or less an opponent controls.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>8000/8000</pt>
+        <cmc>8</cmc>
+        <colors>BR</colors>
+        <manacost>8</manacost>
+        <side>front</side>
+		<coloridentity>BR</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.5 Drake Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -11784,6 +11805,28 @@ If damage would be dealt to Outfitted Jouster while it's equipped, prevent that 
       </prop>
       <set uuid="b9e9858f-4cdc-4682-be2f-20f555014b07" rarity="uncommon" num="26">HELL</set>
 	  <related persistent="persistent">Mox Opal</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Raijinmon (HELL)</name>
+      <text>Digivolve Lv.5 White or Black Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target white or black Lv.5 Digimon creature you own. It becomes a copy of Raijinmon for as long as Raijinmon remains on top. Then, draw a card.)
+{1}: Attach this card from your hand to a creature you control with Raidenmon or Justimon in its name as the bottom card of its digivolution stack.
+When this creature digivolves, you may discard one Robot or Cyborg card from your hand. If you do, target creature your opponent controls gets -4000/-4000 until end of turn.
+A creature that inherits this card gains &quot;When this creature attacks, target creature your opponent controls gets -4000/-4000 until end of turn.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>11000/11000</pt>
+        <cmc>11</cmc>
+        <colors>WB</colors>
+        <manacost>11</manacost>
+        <side>front</side>
+		<coloridentity>WB</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.6 Cyborg Digimon</type>
+      </prop>
+      <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
