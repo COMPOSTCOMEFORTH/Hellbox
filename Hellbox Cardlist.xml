@@ -4028,6 +4028,27 @@ You can't win the game and your opponents can't lose the game.</text>
       <tablerow>3</tablerow>
     </card>
 	<card>
+      <name>Alphamon (HELL)</name>
+      <text>Digivolve Lv.5 Black Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target black Lv.5 Digimon creature you own. It becomes a copy of Alphamon for as long as Alphamon remains on top. Then, draw a card.)
+Whenever this creature digivolves, you may attach one X Antibody card from your graveyard to it as the bottom card of its digivolution stack.
+When a card is attached to this creature as part of its digivolution stack, you may remove the top card of target stacked permanents an opponent controls. This ability triggers only once a turn, and only on your turn. (Stacked permanents include mutated, digivolved, or EX-evolved creatures, and evolved Pokémon.)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>11000/11000</pt>
+        <cmc>12</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>12</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.6 Angel Warrior Noble Knight X Antibody Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
       <name>Assemble from Parts (HELL)</name>
       <text>Target creature card in your graveyard perpetually gains &quot;{1}{B}{B}, Exile this card from your graveyard: Shuffle it into your library. Create a token that's a copy of it, except it's a 4/4 black Zombie in addition to its other types. Activate only as a sorcery.&quot;</text>
       <prop>
@@ -7122,7 +7143,7 @@ Whenever this creature digivolves, until the end of your opponent's next turn, i
         <side>front</side>
 		<coloridentity>8</coloridentity>
         <layout>normal</layout>
-        <type>Artifact Creature — Zombie Lv.4 Dinosaur X Antibody Digimon</type>
+        <type>Artifact Creature — Zombie Lv.5 Dinosaur X Antibody Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
