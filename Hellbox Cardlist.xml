@@ -6829,7 +6829,7 @@ Storm</text>
       <name>Greymon (X Antibody) (HELL)</name>
       <text>Digivolve Lv.3 Red Digimon {2}
 (If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Greymon (X Antibody) for as long as Greymon (X Antibody) remains on top. Then, draw a card.)
-X Antibody: Greymon (You can digivolve Greymon (X Antibody) onto a Greymon you control. If you do, its digivolve cost is {0}
+X Antibody: Greymon (You can digivolve Greymon (X Antibody) onto a Greymon you control. If you do, its digivolve cost is {0})
 A creature with Greymon or Omnimon in its name that inherits this card gains &quot;If this creature would leave the battlefield, you may remove two cards with the same Lv. that it has inherited instead.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -6869,7 +6869,7 @@ A creature with Greymon or Omnimon in its name that inherits this card gains &qu
       <name>Growlmon (X Antibody) (HELL)</name>
       <text>Digivolve Lv.3 Red Digimon {2}
 (If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Growlmon (X Antibody) for as long as Growlmon (X Antibody) remains on top. Then, draw a card.)
-X Antibody: Growlmon (You can digivolve Growlmon (X Antibody) onto a Growlmon you control. If you do, its digivolve cost is {0}
+X Antibody: Growlmon (You can digivolve Growlmon (X Antibody) onto a Growlmon you control. If you do, its digivolve cost is {0})
 A creature that inherits this card gains &quot;If an activated or triggered ability of this creature would destroy a creature, treat that creature's power as if it was 1000 higher.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -7106,6 +7106,27 @@ When this card leaves your graveyard, create a tapped 2/2 black Zombie creature 
       <set uuid="55f1d408-d08a-44be-8a75-d9ded9ef4684" rarity="uncommon" num="10">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>MetalGreymon (X Antibody) (HELL)</name>
+      <text>Digivolve Lv.4 Red Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target red Lv.4 Digimon creature you own. It becomes a copy of MetalGreymon (X Antibody) for as long as MetalGreymon (X Antibody) remains on top. Then, draw a card.)
+X Antibody: MetalGreymon (You can digivolve MetalGreymon (X Antibody) onto a MetalGreymon you control. If you do, its digivolve cost is {0})
+Whenever this creature digivolves, until the end of your opponent's next turn, if it would deal combat damage to a player, it deals double that damage to that player instead. If this creature inherited an X Antibody card or a MetalGreymon, it also gets +3000/+3000 until the end of your opponent's next turn.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>8000/8000</pt>
+        <cmc>8</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>8</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.4 Dinosaur X Antibody Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Mickey Mouse, Brave Little Tailor (HELL)</name>
