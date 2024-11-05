@@ -2258,6 +2258,23 @@ Whenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 cou
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Valkyrie's Call (HELL)</name>
+      <text>Whenever a nontoken, non-Angel creature you control dies, return that card to the battlefield under its owner's control with a +1/+1 counter on it. It has flying and is an Angel in addition to its other types.</text>
+      <prop>
+        <manacost>3WW</manacost>
+        <coloridentity>W</coloridentity>
+        <side>front</side>
+        <maintype>Enchantment</maintype>
+        <colors>W</colors>
+        <layout>normal</layout>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <set uuid="0e1f1ff2-fa8f-4d38-b631-2d6e08e614c8" rarity="mythic" num="27">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Vladimir and Godfrey (HELL)</name>
       <text>Rejuvenation — {2}{W}: Return Vladimir and Godfrey from your graveyard to the battlefield tapped. It perpetually gets +1/+1. Activate only if you control a 1/1 creature.</text>
