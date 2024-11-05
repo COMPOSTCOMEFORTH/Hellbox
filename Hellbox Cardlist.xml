@@ -4129,6 +4129,7 @@ Each player sacrifices thirteen creatures of their choice.</text>
         <type>Sorcery</type>
       </prop>
       <set uuid="11040ecd-3153-4029-b42b-1441bc51ec34" rarity="rare" num="57">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
 	<card>
@@ -7669,6 +7670,24 @@ All Chorus cards you own intensify by 1.</text>
       <set num="17" rarity="uncommon" uuid="cfe18e3c-9213-4c4c-b4aa-916253bc9760">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Rite of the Dragoncaller (HELL)</name>
+      <text>Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.</text>
+      <prop>
+        <manacost>4RR</manacost>
+        <coloridentity>R</coloridentity>
+        <side>front</side>
+        <maintype>Enchantment</maintype>
+        <colors>R</colors>
+        <layout>normal</layout>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <set uuid="1fa981d3-4a41-4bf1-ba64-2cd7224a6059" rarity="mythic" num="92">HELL</set>
+	  <related>Dragon Token</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
     <card>
       <name>Rothus, the Traveler (HELL)</name>
