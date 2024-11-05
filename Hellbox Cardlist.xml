@@ -2271,7 +2271,7 @@ Whenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 cou
         <cmc>5</cmc>
         <type>Enchantment</type>
       </prop>
-      <set uuid="0e1f1ff2-fa8f-4d38-b631-2d6e08e614c8" rarity="mythic" num="27">HELL</set>
+      <set uuid="2c0f6b48-63e6-4eff-92db-9f2a4652c5c1" rarity="mythic" num="27">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
