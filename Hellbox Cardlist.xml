@@ -4114,6 +4114,23 @@ You can't win the game and your opponents can't lose the game.</text>
       <related>Faerie Rogue Token</related>
 	  <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Blasphemous Edict (HELL)</name>
+      <text>You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.</text>
+      <prop>
+        <manacost>3BB</manacost>
+        <coloridentity>B</coloridentity>
+        <side>front</side>
+        <maintype>Sorcery</maintype>
+        <colors>B</colors>
+        <layout>normal</layout>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set uuid="11040ecd-3153-4029-b42b-1441bc51ec34" rarity="rare" num="57">HELL</set>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Blood Artist (HELL)</name>
       <text>Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.</text>
