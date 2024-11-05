@@ -3214,6 +3214,23 @@ Turn target creature face down. It’s a land with &quot;{T}: Add {C}&quot;.</te
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Lunar Insight (HELL)</name>
+      <text>Draw a card for each different mana value among nonland permanents you control.</text>
+      <prop>
+        <manacost>2U</manacost>
+        <coloridentity>U</coloridentity>
+        <side>front</side>
+        <maintype>Sorcery</maintype>
+        <colors>U</colors>
+        <layout>normal</layout>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <set uuid="0a80f2eb-e34a-4f39-a831-d6fb42f6b4cc" rarity="rare" num="46">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
+    </card>
 	<card>
       <name>Mana Drain (HELL)</name>
       <text>Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value.</text>
