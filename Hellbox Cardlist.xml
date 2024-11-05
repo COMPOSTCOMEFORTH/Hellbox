@@ -12660,18 +12660,20 @@ Equip {8}</text>
     </card>
     <card>
       <name>Fishing Pole (HELL)</name>
-      <text>Equipped creature has "{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole."
-Whenever equipped creature becomes untapped, remove a bait counter from this equipment. If you do, create a 1/1 blue Fish creature token.
+      <text>Equipped creature has &quot;{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole.&quot;
+Whenever equipped creature becomes untapped, remove a bait counter from this Equipment. If you do, create a 1/1 blue Fish creature token.
 Equip {2}</text>
       <prop>
-        <type>Artifact — Equipment</type>
-        <maintype>Artifact</maintype>
-        <cmc>1</cmc>
         <manacost>1</manacost>
+        <maintype>Artifact</maintype>
+        <side>front</side>
+        <layout>normal</layout>
+        <cmc>1</cmc>
+        <type>Artifact — Equipment</type>
       </prop>
-      <set rarity="Uncommon" uuid="c95ab836-3277-4223-9aaa-ef2c77256b65">HELL</set>
-	  <related>Fish Token  </related>
-	  <related attach="transform">Omni-Land (HELL)</related>
+      <set uuid="c95ab836-3277-4223-9aaa-ef2c77256b65" rarity="uncommon" num="128">HELL</set>
+      <related>Fish Token  </related>
+      <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
     <card>
