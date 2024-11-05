@@ -645,6 +645,7 @@
 		<card number="1" name="Fishing Pole (HELL)"/>
 		<card number="1" name="Valkyrie's Call (HELL)"/>
 		<card number="1" name="Lunar Insight (HELL)"/>
+		<card number="1" name="Abyssal Harvester (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

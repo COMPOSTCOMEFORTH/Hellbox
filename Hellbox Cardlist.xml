@@ -4025,6 +4025,24 @@ https://scryfall.com/random?q=t:instant+include:extras</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
+    <card>
+      <name>Abyssal Harvester (HELL)</name>
+      <text>{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.</text>
+      <prop>
+        <manacost>1BB</manacost>
+        <coloridentity>B</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>B</colors>
+        <pt>3/2</pt>
+        <layout>normal</layout>
+        <cmc>3</cmc>
+        <type>Creature — Demon Warlock</type>
+      </prop>
+      <set uuid="f2e0f538-5825-47e9-883c-3ec6fd5b25ea" rarity="rare" num="54">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Abyssal Persecutor (HELL)</name>
       <text>Flying, trample
