@@ -932,6 +932,28 @@ Exile Shiv.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Sire of Seven Deaths (HELL)</name>
+      <text>First strike
+Vigilance
+Menace
+Trample
+Reach
+Lifelink
+Ward—Pay 7 life.</text>
+      <prop>
+        <manacost>7</manacost>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+        <side>front</side>
+        <layout>normal</layout>
+        <cmc>7</cmc>
+        <type>Creature — Eldrazi</type>
+      </prop>
+      <set uuid="1b486b75-4680-4a94-af8c-c1c335c9782b" rarity="mythic" num="1">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Sliver Queen Avatar (HELL)</name>
       <text>(Play a vanguard only if you do not already have a vanguard in play. It is not a permanent.)
 Starting Life Total 27 (When Sliver Queen Avatar enters, your starting life total becomes 27. If you current starting life total is less than 24, gain life equal to the difference. If you current starting life total is greater than 27, lose life equal to the difference.)
