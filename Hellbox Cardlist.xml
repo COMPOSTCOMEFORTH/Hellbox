@@ -5723,6 +5723,25 @@ If you would draw a card while your library has no cards in it, instead return a
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Ozox, the Clattering King (HELL)</name>
+      <text>Ozox, the Clattering King can't block.
+When Ozox dies, create Jumblebones, a legendary 2/1 black Skeleton creature token with &quot;This creature can't block&quot; and &quot;When this creature leaves the battlefield, return target card named Ozox, the Clattering King from your graveyard to your hand.&quot;</text>
+      <prop>
+        <manacost>2B</manacost>
+        <coloridentity>B</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>B</colors>
+        <pt>3/2</pt>
+        <layout>normal</layout>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Skeleton Noble</type>
+      </prop>
+      <set uuid="02cf5079-9da8-470d-8eea-00d6aac68d04" rarity="uncommon" num="44">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+	  <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Penregon Besieged (HELL)</name>
       <text>At the beginning of your end step, choose a creature with the least toughness among creatures your opponents control. It perpetually gets -1/-1.
 When your opponents control no creatures, sacrifice Penregon Besieged.</text>
