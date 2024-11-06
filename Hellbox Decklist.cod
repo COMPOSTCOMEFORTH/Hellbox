@@ -650,6 +650,7 @@
 		<card number="1" name="Rite of the Dragoncaller (HELL)"/>
 		<card number="1" name="Preposterous Proportions (HELL)"/>
 		<card number="1" name="Sire of Seven Deaths (HELL)"/>
+		<card number="1" name="Hearts on Fire (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
