@@ -4188,6 +4188,7 @@ Whenever an opponent loses life, you gain that much life. (Damage causes loss of
         <type>Creature — Vampire Knight</type>
       </prop>
       <set uuid="feb45b34-a1e7-4861-b0fe-b701aa5e894a" rarity="mythic" num="58">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
 	<card>
@@ -6935,6 +6936,27 @@ At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target 
       <set num="103" rarity="rare" muid="439760" uuid="41e4fe86-281d-4174-bb72-ac5bb9560b7e">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Gornog, the Red Reaper (HELL)</name>
+      <text>Haste
+Cowards can't block Warriors.
+Whenever one or more Warriors you control attack a player, target creature that player controls becomes a Coward.
+Attacking Warriors you control get +X/+0, where X is the number of Cowards your opponents control.</text>
+      <prop>
+        <manacost>2R</manacost>
+        <coloridentity>R</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>R</colors>
+        <pt>2/3</pt>
+        <layout>normal</layout>
+        <cmc>3</cmc>
+        <type>Legendary Creature — Minotaur Warrior</type>
+      </prop>
+      <set uuid="c80a88ae-f2f2-426a-88f3-76b5d598c25f" rarity="rare" num="49">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Grapeshot (HELL)</name>
