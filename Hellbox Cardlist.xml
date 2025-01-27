@@ -4155,7 +4155,7 @@ You can't win the game and your opponents can't lose the game.</text>
 	  <tablerow>1</tablerow>
     </card>
     <card>
-      <name>Blasphemous Edict (HELL)</name>
+      <name>Blasphemous Edict</name>
       <text>You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
 Each player sacrifices thirteen creatures of their choice.</text>
       <prop>
