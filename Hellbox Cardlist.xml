@@ -4172,6 +4172,24 @@ Each player sacrifices thirteen creatures of their choice.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Bloodthirsty Conqueror (HELL)</name>
+      <text>Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)</text>
+      <prop>
+        <manacost>3BB</manacost>
+        <coloridentity>B</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>B</colors>
+        <pt>5/5</pt>
+        <layout>normal</layout>
+        <cmc>5</cmc>
+        <type>Creature — Vampire Knight</type>
+      </prop>
+      <set uuid="feb45b34-a1e7-4861-b0fe-b701aa5e894a" rarity="mythic" num="58">HELL</set>
+      <tablerow>2</tablerow>
+    </card>
 	<card>
       <name>Bone Rattler (HELL)</name>
       <text>When Bone Rattler is put into your graveyard from anywhere, exile it. When you do, create four Reassembling Skeleton token cards and put them into your graveyard.</text>
