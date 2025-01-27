@@ -5652,6 +5652,25 @@ Pay 1 life: Exile the top card of your library face down. Put that card into you
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Nine-Lives Familiar (HELL)</name>
+      <text>This creature enters with eight revival counters on it if you cast it.
+When this creature dies, if it had a revival counter on it, return it to the battlefield with one fewer revival counter on it at the beginning of the next end step.</text>
+      <prop>
+        <manacost>1BB</manacost>
+        <coloridentity>B</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>B</colors>
+        <pt>1/1</pt>
+        <layout>normal</layout>
+        <cmc>3</cmc>
+        <type>Creature — Cat</type>
+      </prop>
+      <set uuid="6cc1623f-370d-42b5-88a2-039f31e9be0b" rarity="rare" num="66">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Oddric, Lunar Marquis (HELL)</name>
       <text>At the beginning of each combat, creatures you control gain banding until end of turn if a creature you control has banding. The same is true for changeling, devoid, fear, flanking, horsemanship, ingest, intimidate, landwalk, shroud, tantrum, wither, and the activated ability &quot;Sacrifice this creature: Add {C}.&quot;</text>
       <prop>
