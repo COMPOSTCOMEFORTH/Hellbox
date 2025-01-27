@@ -7147,6 +7147,25 @@ Added by CatManThree</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Kellan, Planar Trailblazer (HELL)</name>
+      <text>{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains &quot;Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.&quot;
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.</text>
+      <prop>
+        <manacost>R</manacost>
+        <coloridentity>R</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>R</colors>
+        <pt>2/1</pt>
+        <layout>normal</layout>
+        <cmc>1</cmc>
+        <type>Legendary Creature — Human Faerie Scout</type>
+      </prop>
+      <set uuid="f46a9329-7b91-441d-8653-50c1152c9120" rarity="rare" num="91">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Kiki-Jiki, Mirror Breaker (HELL)</name>
       <text>Haste
 {T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
