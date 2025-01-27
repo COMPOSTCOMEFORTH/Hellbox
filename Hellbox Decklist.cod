@@ -654,6 +654,7 @@
 		<card number="1" name="Ozox, the Clattering King (HELL)"/>
 		<card number="1" name="Bloodthirsty Conqueror (HELL)"/>
 		<card number="1" name="Gornog, the Red Reaper (HELL)"/>
+		<card number="1" name="Homunculus Horde (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

@@ -3046,6 +3046,24 @@ When Great Old One enters, put a flood counter on each land on the battlefield. 
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Homunculus Horde (HELL)</name>
+      <text>Whenever you draw your second card each turn, create a token that's a copy of this creature.</text>
+      <prop>
+        <manacost>3U</manacost>
+        <coloridentity>U</coloridentity>
+        <side>front</side>
+        <maintype>Creature</maintype>
+        <colors>U</colors>
+        <pt>2/2</pt>
+        <layout>normal</layout>
+        <cmc>4</cmc>
+        <type>Creature — Homunculus</type>
+      </prop>
+      <set uuid="470c4d03-340a-4e0e-a59f-f19d05497785" rarity="rare" num="41">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Housemeld (HELL)</name>
       <text>Exile target creature. The exiled card perpetually becomes an enchantment. Then put it onto the battlefield under your control. (It loses all other card types.)</text>
       <prop>
