@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Party Box from Hell</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sundering Fork"/>
+        <card number="1" name="Insufferable Syphon"/>
+        <card number="1" name="Record Store"/>
+        <card number="1" name="Hypnotic Swirly Disc"/>
+        <card number="1" name="Thud-for-Duds"/>
+        <card number="1" name="Guest List"/>
+        <card number="1" name="Hard Hat Area"/>
+        <card number="1" name="Twiddlestick Charger"/>
+        <card number="1" name="Goblin Slingshot"/>
+        <card number="1" name="Jamming Device"/>
+        <card number="1" name="Turbo-Thwacking Auto-Hammer"/>
+        <card number="1" name="Rapid Prototyper"/>
+        <card number="1" name="Top-Secret Tunnel"/>
+        <card number="1" name="Neural Network"/>
+        <card number="1" name="Optical Optimizer"/>
+        <card number="1" name="Oaken Power Suit"/>
+        <card number="1" name="Widget Contraption"/>
+        <card number="1" name="Quick-Stick Lick Trick"/>
+        <card number="1" name="Inflation Station"/>
+        <card number="1" name="Targeting Rocket"/>
+        <card number="1" name="Sap Sucker"/>
+        <card number="1" name="Refibrillator"/>
+        <card number="1" name="Lackey Recycler"/>
+        <card number="1" name="Tread Mill"/>
+        <card number="1" name="Mandatory Friendship Shackles"/>
+        <card number="1" name="Head Banger"/>
+        <card number="1" name="Pet Project"/>
+        <card number="1" name="Roller Coaster"/>
+        <card number="1" name="Scavenger Hunt"/>
+        <card number="1" name="Cover the Spot"/>
+        <card number="1" name="Trash Bin"/>
+        <card number="1" name="The Superlatorium"/>
+        <card number="1" name="Dart Throw"/>
+        <card number="1" name="Concession Stand"/>
+        <card number="1" name="Tunnel of Love"/>
+        <card number="1" name="Gift Shop"/>
+        <card number="1" name="Guess Your Fate"/>
+        <card number="1" name="Squirrel Stack"/>
+        <card number="1" name="Log Flume"/>
+        <card number="1" name="Merry-Go-Round"/>
+        <card number="1" name="Centrifuge"/>
+        <card number="1" name="Gallery of Legends"/>
+        <card number="1" name="Costume Shop"/>
+        <card number="1" name="Kiddie Coaster"/>
+        <card number="1" name="Information Booth"/>
+        <card number="1" name="Pick-a-Beeble"/>
+        <card number="1" name="Spinny Ride"/>
+        <card number="1" name="Haunted House"/>
+        <card number="1" name="Foam Weapons Kiosk"/>
+        <card number="1" name="Fortune Teller"/>
+        <card number="1" name="Memory Test"/>
+        <card number="1" name="Bumper Cars"/>
+        <card number="1" name="Clown Extruder"/>
+        <card number="1" name="Trivia Contest"/>
+        <card number="1" name="Push Your Luck"/>
+        <card number="1" name="Drop Tower"/>
+        <card number="1" name="Swinging Ship"/>
+        <card number="1" name="Hall of Mirrors"/>
+        <card number="1" name="Storybook Ride"/>
+        <card number="1" name="Ancestral Hot Dog Minotaur"/>
+        <card number="1" name="Carnival Elephant Meteor"/>
+        <card number="1" name="Contortionist Otter Storm"/>
+        <card number="1" name="Cool Fluffy Loxodon"/>
+        <card number="1" name="Cursed Firebreathing Yogurt"/>
+        <card number="1" name="Deep-Fried Plague Myr"/>
+        <card number="1" name="Demonic Tourist Laser"/>
+        <card number="1" name="Eldrazi Guacamole Tightrope"/>
+        <card number="1" name="Elemental Time Flamingo"/>
+        <card number="1" name="Eternal Acrobat Toast"/>
+        <card number="1" name="Familiar Beeble Mascot"/>
+        <card number="1" name="Geek Lotus Warrior"/>
+        <card number="1" name="Giant Mana Cake"/>
+        <card number="1" name="Goblin Coward Parade"/>
+        <card number="1" name="Happy Dead Squirrel"/>
+        <card number="1" name="Jetpack Death Seltzer"/>
+        <card number="1" name="Misunderstood Trapeze Elf"/>
+        <card number="1" name="Mystic Doom Sandwich"/>
+        <card number="1" name="Narrow-Minded Baloney Fireworks"/>
+        <card number="1" name="Night Brushwagg Ringmaster"/>
+        <card number="1" name="Notorious Sliver War"/>
+        <card number="1" name="Phyrexian Midway Bamboozle"/>
+        <card number="1" name="Playable Delusionary Hydra"/>
+        <card number="1" name="Primal Elder Kitty"/>
+        <card number="1" name="Sassy Gremlin Blood"/>
+        <card number="1" name="Slimy Burrito Illusion"/>
+        <card number="1" name="Snazzy Aether Homunculus"/>
+        <card number="1" name="Space Fungus Snickerdoodle"/>
+        <card number="1" name="Spooky Clown Mox"/>
+        <card number="1" name="Squid Fire Knight"/>
+        <card number="1" name="Squishy Sphinx Ninja"/>
+        <card number="1" name="Sticky Kavu Daredevil"/>
+        <card number="1" name="Trained Blessed Mind"/>
+        <card number="1" name="Trendy Circus Pirate"/>
+        <card number="1" name="Unassuming Gelatinous Serpent"/>
+        <card number="1" name="Unglued Pea-Brained Dinosaur"/>
+        <card number="1" name="Unhinged Beast Hunt"/>
+        <card number="1" name="Unique Charmed Pants"/>
+        <card number="1" name="Unsanctioned Ancient Juggler"/>
+        <card number="1" name="Unstable Robot Dragon"/>
+        <card number="1" name="Urza's Dark Cannonball"/>
+        <card number="1" name="Vampire Champion Fury"/>
+        <card number="1" name="Weird Angel Flame"/>
+        <card number="1" name="Werewolf Lightning Mage"/>
+        <card number="1" name="Wild Ogre Bupkis"/>
+        <card number="1" name="Wrinkly Monkey Shenanigans"/>
+        <card number="1" name="Yawgmoth Merfolk Soul"/>
+        <card number="1" name="Zombie Cheese Magician"/>
+        <card number="1" name="Accessories to Murder (HELL)"/>
+        <card number="1" name="Balloon Stand (HELL)"/>
+        <card number="1" name="Applied Aeronautics (HELL)"/>
+        <card number="1" name="Arms Depot (HELL)"/>
+        <card number="1" name="Auto-Key (HELL)"/>
+        <card number="1" name="Selene, Queen of the Master Magicians (HELL)"/>
+        <card number="1" name="Bee-Bee Gun (HELL)"/>
+        <card number="1" name="Boomflinger (HELL)"/>
+        <card number="1" name="Buzz Buggy (HELL)"/>
+        <card number="1" name="Deadly Poison Sampler (HELL)"/>
+        <card number="1" name="Dictation Quillograph (HELL)"/>
+        <card number="1" name="Dispatch Dispensary (HELL)"/>
+        <card number="1" name="Division Table (HELL)"/>
+        <card number="1" name="Dogsnail Engine (HELL)"/>
+        <card number="1" name="Dual Doomsuits (HELL)"/>
+        <card number="1" name="Duplication Device (HELL)"/>
+        <card number="1" name="Faerie Aerie (HELL)"/>
+        <card number="1" name="Genetic Recombinator (HELL)"/>
+        <card number="1" name="Gift Horse (HELL)"/>
+        <card number="1" name="Gnomeball Machine (HELL)"/>
+        <card number="1" name="Bounce Chamber"/>
+    </zone>
+</cockatrice_deck>
