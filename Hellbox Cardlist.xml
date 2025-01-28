@@ -1497,8 +1497,9 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
     </card>
     <card>
       <name>Draconic Armageddon (HELL)</name>
-      <text>Destroy target permanent an opponent controls. If you control a Dragon with mana value 2 or greater, destroy two target permanents your opponents controls instead.
-	  Counter — When Draconic Armageddon is put into your graveyard from your library by an effect an opponent controls, destroy target permanent an opponent controls with mana value 2 or less.</text>
+      <text>Settable {2} (You may cast this card face down as an enchantment for {0}. You may turn it face up on a later turn and cast it for {2}.)
+Destroy target permanent an opponent controls. If you control a Dragon with mana value 2 or greater, destroy up to two target permanents your opponents controls instead.
+Counter — When Draconic Armageddon is put into your graveyard from your library by an effect an opponent controls, destroy target permanent an opponent controls with mana value 2 or less.</text>
       <prop>
         <maintype>Sorcery</maintype>
         <cmc>2</cmc>
@@ -1510,6 +1511,7 @@ Shackle {3} ({3}: Attach to target creature you don't control. Shackle only as a
         <type>Legendary Kindred Sorcery — Dragon</type>
       </prop>
       <set>HELL</set>
+	  <related>Set Card (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
@@ -4103,7 +4105,7 @@ https://scryfall.com/random?q=t:instant+include:extras</text>
     </card>
 	<card>
       <name>Zombie Scientist (HELL)</name>
-      <text>Strike 1 (This creature deals combat damage to players as if its base power was 1.)
+      <text>Strike 1 (This creature deals combat damage to players as if its base power was 1. When it deals combat damage to a player, that player mills 1.)
 Biohazard — Creatures are Zombies in addition to their other creature types.</text>
       <prop>
         <maintype>Creature</maintype>
@@ -14129,6 +14131,19 @@ This creature cannot attack.</text>
 	<card>
       <name>Face Down Spell or Trap (HELL)</name>
       <text>{0}: Turn this card face up. If it is an instant or sorcery, you may cast it without paying its mana cost. Activate only on a turn where this card has not entered the battlefield.</text>
+      <prop>
+        <maintype>Token</maintype>
+        <cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Token Enchantment</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+	<card>
+      <name>Set Card (HELL)</name>
+      <text>{0}: Turn this card face up. If it is an instant or sorcery, you may cast it. Otherwise, turn it face down.</text>
       <prop>
         <maintype>Token</maintype>
         <cmc>0</cmc>
