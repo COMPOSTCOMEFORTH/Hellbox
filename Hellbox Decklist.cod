@@ -643,17 +643,36 @@
 		<card number="1" name="Growlmon (X Antibody) (HELL)"/>
 		<card number="1" name="Maycrackmon - Vicious Mode (HELL)"/>
 		<card mumber="1" name="Nissa, Worldsoul Speaker (HELL)"/>
+		<card number="1" name="Fishing Pole (HELL)"/>
+		<card number="1" name="Valkyrie's Call (HELL)"/>
+		<card number="1" name="Lunar Insight (HELL)"/>
+		<card number="1" name="Abyssal Harvester (HELL)"/>
+		<card number="1" name="Blasphemous Edict (HELL"/>
+		<card number="1" name="Rite of the Dragoncaller (HELL)"/>
+		<card number="1" name="Preposterous Proportions (HELL)"/>
+		<card number="1" name="Sire of Seven Deaths (HELL)"/>
+		<card number="1" name="Hearts on Fire (HELL)"/>
+		<card number="1" name="Ozox, the Clattering King (HELL)"/>
+		<card number="1" name="Bloodthirsty Conqueror (HELL)"/>
+		<card number="1" name="Gornog, the Red Reaper (HELL)"/>
+		<card number="1" name="Homunculus Horde (HELL)"/>
+		<card number="1" name="Kellan, Planar Trailblazer (HELL)"/>
+		<card number="1" name="Nine-Lives Familiar (HELL)"/>
+		<card number="1" name="MetalGreymon (X Antibody) (HELL)"/>
+		<card number="1" name="Alphamon (HELL)"/>
+		<card number="1" name="Megadramon (HELL)"/>
+		<card number="1" name="Raijinmon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
         <card number="1" name="Insufferable Syphon"/>
         <card number="1" name="Record Store"/>
-        <card number="1" name="Hypnotic Swirly Disc"/>
+        <card number="1" name="Hypnotic Swirly Disc (HELL)"/>
         <card number="1" name="Thud-for-Duds"/>
-        <card number="1" name="Guest List"/>
-        <card number="1" name="Hard Hat Area"/>
+        <card number="1" name="Guest List (HELL)"/>
+        <card number="1" name="Hard Hat Area (HELL)"/>
         <card number="1" name="Twiddlestick Charger"/>
-        <card number="1" name="Goblin Slingshot"/>
+        <card number="1" name="Goblin Slingshot (HELL)"/>
         <card number="1" name="Jamming Device"/>
         <card number="1" name="Turbo-Thwacking Auto-Hammer"/>
         <card number="1" name="Rapid Prototyper"/>
@@ -670,7 +689,7 @@
         <card number="1" name="Lackey Recycler"/>
         <card number="1" name="Tread Mill"/>
         <card number="1" name="Mandatory Friendship Shackles"/>
-        <card number="1" name="Head Banger"/>
+        <card number="1" name="Head Banger (HELL)"/>
         <card number="1" name="Pet Project"/>
         <card number="1" name="Roller Coaster"/>
         <card number="1" name="Scavenger Hunt"/>
