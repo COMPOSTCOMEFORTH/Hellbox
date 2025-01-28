@@ -14086,5 +14086,44 @@ This creature cannot attack.</text>
 	  <related count="2">Gnome Token</related>
       <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Goblin Slingshot (HELL)</name>
+      <text>Whenever you crank Goblin Slingshot, creatures you control get +2/+0 and gain trample until end of turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439574" uuid="7368a5ae-5642-4e90-9e73-9f0283067c15" rarity="rare" num="185">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Guest List (HELL)</name>
+      <text>Whenever you crank Guest List, target creature gets -X/-X until end of turn, where X is the number of creature cards in its controller's graveyard.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439575" uuid="c9968bad-07fb-4fc5-8ce7-78936c4e6c28" rarity="rare" num="186">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Hard Hat Area (HELL)</name>
+      <text>Whenever you crank Hard Hat Area, roll two six-sided dice. Hard Hat Area assembles a number of Contraptions equal to the difference between those results. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439576" uuid="30dc6c38-18e7-44b1-91d0-dfa1acdb4106" rarity="mythic" num="187">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
   </cards>
 </cockatrice_carddatabase>
