@@ -5794,9 +5794,25 @@ When Ozox dies, create Jumblebones, a legendary 2/1 black Skeleton creature toke
         <type>Legendary Creature — Skeleton Noble</type>
       </prop>
       <set uuid="02cf5079-9da8-470d-8eea-00d6aac68d04" rarity="uncommon" num="44">HELL</set>
+	  <related>Jumblebones Token (HELL)</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>2</tablerow>
     </card>
+	<card>
+      <name>Jumblebones Token (HELL)</name>
+      <text>This creature can’t block.
+When this creature leaves the battlefield, return target card named Ozox, the Clattering King from your graveyard to your hand.</text>
+      <prop>
+	    <colors>B</colors>
+        <type>Token Legendary Creature — Skeleton</type>
+        <maintype>Token</maintype>
+		<pt>2/1</pt>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set>HELL</set>
+	  <tablerow>2</tablerow>
+	</card>
     <card>
       <name>Penregon Besieged (HELL)</name>
       <text>At the beginning of your end step, choose a creature with the least toughness among creatures your opponents control. It perpetually gets -1/-1.
