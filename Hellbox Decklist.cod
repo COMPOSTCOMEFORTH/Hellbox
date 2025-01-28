@@ -657,6 +657,10 @@
 		<card number="1" name="Homunculus Horde (HELL)"/>
 		<card number="1" name="Kellan, Planar Trailblazer (HELL)"/>
 		<card number="1" name="Nine-Lives Familiar (HELL)"/>
+		<card number="1" name="MetalGreymon (X Antibody) (HELL)"/>
+		<card number="1" name="Alphamon (HELL)"/>
+		<card number="1" name="Megadramon (HELL)"/>
+		<card number="1" name="Raijinmon (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

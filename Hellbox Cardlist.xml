@@ -10,15 +10,15 @@
   <cards>
   <card>
       <name>Absolute Annihilation (HELL)</name>
-      <text>Perpetually remove target permanent from the game. 
+      <text>Perpetually remove target permanent or spell from the game.
 Exile Absolute Annihilation.</text>
       <prop>
-        <maintype>Sorcery</maintype>
+        <maintype>Instant</maintype>
         <cmc>7</cmc>
         <manacost>4CCC</manacost>
         <side>front</side>
         <layout>normal</layout>
-        <type>Sorcery</type>
+        <type>Instant</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -1687,7 +1687,7 @@ Whenever a player activates the ability of a creature, or an ability of a creatu
         <side>front</side>
 		<coloridentity>W</coloridentity>
         <layout>normal</layout>
-        <type>Artifact Creature — Detective</type>
+        <type>Artifact Creature — Cyborg Detective</type>
       </prop>
       <set>HELL</set>
 	  <related>Face Down Monster (HELL)</related>
@@ -3121,12 +3121,12 @@ All Chorus cards you own intensify by 1.</text>
     </card>
     <card>
       <name>In Perpetuity (HELL)</name>
-      <text>Target card you control perpetually gains any continuous effects that are affecting it.
+      <text>Target permanent, spell, or card in a graveyard perpetually gains any continuous effects that are affecting it.
 Exile In Perpetuity.</text>
       <prop>
         <maintype>Instant</maintype>
         <cmc>3</cmc>
-        <manacost>UUUU</manacost>
+        <manacost>UUU</manacost>
         <side>front</side>
 		<coloridentity>U</coloridentity>
         <layout>normal</layout>
@@ -4118,6 +4118,27 @@ You can't win the game and your opponents can't lose the game.</text>
       <set muid="489749" rarity="rare" num="97" uuid="a9f2c53e-ff58-4aa8-89a6-4f45628cc571">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Alphamon (HELL)</name>
+      <text>Digivolve Lv.5 Black Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target black Lv.5 Digimon creature you own. It becomes a copy of Alphamon for as long as Alphamon remains on top. Then, draw a card.)
+Whenever this creature digivolves, you may attach one X Antibody card from your graveyard to it as the bottom card of its digivolution stack.
+When a card is attached to this creature as part of its digivolution stack, you may remove the top card of target stacked permanents an opponent controls. This ability triggers only once a turn, and only on your turn. (Stacked permanents include mutated, digivolved, or EX-evolved creatures, and evolved Pokémon.)</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>11000/11000</pt>
+        <cmc>12</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>12</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Zombie Lv.6 Angel Warrior Noble Knight X Antibody Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
 	<card>
       <name>Assemble from Parts (HELL)</name>
@@ -7033,7 +7054,7 @@ Storm</text>
       <name>Greymon (X Antibody) (HELL)</name>
       <text>Digivolve Lv.3 Red Digimon {2}
 (If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Greymon (X Antibody) for as long as Greymon (X Antibody) remains on top. Then, draw a card.)
-X Antibody: Greymon (You can digivolve Greymon (X Antibody) onto a Greymon you control. If you do, its digivolve cost is {0}
+X Antibody: Greymon (You can digivolve Greymon (X Antibody) onto a Greymon you control. If you do, its digivolve cost is {0})
 A creature with Greymon or Omnimon in its name that inherits this card gains &quot;If this creature would leave the battlefield, you may remove two cards with the same Lv. that it has inherited instead.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -7073,7 +7094,7 @@ A creature with Greymon or Omnimon in its name that inherits this card gains &qu
       <name>Growlmon (X Antibody) (HELL)</name>
       <text>Digivolve Lv.3 Red Digimon {2}
 (If you cast this spell for its digivolve cost, put it over target red Lv.3 Digimon creature you own. It becomes a copy of Growlmon (X Antibody) for as long as Growlmon (X Antibody) remains on top. Then, draw a card.)
-X Antibody: Growlmon (You can digivolve Growlmon (X Antibody) onto a Growlmon you control. If you do, its digivolve cost is {0}
+X Antibody: Growlmon (You can digivolve Growlmon (X Antibody) onto a Growlmon you control. If you do, its digivolve cost is {0})
 A creature that inherits this card gains &quot;If an activated or triggered ability of this creature would destroy a creature, treat that creature's power as if it was 1000 higher.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -7346,6 +7367,27 @@ When this card leaves your graveyard, create a tapped 2/2 black Zombie creature 
       <set uuid="55f1d408-d08a-44be-8a75-d9ded9ef4684" rarity="uncommon" num="10">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>MetalGreymon (X Antibody) (HELL)</name>
+      <text>Digivolve Lv.4 Red Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target red Lv.4 Digimon creature you own. It becomes a copy of MetalGreymon (X Antibody) for as long as MetalGreymon (X Antibody) remains on top. Then, draw a card.)
+X Antibody: MetalGreymon (You can digivolve MetalGreymon (X Antibody) onto a MetalGreymon you control. If you do, its digivolve cost is {0})
+Whenever this creature digivolves, until the end of your opponent's next turn, if it would deal combat damage to a player, it deals double that damage to that player instead. If this creature inherited an X Antibody card or a MetalGreymon, it also gets +3000/+3000 until the end of your opponent's next turn.</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>8000/8000</pt>
+        <cmc>8</cmc>
+        <colors>R</colors>
+        <manacost>5</manacost>
+        <side>front</side>
+		<coloridentity>8</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.5 Cyborg Dinosaur X Antibody Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Mickey Mouse, Brave Little Tailor (HELL)</name>
@@ -11672,7 +11714,7 @@ Whenever Marshland Hordemaster or another Lizard you control dies, target oppone
       <name>Maycrackmon - Vicious Mode (HELL)</name>
       <text>Digivolve Lv.4 White or Purple Digimon {3}
 (If you cast this spell for its digivolve cost, put it over target white or purple Lv.4 Digimon creature you own. It becomes a copy of Maycrackmon - Vicious Mode for as long as Maycrackmon - Vicious Mode remains on top. Then, draw a card.)
-When Maycrackmon - Vicious Mode enters or digivolves, you may discard a card. If you discard a purple card this way, destroy target Lv.3 or lower creature your opponent controls. If you discard a white card this way, target creature your opponent controls gets -3000/-3000 until end of turn.
+When this creature enters or digivolves, you may discard a card. If you discard a purple card this way, destroy target Lv.3 or lower creature your opponent controls. If you discard a white card this way, target creature your opponent controls gets -3000/-3000 until end of turn.
 A multicolour creature that inherits this card gains &quot;When this creature dies, add {C}{C}.&quot;</text>
       <prop>
         <maintype>Creature</maintype>
@@ -11684,6 +11726,27 @@ A multicolour creature that inherits this card gains &quot;When this creature di
 		<coloridentity>WP</coloridentity>
         <layout>normal</layout>
         <type>Creature — Zombie Lv.5 Digimon</type>
+      </prop>
+      <set>HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Megadramon (HELL)</name>
+      <text>Digivolve Lv.4 Black or Red Digimon {4}
+(If you cast this spell for its digivolve cost, put it over target black or red Lv.4 Digimon creature you own. It becomes a copy of Megadramon for as long as Megadramon remains on top. Then, draw a card.)
+When this creature digivolves, destroy target creature, Tamer, Pokémon, or planeswalker an opponent controls.
+A creature that inherits this card gains &quot;When this creature attacks, if it has inherited a Robot or Dragon card, destroy target creature, Tamer, Pokémon, or planeswalker with mana value 3 or less an opponent controls.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>8000/8000</pt>
+        <cmc>8</cmc>
+        <colors>BR</colors>
+        <manacost>8</manacost>
+        <side>front</side>
+		<coloridentity>BR</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.5 Drake Digimon</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -12017,6 +12080,28 @@ If damage would be dealt to Outfitted Jouster while it's equipped, prevent that 
       </prop>
       <set uuid="b9e9858f-4cdc-4682-be2f-20f555014b07" rarity="uncommon" num="26">HELL</set>
 	  <related persistent="persistent">Mox Opal</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+	<card>
+      <name>Raijinmon (HELL)</name>
+      <text>Digivolve Lv.5 White or Black Digimon {3}
+(If you cast this spell for its digivolve cost, put it over target white or black Lv.5 Digimon creature you own. It becomes a copy of Raijinmon for as long as Raijinmon remains on top. Then, draw a card.)
+{1}: Attach this card from your hand to a creature you control with Raidenmon or Justimon in its name as the bottom card of its digivolution stack.
+When this creature digivolves, you may discard one Robot or Cyborg card from your hand. If you do, target creature your opponent controls gets -4000/-4000 until end of turn.
+A creature that inherits this card gains &quot;When this creature attacks, target creature your opponent controls gets -4000/-4000 until end of turn.&quot;</text>
+      <prop>
+        <maintype>Creature</maintype>
+        <pt>11000/11000</pt>
+        <cmc>11</cmc>
+        <colors>WB</colors>
+        <manacost>11</manacost>
+        <side>front</side>
+		<coloridentity>WB</coloridentity>
+        <layout>normal</layout>
+        <type>Artifact Creature — Zombie Lv.6 Cyborg Digimon</type>
+      </prop>
+      <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
@@ -14292,6 +14377,71 @@ This creature cannot attack.</text>
       </prop>
       <set muid="439573" rarity="uncommon" num="184" uuid="291989b2-d87f-4e5a-a159-4d564d1c2c6a">HELL</set>
 	  <related count="2">Gnome Token</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Goblin Slingshot (HELL)</name>
+      <text>Whenever you crank Goblin Slingshot, creatures you control get +2/+0 and gain trample until end of turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439574" uuid="7368a5ae-5642-4e90-9e73-9f0283067c15" rarity="rare" num="185">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Guest List (HELL)</name>
+      <text>Whenever you crank Guest List, target creature gets -X/-X until end of turn, where X is the number of creature cards in its controller's graveyard.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439575" uuid="c9968bad-07fb-4fc5-8ce7-78936c4e6c28" rarity="rare" num="186">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Hard Hat Area (HELL)</name>
+      <text>Whenever you crank Hard Hat Area, roll two six-sided dice. Hard Hat Area assembles a number of Contraptions equal to the difference between those results. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <type>Artifact — Contraption</type>
+      </prop>
+      <set muid="439576" uuid="30dc6c38-18e7-44b1-91d0-dfa1acdb4106" rarity="mythic" num="187">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Head Banger (HELL)</name>
+      <text>Whenever you crank Head Banger, target creature must be blocked this turn if able.</text>
+      <prop>
+        <layout>normal</layout>
+        <type>Artifact — Contraption</type>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <side>front</side>
+      </prop>
+      <set uuid="32c3fc99-227b-402e-9b33-07bbec9a7699" muid="439577" num="188" rarity="common">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Hypnotic Swirly Disc (HELL)</name>
+      <text>Whenever you crank Hypnotic Swirly Disc, target player mills X cards, where X is the number of creatures you control.</text>
+      <prop>
+        <layout>normal</layout>
+        <type>Artifact — Contraption</type>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <side>front</side>
+      </prop>
+      <set uuid="13d193e9-8bcd-452e-a7d8-37b519b6c2b5" muid="439578" num="189" rarity="rare">UST</set>
       <tablerow>1</tablerow>
     </card>
   </cards>
