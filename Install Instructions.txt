@@ -1,4 +1,7 @@
 1) In Cockatrice, open Card Database -> Open custom image folder, and copy the Hellbox Art folder into it, allowing it to replace any existing files
 2) Open Card Database -> Open custom sets folder, and delete all existing Hellbox files if they exist
 3) Open Card Database -> Add custom set/cards and select Hellbox Cardlist.xml to add
-4) Look at Extra Deck Cardlist to view all available extra deck cards and how to play them
+
+To play:
+One person loads the Hellbox Decklist (contains all main deck cards)
+Every other player loads the Hellbox Extra Decklist (contains all extra deck cards)
