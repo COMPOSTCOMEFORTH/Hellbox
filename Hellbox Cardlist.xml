@@ -14125,5 +14125,31 @@ This creature cannot attack.</text>
       <set muid="439576" uuid="30dc6c38-18e7-44b1-91d0-dfa1acdb4106" rarity="mythic" num="187">HELL</set>
       <tablerow>1</tablerow>
     </card>
+    <card>
+      <name>Head Banger (HELL)</name>
+      <text>Whenever you crank Head Banger, target creature must be blocked this turn if able.</text>
+      <prop>
+        <layout>normal</layout>
+        <type>Artifact — Contraption</type>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <side>front</side>
+      </prop>
+      <set uuid="32c3fc99-227b-402e-9b33-07bbec9a7699" muid="439577" num="188" rarity="common">HELL</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Hypnotic Swirly Disc (HELL)</name>
+      <text>Whenever you crank Hypnotic Swirly Disc, target player mills X cards, where X is the number of creatures you control.</text>
+      <prop>
+        <layout>normal</layout>
+        <type>Artifact — Contraption</type>
+        <maintype>Contraption</maintype>
+        <cmc>0</cmc>
+        <side>front</side>
+      </prop>
+      <set uuid="13d193e9-8bcd-452e-a7d8-37b519b6c2b5" muid="439578" num="189" rarity="rare">UST</set>
+      <tablerow>1</tablerow>
+    </card>
   </cards>
 </cockatrice_carddatabase>
