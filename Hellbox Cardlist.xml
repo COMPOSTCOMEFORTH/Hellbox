@@ -10,15 +10,15 @@
   <cards>
   <card>
       <name>Absolute Annihilation (HELL)</name>
-      <text>Perpetually remove target permanent from the game. 
+      <text>Perpetually remove target permanent or spell from the game.
 Exile Absolute Annihilation.</text>
       <prop>
-        <maintype>Sorcery</maintype>
+        <maintype>Instant</maintype>
         <cmc>7</cmc>
         <manacost>4CCC</manacost>
         <side>front</side>
         <layout>normal</layout>
-        <type>Sorcery</type>
+        <type>Instant</type>
       </prop>
       <set>HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
@@ -3064,12 +3064,12 @@ All Chorus cards you own intensify by 1.</text>
     </card>
     <card>
       <name>In Perpetuity (HELL)</name>
-      <text>Target card you control perpetually gains any continuous effects that are affecting it.
+      <text>Target permanent, spell, or card in a graveyard perpetually gains any continuous effects that are affecting it.
 Exile In Perpetuity.</text>
       <prop>
         <maintype>Instant</maintype>
         <cmc>3</cmc>
-        <manacost>UUUU</manacost>
+        <manacost>UUU</manacost>
         <side>front</side>
 		<coloridentity>U</coloridentity>
         <layout>normal</layout>
