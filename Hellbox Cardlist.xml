@@ -4430,7 +4430,7 @@ When Chittering Skullspeaker enters, cards you own named Chittering Skullspeaker
     <card>
       <name>Cursecloth Wrappings (HELL)</name>
       <text>Zombies you control get +1/+1.
-{T}: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. (Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)</text>
+{T}: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost.</text>
       <prop>
         <colors>B</colors>
         <type>Artifact</type>
@@ -7025,6 +7025,21 @@ At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target 
       <set num="103" rarity="rare" muid="439760" uuid="41e4fe86-281d-4174-bb72-ac5bb9560b7e">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Full Throttle (HELL)</name>
+      <text>After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.</text>
+      <prop>
+        <colors>R</colors>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <cmc>6</cmc>
+        <manacost>4RR</manacost>
+      </prop>
+      <set num="103" rarity="rare" muid="439760" uuid="d91f7cad-89e8-45cb-a78e-b35b0ee64783">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Gornog, the Red Reaper (HELL)</name>
