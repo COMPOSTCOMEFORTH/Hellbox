@@ -3560,25 +3560,6 @@ Create seven 0/1 blue Frog creature tokens with Submerge.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Pool Resources (HELL)</name>
-      <text>Gift a tapped Fish
-Draw two cards. If the gift was promised, seek two nonland cards instead.</text>
-      <prop>
-        <manacost>2U</manacost>
-        <type>Instant</type>
-        <colors>U</colors>
-        <maintype>Instant</maintype>
-        <coloridentity>U</coloridentity>
-        <layout>normal</layout>
-        <side>front</side>
-        <cmc>3</cmc>
-      </prop>
-      <set num="6" rarity="uncommon" uuid="0fb016bd-8933-4f78-9ea0-5b9f08021556">HELL</set>
-	  <related>Fish Token  </related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
 	<card>
       <name>Preordain (HELL)</name>
       <text>Scry 2, then draw a card.</text>
@@ -3637,6 +3618,20 @@ When Really Charming Prince enters the battlefield, choose one of the following 
       <related>Fish Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Repurposing Bay (HELL)</name>
+      <text>{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+      <prop>
+        <colors>U</colors>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>3</cmc>
+        <manacost>2U</manacost>
+      </prop>
+      <set muid="479421" rarity="rare" num="84" uuid="0cf1ace1-b7f5-4bd9-a494-ee7cb6c1f854">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Richard Garfield, Ph.D. (HELL)</name>
@@ -9733,6 +9728,23 @@ Whenever enchanted creature deals combat damage to an opponent, it deals that mu
       </prop>
       <set rarity="common" num="999-QC" uuid="2fae8698-5cbc-4346-8989-f654520a58c4">HELL</set>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Rampaging Aetherhood (HELL)</name>
+      <text>Trample, ward {2}
+At the beginning of your upkeep, you get an amount of {E} equal to this creature's power. Then you may pay one or more {E}. If you do, put that many +1/+1 counters on this creature.</text>
+      <prop>
+        <colors>G</colors>
+        <type>Creature — Snake Hydra</type>
+        <maintype>Creature</maintype>
+        <cmc>5</cmc>
+        <manacost>4G</manacost>
+        <pt>4/4</pt>
+      </prop>
+      <set muid="665304" rarity="mythic" num="3" uuid="bd923b84-067b-4041-a0f8-e2083e0debe9">HELL</set>
+	  <related>Energy Reserve</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Rancor (HELL)</name>

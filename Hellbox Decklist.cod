@@ -559,7 +559,6 @@
 		<card number="1" name="Long Elk (HELL)"/>
 		<card number="1" name="Marshland Hordemaster (HELL)"/>
 		<card number="1" name="Cottontail Caretaker (HELL)"/>
-		<card number="1" name="Pool Resources (HELL)"/>
 		<card number="1" name="Chittering Skullspeaker (HELL)"/>
 		<card number="1" name="Darkstar Banisher (HELL)"/>
 		<card number="1" name="Leaf-Leap Guide (HELL)"/>
@@ -668,6 +667,8 @@
 		<card number="1" name="Fang-Druid Summoner (HELL)"/>
 		<card number="1" name="Full Throttle (HELL)"/>
 		<card number="1" name="Ketramose, the New Dawn (HELL)"/>
+		<card number="1" name="Rampaging Aetherhood (HELL)"/>
+		<card number="1" name="Repurposing Bay (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
