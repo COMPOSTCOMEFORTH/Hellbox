@@ -13744,6 +13744,23 @@ Equip {2}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Aetherspark (HELL)</name>
+      <text>As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has "Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark."
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.</text>
+      <prop>
+        <type>Legendary Artifact Planeswalker — Equipment</type>
+        <maintype>Planeswalker</maintype>
+        <cmc>4</cmc>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set num="3" rarity="mythic" uuid="05690d52-06c4-40b1-8360-380418a83250">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Umezawa's Jitte (HELL)</name>
       <text>Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
 Remove a charge counter from Umezawa's Jitte: Choose one —
