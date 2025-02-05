@@ -4427,6 +4427,21 @@ When Chittering Skullspeaker enters, cards you own named Chittering Skullspeaker
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
     </card>
+    <card>
+      <name>Cursecloth Wrappings (HELL)</name>
+      <text>Zombies you control get +1/+1.
+{T}: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. (Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)</text>
+      <prop>
+        <colors>B</colors>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>4</cmc>
+        <manacost>2BB</manacost>
+      </prop>
+      <set num="9" rarity="uncommon" uuid="d5803b32-4a81-46c2-9b10-3198a709611d">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
 	<card>
       <name>Custom Tutor (HELL)</name>
       <text>Reveal a custom card from outside the game. The owner of the box votes for add or skip. If add gets more votes, add that card to your hand. If skip gets more votes or the vote is tied, draw a card.
