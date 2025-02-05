@@ -12271,6 +12271,24 @@ Whenever Satya, Aetherflux Genius attacks, create a tapped and attacking token t
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Samut, the Driving Force (HELL)</name>
+      <text>First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.</text>
+      <prop>
+        <colors>GRW</colors>
+        <type>Legendary Creature — Human Warrior Cleric</type>
+        <maintype>Creature</maintype>
+        <cmc>6</cmc>
+        <manacost>3RGW</manacost>
+        <pt>4/5</pt>
+      </prop>
+      <set num="200" rarity="rare" muid="386666" uuid="227036a1-7570-4657-9c0a-635dd6d889e9">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Siege Rhino (HELL)</name>
       <text>Trample
 When Siege Rhino enters, each opponent loses 3 life and you gain 3 life.</text>
