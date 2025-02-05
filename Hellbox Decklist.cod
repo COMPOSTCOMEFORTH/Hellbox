@@ -671,6 +671,7 @@
 		<card number="1" name="Repurposing Bay (HELL)"/>
 		<card number="1" name="Samut, the Driving Force (HELL)"/>
 		<card number="1" name="The Aetherspark (HELL)"/>
+		<card number="1" name="The Last Ride (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

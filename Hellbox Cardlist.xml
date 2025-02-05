@@ -6389,6 +6389,23 @@ Crew 3</text>
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>The Last Ride (HELL)</name>
+      <text>The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2</text>
+      <prop>
+        <colors>B</colors>
+        <type>Legendary Artifact — Vehicle</type>
+        <maintype>Artifact</maintype>
+        <cmc>1</cmc>
+        <manacost>B</manacost>
+        <pt>13/13</pt>
+      </prop>
+      <set uuid="9cbb7b4e-bd32-44a0-9396-16738c5e4381" muid="439463" rarity="mythic" num="74">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Thorn of the Black Rose (HELL)</name>
       <text>Deathtouch
 When Thorn of the Black Rose enters, you become the monarch.</text>
