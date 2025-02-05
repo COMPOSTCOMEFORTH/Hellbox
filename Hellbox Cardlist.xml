@@ -12815,6 +12815,21 @@ Retrace</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Aetherflux Conduit (HELL)</name>
+      <text>Whenever you cast a spell, you get an amount of {E} equal to the amount of mana spent to cast that spell.
+{T}, Pay fifty {E}: Draw seven cards. You may cast any number of spells from your hand without paying their mana costs.</text>
+      <prop>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>6</cmc>
+        <manacost>6</manacost>
+      </prop>
+      <set num="192" rarity="rare" muid="417765" uuid="dd9ac0f2-2d8f-40fc-97fb-d6e05633405d">HELL</set>
+	  <related>Energy Reserve</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Aetherflux Reservoir (HELL)</name>
       <text>Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
 Pay 50 life: Aetherflux Reservoir deals 50 damage to any target.</text>

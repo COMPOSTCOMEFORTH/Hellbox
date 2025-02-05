@@ -662,6 +662,7 @@
 		<card number="1" name="Alphamon (HELL)"/>
 		<card number="1" name="Megadramon (HELL)"/>
 		<card number="1" name="Raijinmon (HELL)"/>
+		<card number="1" name="Aetherflux Conduit (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>
