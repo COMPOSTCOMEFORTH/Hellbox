@@ -8845,6 +8845,22 @@ When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scio
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Fang-Druid Summoner (HELL)</name>
+      <text>Reach
+When this creature enters, you may search your library and/or graveyard for a creature card with no abilities, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
+      <prop>
+        <colors>G</colors>
+        <type>Creature — Ape Druid</type>
+        <maintype>Creature</maintype>
+        <cmc>4</cmc>
+        <manacost>3G</manacost>
+        <pt>2/4</pt>
+      </prop>
+	  <set rarity="common" num="206" uuid="496442f6-48c7-464e-bcf3-4c14f49fa065">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Fog (HELL)</name>
       <text>Prevent all combat damage that would be dealt this turn.</text>
       <prop>
