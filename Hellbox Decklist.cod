@@ -559,7 +559,6 @@
 		<card number="1" name="Long Elk (HELL)"/>
 		<card number="1" name="Marshland Hordemaster (HELL)"/>
 		<card number="1" name="Cottontail Caretaker (HELL)"/>
-		<card number="1" name="Pool Resources (HELL)"/>
 		<card number="1" name="Chittering Skullspeaker (HELL)"/>
 		<card number="1" name="Darkstar Banisher (HELL)"/>
 		<card number="1" name="Leaf-Leap Guide (HELL)"/>
@@ -642,6 +641,7 @@
 		<card number="1" name="Greymon (X Antibody) (HELL)"/>
 		<card number="1" name="Growlmon (X Antibody) (HELL)"/>
 		<card number="1" name="Maycrackmon - Vicious Mode (HELL)"/>
+		<card mumber="1" name="Nissa, Worldsoul Speaker (HELL)"/>
 		<card number="1" name="Fishing Pole (HELL)"/>
 		<card number="1" name="Valkyrie's Call (HELL)"/>
 		<card number="1" name="Lunar Insight (HELL)"/>
@@ -661,6 +661,17 @@
 		<card number="1" name="Alphamon (HELL)"/>
 		<card number="1" name="Megadramon (HELL)"/>
 		<card number="1" name="Raijinmon (HELL)"/>
+		<card number="1" name="Aetherflux Conduit (HELL)"/>
+		<card number="1" name="Country Roads (HELL)"/>
+		<card number="1" name="Cursecloth Wrappings (HELL)"/>
+		<card number="1" name="Fang-Druid Summoner (HELL)"/>
+		<card number="1" name="Full Throttle (HELL)"/>
+		<card number="1" name="Ketramose, the New Dawn (HELL)"/>
+		<card number="1" name="Rampaging Aetherhood (HELL)"/>
+		<card number="1" name="Repurposing Bay (HELL)"/>
+		<card number="1" name="Samut, the Driving Force (HELL)"/>
+		<card number="1" name="The Aetherspark (HELL)"/>
+		<card number="1" name="The Last Ride (HELL)"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sundering Fork"/>

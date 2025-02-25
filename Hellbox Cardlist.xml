@@ -3560,25 +3560,6 @@ Create seven 0/1 blue Frog creature tokens with Submerge.</text>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Pool Resources (HELL)</name>
-      <text>Gift a tapped Fish
-Draw two cards. If the gift was promised, seek two nonland cards instead.</text>
-      <prop>
-        <manacost>2U</manacost>
-        <type>Instant</type>
-        <colors>U</colors>
-        <maintype>Instant</maintype>
-        <coloridentity>U</coloridentity>
-        <layout>normal</layout>
-        <side>front</side>
-        <cmc>3</cmc>
-      </prop>
-      <set num="6" rarity="uncommon" uuid="0fb016bd-8933-4f78-9ea0-5b9f08021556">HELL</set>
-	  <related>Fish Token  </related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
 	<card>
       <name>Preordain (HELL)</name>
       <text>Scry 2, then draw a card.</text>
@@ -3637,6 +3618,20 @@ When Really Charming Prince enters the battlefield, choose one of the following 
       <related>Fish Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Repurposing Bay (HELL)</name>
+      <text>{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+      <prop>
+        <colors>U</colors>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>3</cmc>
+        <manacost>2U</manacost>
+      </prop>
+      <set muid="479421" rarity="rare" num="84" uuid="0cf1ace1-b7f5-4bd9-a494-ee7cb6c1f854">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Richard Garfield, Ph.D. (HELL)</name>
@@ -4426,6 +4421,21 @@ When Chittering Skullspeaker enters, cards you own named Chittering Skullspeaker
       <set num="9" rarity="uncommon" uuid="5ac04d21-2610-4974-a2b3-087707bb3ccc">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cursecloth Wrappings (HELL)</name>
+      <text>Zombies you control get +1/+1.
+{T}: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost.</text>
+      <prop>
+        <colors>B</colors>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>4</cmc>
+        <manacost>2BB</manacost>
+      </prop>
+      <set num="9" rarity="uncommon" uuid="d5803b32-4a81-46c2-9b10-3198a709611d">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
     </card>
 	<card>
       <name>Custom Tutor (HELL)</name>
@@ -6379,6 +6389,23 @@ Crew 3</text>
 	  <tablerow>3</tablerow>
     </card>
     <card>
+      <name>The Last Ride (HELL)</name>
+      <text>The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2</text>
+      <prop>
+        <colors>B</colors>
+        <type>Legendary Artifact — Vehicle</type>
+        <maintype>Artifact</maintype>
+        <cmc>1</cmc>
+        <manacost>B</manacost>
+        <pt>13/13</pt>
+      </prop>
+      <set uuid="9cbb7b4e-bd32-44a0-9396-16738c5e4381" muid="439463" rarity="mythic" num="74">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Thorn of the Black Rose (HELL)</name>
       <text>Deathtouch
 When Thorn of the Black Rose enters, you become the monarch.</text>
@@ -7010,6 +7037,21 @@ At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target 
       <set num="103" rarity="rare" muid="439760" uuid="41e4fe86-281d-4174-bb72-ac5bb9560b7e">HELL</set>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Full Throttle (HELL)</name>
+      <text>After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.</text>
+      <prop>
+        <colors>R</colors>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <cmc>6</cmc>
+        <manacost>4RR</manacost>
+      </prop>
+      <set num="103" rarity="rare" muid="439760" uuid="d91f7cad-89e8-45cb-a78e-b35b0ee64783">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>3</tablerow>
     </card>
     <card>
       <name>Gornog, the Red Reaper (HELL)</name>
@@ -8830,6 +8872,22 @@ When you cast Emrakul and Chatterfang, create 15 1/1 green Eldrazi Squirrel Scio
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Fang-Druid Summoner (HELL)</name>
+      <text>Reach
+When this creature enters, you may search your library and/or graveyard for a creature card with no abilities, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
+      <prop>
+        <colors>G</colors>
+        <type>Creature — Ape Druid</type>
+        <maintype>Creature</maintype>
+        <cmc>4</cmc>
+        <manacost>3G</manacost>
+        <pt>2/4</pt>
+      </prop>
+	  <set rarity="common" num="206" uuid="496442f6-48c7-464e-bcf3-4c14f49fa065">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Fog (HELL)</name>
       <text>Prevent all combat damage that would be dealt this turn.</text>
       <prop>
@@ -9486,6 +9544,26 @@ Spells you cast have booster cascade. (It's like cascade, but use your booster p
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Nissa, Worldsoul Speaker (HELL)</name>
+      <text>Landfall — Whenever a land you control enters, you get {E}{E}.
+You may pay eight {E} rather than pay the mana cost for permanent spells you cast.</text>
+      <prop>
+        <layout>normal</layout>
+        <colors>G</colors>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+        <cmc>4</cmc>
+        <type>Legendary Creature — Elf Druid</type>
+        <manacost>3G</manacost>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <set uuid="a471b306-4941-4e46-a0cb-d92895c16f8a" rarity="rare" num="13">HELL</set>
+	  <related>Energy Reserve</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Noxious Fumes (HELL)</name>
       <text>At the beginning of your upkeep, each opponent gets two poison counters.</text>
       <prop>
@@ -9667,6 +9745,23 @@ Whenever enchanted creature deals combat damage to an opponent, it deals that mu
       </prop>
       <set rarity="common" num="999-QC" uuid="2fae8698-5cbc-4346-8989-f654520a58c4">HELL</set>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Rampaging Aetherhood (HELL)</name>
+      <text>Trample, ward {2}
+At the beginning of your upkeep, you get an amount of {E} equal to this creature's power. Then you may pay one or more {E}. If you do, put that many +1/+1 counters on this creature.</text>
+      <prop>
+        <colors>G</colors>
+        <type>Creature — Snake Hydra</type>
+        <maintype>Creature</maintype>
+        <cmc>5</cmc>
+        <manacost>4G</manacost>
+        <pt>4/4</pt>
+      </prop>
+      <set muid="665304" rarity="mythic" num="3" uuid="bd923b84-067b-4041-a0f8-e2083e0debe9">HELL</set>
+	  <related>Energy Reserve</related>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Rancor (HELL)</name>
@@ -11543,6 +11638,23 @@ Choose one at random. Create a copy of the chosen card. You may cast the copy wi
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Ketramose, the New Dawn (HELL)</name>
+      <text>Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.</text>
+      <prop>
+        <colors>BW</colors>
+        <type>Legendary Creature — God</type>
+        <maintype>Creature</maintype>
+        <cmc>3</cmc>
+        <manacost>1WB</manacost>
+        <pt>4/4</pt>
+      </prop>
+      <set num="2" rarity="mythic" uuid="3c8a81bf-f63c-40ca-a4da-db68df3f3e1a">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Kianne, Corrupted Memory (HELL)</name>
       <text>As long as Kianne's power is even, you may cast noncreature spells as though they had flash.
 As long as Kianne's power is odd, you may cast creature spells as though they had flash.
@@ -12176,6 +12288,24 @@ Whenever Satya, Aetherflux Genius attacks, create a tapped and attacking token t
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Samut, the Driving Force (HELL)</name>
+      <text>First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.</text>
+      <prop>
+        <colors>GRW</colors>
+        <type>Legendary Creature — Human Warrior Cleric</type>
+        <maintype>Creature</maintype>
+        <cmc>6</cmc>
+        <manacost>3RGW</manacost>
+        <pt>4/5</pt>
+      </prop>
+      <set num="200" rarity="rare" muid="386666" uuid="227036a1-7570-4657-9c0a-635dd6d889e9">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Siege Rhino (HELL)</name>
       <text>Trample
 When Siege Rhino enters, each opponent loses 3 life and you gain 3 life.</text>
@@ -12791,6 +12921,21 @@ Retrace</text>
         <cmc>1</cmc>
       </prop>
       <set num="298" rarity="rare" muid="571631" uuid="11e8d2fd-b132-4807-9410-8edeffa519ed">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Aetherflux Conduit (HELL)</name>
+      <text>Whenever you cast a spell, you get an amount of {E} equal to the amount of mana spent to cast that spell.
+{T}, Pay fifty {E}: Draw seven cards. You may cast any number of spells from your hand without paying their mana costs.</text>
+      <prop>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>6</cmc>
+        <manacost>6</manacost>
+      </prop>
+      <set num="192" rarity="rare" muid="417765" uuid="dd9ac0f2-2d8f-40fc-97fb-d6e05633405d">HELL</set>
+	  <related>Energy Reserve</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>1</tablerow>
     </card>
@@ -13616,6 +13761,23 @@ Equip {2}</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Aetherspark (HELL)</name>
+      <text>As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has "Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark."
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.</text>
+      <prop>
+        <type>Legendary Artifact Planeswalker — Equipment</type>
+        <maintype>Planeswalker</maintype>
+        <cmc>4</cmc>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set num="3" rarity="mythic" uuid="05690d52-06c4-40b1-8360-380418a83250">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
       <name>Umezawa's Jitte (HELL)</name>
       <text>Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
 Remove a charge counter from Umezawa's Jitte: Choose one —
@@ -13714,6 +13876,21 @@ When Bojuka Bog enters, exile target player's graveyard.
         <cmc>0</cmc>
       </prop>
       <set num="301" rarity="mythic" muid="526272" uuid="e1efb0d3-2c72-46ff-bdc1-1069967365a0">HELL</set>
+	  <related attach="transform">Omni-Land (HELL)</related>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Country Roads (HELL)</name>
+      <text>This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {W}.
+{1}{W}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with "This token saddles Mounts and crews Vehicles as though its power were 2 greater." Activate only as a sorcery.</text>
+      <prop>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <cmc>0</cmc>
+      </prop>
+      <set num="301" rarity="mythic" muid="526272" uuid="897acd91-12ba-4fa8-a26e-c09f009167a8">HELL</set>
+	  <related>Pilot Token</related>
 	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>0</tablerow>
     </card>
